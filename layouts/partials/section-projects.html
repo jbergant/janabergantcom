@@ -1,0 +1,54 @@
+{{ if .Site.Params.storitve.enable }}
+<!-- begin projects -->
+<section class="section projects" id="projects">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="contaniner__inner animate">
+
+          <div class="section__info">
+            <div class="section__head">
+              <h2 class="section__title">{{ .Site.Params.storitve.projects__title | safeHTML }}</h2>
+              <a class="section__link" href="/storitve">Poglej vse <i class="ion ion-md-arrow-forward"></i></a>
+            </div>
+            {{ if .Site.Params.storitve.projects__description }}
+              <p class="section__description">{{ .Site.Params.storitve.projects__description }}</p>
+            {{ end }}
+            {{ if .Site.Params.storitve.projects__sub_description }}
+            <p class="section__description">{{ .Site.Params.storitve.projects__sub_description }}</p>
+          {{ end }}
+          </div>
+
+          <div class="row">
+            {{ range (where .Site.RegularPages "Section" "storitve" | first 3 ) }}
+
+            <div class="article col col-4 col-d-6 col-t-12">
+              <div class="article__inner">
+            
+                {{ if .Params.Image }}
+                  <div class="image-wrap">
+                    <a class="article__image" href="{{ .RelPermalink }}">
+                      <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Params.Title }}">
+                    </a>
+                  </div>
+                {{ end }}
+            
+                <div class="article__home_content">
+                  <h2 class="article__title">
+                    <a href="{{ .RelPermalink }}">{{ .Params.title }}</a>
+                  </h2>
+                  <p class="article__home_excerpt">{{ .Params.short_desc }}</p>            
+                </div>
+              </div>
+            </div>
+
+            {{ end }}
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end projects -->
+{{ end }}
