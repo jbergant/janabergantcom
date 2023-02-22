@@ -1,0 +1,88 @@
+<!-- begin hero -->
+<section class="hero">
+    <div class="container">
+      <div class="row">
+        <div class="col col-12">
+          <div class="hero__inner">
+            <div class="hero__left">
+              <h1 class="hero__name">{{ .Params.hero_header }}</h1>
+              <p class="hero__bio">{{ .Params.hero_subheader | markdownify }}</p>
+            </div>
+  
+            <div class="hero__right">
+              <div class="hero__image">
+                <img class="lazy" data-src="{{ .Params.hero_image }}" alt="{{.Params.hero_image}}">
+              </div>
+            </div>
+  
+          </div>
+
+          <div class="article_button">
+            <form class="form" action="https://calendly.com/hipnoterapija/spoznavniklic" method="GET" target="_blank">
+                <button class="button button--middle" type="submit">Spoznavni klic <i class="ion ion-ios-paper-plane"></i></button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+<section class="hero herobenefits">
+    <div class="container">
+      <div class="row">
+        <div class="col col-12">
+          <div class="contaniner__inner animate">
+            <div class="row heroarticle__inner" >            
+                <div class="image-wrap col col-4 col-d-6 col-t-12">
+                    <div class="heroarticle__image">
+                        <img class="lazy" data-src="{{ .Params.subhero_1_Image | absURL }}" alt="{{ .Params.subhero_1_Title }}">  
+                    </div>   
+                </div>  
+
+                <div class="heroarticle__home_content col col-8 col-d-6 col-t-12">
+                <h2 class="heroarticle__title">
+                    {{ .Params.subhero_1_title }}
+                </h2>
+                <p class="heroarticle__home_excerpt">{{ .Params.subhero_1_short_desc | markdownify }}</p>            
+              </div>
+            </div>
+
+
+            <div class="row heroarticle__inner" >   
+                <div class="heroarticle__home_content col col-8 col-d-6 col-t-12">
+                    <h2 class="heroarticle__title">
+                        {{ .Params.subhero_2_title }}
+                    </h2>
+                    <p class="heroarticle__home_excerpt">{{ .Params.subhero_2_short_desc | markdownify }}</p>            
+              </div>         
+                <div class="image-wrap col col-4 col-d-6 col-t-12">
+                    <div class="heroarticle__image">
+                        <img class="lazy" data-src="{{ .Params.subhero_2_Image | absURL }}" alt="{{ .Params.subhero_2_Title }}">  
+                    </div>   
+                </div>  
+            </div>
+  
+            <div class="row heroarticle__inner" >            
+                <div class="image-wrap col col-4 col-d-6 col-t-12">
+                    <div class="heroarticle__image">
+                        <img class="lazy" data-src="{{ .Params.subhero_3_Image | absURL }}" alt="{{ .Params.subhero_3_Title }}">  
+                    </div>   
+                </div>  
+
+                <div class="heroarticle__home_content col col-8 col-d-6 col-t-12">
+                <h2 class="heroarticle__title">
+                    {{ .Params.subhero_3_title }}
+                </h2>
+                <p class="heroarticle__home_excerpt">{{ .Params.subhero_3_short_desc | markdownify }}</p> 
+                <div class="hero__btn">
+                    <form class="form" action="https://calendly.com/hipnoterapija/spoznavniklic" method="GET" target="_blank">
+                        <button class="button button--middle" type="submit">Spoznavni klic <i class="ion ion-ios-paper-plane"></i></button>
+                    </form>
+                  </div>           
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>

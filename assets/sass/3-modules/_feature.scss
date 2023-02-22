@@ -1,0 +1,29 @@
+/* hero */
+.feature {
+    padding: 96px 0;
+    background-image: url("/images/background/portal-another-dimension.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+  
+    @media only screen and (max-width: $desktop) {
+      padding: 80px 0;
+    }
+  
+    @media only screen and (max-width: $tablet) {
+       padding: 40px 0 80px;
+    }
+  
+    @media only screen and (max-width: $mobile) {
+      padding: 30px 0 60px;
+    }
+  }
+
+
+.featurebox {
+    margin: 10px 0px;
+    padding: 10px;
+    min-height: 340px;
+    border: 1px solid #EEEEEE;
+    background-color: #FFF;
+  
+}

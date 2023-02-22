@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+<div class="containerxxx">
+
+    <div class="page-head">
+        <h1 class="page-title">{{ .Title }}</h1>
+        {{ if .Params.subtitle }}
+          <p class="project-subtitle">{{ .Params.subtitle  | markdownify }}</p>
+        {{ end }}
+        {{ if .Params.addCallCTA }}
+        <div class="article_button">
+          <form class="form" action="https://calendly.com/hipnoterapija/spoznavniklic" method="GET" target="_blank">
+              <button class="button button--middle" type="submit">Spoznavni klic <i class="ion ion-ios-paper-plane"></i></button>
+          </form>
+          </div>
+        {{ end }}    
+    </div>
+
+    {{ partial "section-hero.html" . }}  
+    {{ partial "key-features.html" . }}  
+    {{ partial "social-proof.html" . }}  
+    {{ partial "aida-call.html" . }}  
+
+
+
+  <div class="project-content">
+    {{ .Content }}
+  </div>
+
+</div>
+
+{{ end }}

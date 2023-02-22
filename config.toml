@@ -2,7 +2,7 @@
 # General Site Settings
 baseURL = "https://janabergant.com/"
 languageCode = "sl-si"
-title = "Hipnoterapija"
+title = "Hipnoterapija z Jano"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 6
 
@@ -27,29 +27,21 @@ paginate = 6
 
     [[menu.main]]
     parent = "Storitve"
-    name = "Hipnoza za spanje"
-    url = "/storitve/hipnoza-za-spanje/"
+    name = "Hipnoterapija za spanje"
+    url = "/hipnoterapija-za-spanje/"
     weight = 2
 
     [[menu.main]]
     parent = "Storitve"
-    name = "Hipnoza za hujšanje"
-    url = "/storitve/hipnoza-za-hujsanje/"
+    name = "Hipnoterapija za hujšanje"
+    url = "/hipnoterapija-za-hujsanje/"
     weight = 2
 
     [[menu.main]]
     parent = "Storitve"
-    name = "Hipnoza za samozavest"
-    url = "/storitve/hipnoza-za-samozavest/"
+    name = "Hipnoterapija za samozavest"
+    url = "/hipnoterapija-za-samozavest/"
     weight = 2
-
-
-
-  [[menu.main]]
-    identifier = "blog"
-    name = "Članki"
-    url = "/clanki/"
-    weight = 4
 
   [[menu.main]]
     name = "O hipnoterapiji"
@@ -92,21 +84,21 @@ paginate = 6
   [params.testimonials]
     enable = true
     testimonial__title = "Zadovoljne <span class='text-span'>stranke</span>" # Add a 'text-span' class to highlight text.
-    testimonial__description = ""
+    testimonial__description = "Kakšne so izkušnje strank"
 
-  [[params.testimonial_item]]
+  [[params.hhtestimonial_item]]
     name = "Zaire Baptista"
     image = "https://via.placeholder.com/250x250"
     designation = "Traveler"
     content = "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-  [[params.testimonial_item]]
+  [[params.hhtestimonial_item]]
     name = "Ann Philips"
     image = "https://via.placeholder.com/250x250"
     designation = "Designer"
     content = "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-  [[params.testimonial_item]]
+  [[params.hhtestimonial_item]]
     name = "Roger Bergson"
     image = "https://via.placeholder.com/250x250"
     designation = "CEO, Founder"

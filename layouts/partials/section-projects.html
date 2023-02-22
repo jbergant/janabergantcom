@@ -1,5 +1,5 @@
-{{ if .Site.Params.storitve.enable }}
-<!-- begin projects -->
+
+
 <section class="section projects" id="projects">
   <div class="container">
     <div class="row">
@@ -8,41 +8,85 @@
 
           <div class="section__info">
             <div class="section__head">
-              <h2 class="section__title">{{ .Site.Params.storitve.projects__title | safeHTML }}</h2>
+              <h2 class="section__title">Kako ti <span class="text-span">pomagam</span></h2>
               <a class="section__link" href="/storitve">Poglej vse <i class="ion ion-md-arrow-forward"></i></a>
             </div>
-            {{ if .Site.Params.storitve.projects__description }}
-              <p class="section__description">{{ .Site.Params.storitve.projects__description }}</p>
-            {{ end }}
-            {{ if .Site.Params.storitve.projects__sub_description }}
-            <p class="section__description">{{ .Site.Params.storitve.projects__sub_description }}</p>
-          {{ end }}
+            
+              <p class="section__description">Pri delu vključujem hipnoterapijo in tehnike za izboljšanjev vzorcev spanja, pomoč pri hujšanju, tehnike za krepitve zaupanja in več.</p>
+            
+            
+            <p class="section__description">Nauči se kako hipnoterapija deluje in kako je lahko koristna za vse, ki želijo narediti pozitivne spremembe v svojem življenju.</p>
+          
           </div>
 
           <div class="row">
-            {{ range (where .Site.RegularPages "Section" "storitve" | first 3 ) }}
+            
 
             <div class="article col col-4 col-d-6 col-t-12">
               <div class="article__inner">
             
-                {{ if .Params.Image }}
+                
                   <div class="image-wrap">
-                    <a class="article__image" href="{{ .RelPermalink }}">
-                      <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Params.Title }}">
+                    <a class="article__image" href="hipnoterapija-za-spanje">
+                      <img class="lazy loaded" alt="Hinoza za spanje" data-ll-status="loaded" src="https://via.placeholder.com/1200x300">
                     </a>
                   </div>
-                {{ end }}
+                
             
                 <div class="article__home_content">
                   <h2 class="article__title">
-                    <a href="{{ .RelPermalink }}">{{ .Params.title }}</a>
+                    <a href="hipnoterapija-za-spanje">Hinoza za spanje</a>
                   </h2>
-                  <p class="article__home_excerpt">{{ .Params.short_desc }}</p>            
+                  <p class="article__home_excerpt">Sleep hypnosis helps you relax, let go of stress and overthinking, and reclaim your restful sleep.</p>            
                 </div>
               </div>
             </div>
 
-            {{ end }}
+            
+
+            <div class="article col col-4 col-d-6 col-t-12">
+              <div class="article__inner">
+            
+                
+                  <div class="image-wrap">
+                    <a class="article__image" href="hipnoterapija-za-hujsanje">
+                      <img class="lazy loaded" alt="Hipnoterapija za hujšanje" data-ll-status="loaded" src="https://via.placeholder.com/1200x300">
+                    </a>
+                  </div>
+                
+            
+                <div class="article__home_content">
+                  <h2 class="article__title">
+                    <a href="hipnoterapija-za-hujsanje">Hipnoterapija za hujšanje</a>
+                  </h2>
+                  <p class="article__home_excerpt">S hipnoterapijo za hujšanje se globoko v podzavesti naučiš boljših prehranjevalnih navad. S pomočjo hipnoterapije razviješ strategije za učinkovitejše odzive na sprožilce čustvenega prenajdanja.</p>            
+                </div>
+              </div>
+            </div>
+
+            
+
+            <div class="article col col-4 col-d-6 col-t-12">
+              <div class="article__inner">
+            
+                
+                  <div class="image-wrap">
+                    <a class="article__image" href="hipnoterapija-za-samozavest">
+                      <img class="lazy loaded" alt="Hipnoza za samozavest" data-ll-status="loaded" src="https://via.placeholder.com/1200x800">
+                    </a>
+                  </div>
+                
+            
+                <div class="article__home_content">
+                  <h2 class="article__title">
+                    <a href="hipnoterapija-za-samozavest">Hipnoza za samozavest</a>
+                  </h2>
+                  <p class="article__home_excerpt">Če iščeš pozitivno spremembo, ti lahko pomaga hipnoza za samozavest. Tranformiraj svoj notanji pogled, izostri fokus in pridobi samozaupanje.</p>            
+                </div>
+              </div>
+            </div>
+
+            
           </div>
 
         </div>
@@ -50,5 +94,3 @@
     </div>
   </div>
 </section>
-<!-- end projects -->
-{{ end }}
