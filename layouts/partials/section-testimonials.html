@@ -25,8 +25,10 @@
         <div class="testimonials__slider my-slider">
         {{ with .Site.Params.testimonial_item }}
           {{ range . }}
+
             <div class="testimonial-item">
               <div class="testimonial-content">
+
                 {{ if .content }}
                   <p class="client-text">{{ .content }}</p>
                 {{ end }}

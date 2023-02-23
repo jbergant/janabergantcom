@@ -86,17 +86,17 @@ paginate = 6
     testimonial__title = "Zadovoljne <span class='text-span'>stranke</span>" # Add a 'text-span' class to highlight text.
     testimonial__description = "Kakšne so izkušnje strank"
 
-  [[params.hhtestimonial_item]]
+  [[params.testimonial_item]]
     name = "Ana"
     image = "https://via.placeholder.com/250x250"
     content = "Samo eni seansi hipnoterapije z Jano sem prvič po več mesecih spala celo noč. Zelo sem hvaležna, da sem jo našla, in komaj čakam, da vidim rezultate po še nekaj seansah. Hvala, Jana!"
 
-  [[params.hhtestimonial_item]]
+  [[params.testimonial_item]]
     name = "Teja"
     image = "https://via.placeholder.com/250x250"
     content = "Namesto notranjega kritika me zdaj spodbuja zaveznica in mi daje oč, da se izpostavim in povem kar hočem."
 
-  [[params.hhtestimonial_item]]
+  [[params.testimonial_item]]
     name = "Sandra"
     image = "https://via.placeholder.com/250x250"
     content = "Zdaj se popolnoma sprejemam. super se počutim v svoji koži. Težav s prenajedanjam končno nimam več. Sem SVOBONA"
