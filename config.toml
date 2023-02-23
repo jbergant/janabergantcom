@@ -66,8 +66,8 @@ paginate = 6
     author__title = "Živjo, sem Jana"
     author__bio = "S hipnoterapijo ti pomagam bolje spati, shujšati in postati bolj samozavestna in opolnomočena. Na spletni strani najdeši vse, kar potrebuješ za pozitivne spremembe v svojem življenju."
     author__bio_extended = "Dovolj nespečnosti, obsedenosti s kilami ter slabe samozavesti."
-    author__image = "https://via.placeholder.com/600x600"
-    author__avatar = "https://via.placeholder.com/200x200"
+    author__image = "/images/hipnoterapija-z-jano.png"
+    author__avatar = "/images/hipnoterapija-z-jano-bergant.png"
     button__text = "Storitve"
 
 

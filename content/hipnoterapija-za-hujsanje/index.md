@@ -19,27 +19,27 @@ hero_header: Konec hujšanja enkrat in za vselej
 hero_subheader: S hipnoterapijo do zdrave teže in svobode od čustvenega prenajedanja
 hero_image: '/images/jana-hipnoterapija-za-hujsanje.png' 
 
-subhero_1_Image: 'https://via.placeholder.com/300x300' 
+subhero_1_Image: '/images/banners/trajno-v-podzavesti.png' 
 subhero_1_Title: Reprogramiraj svojo podzavest
 subhero_1_short_desc: ' Hipnoterapija pomaga prepoznati temeljni vzrok čustvenega prenajedanja in hlepenja po hrani. S hipnoterapijo reprogramiraš svojo podzavest, da sprejmeš bolj zdrave prehranjevalne navade in <strong>za vedno spremeniš način prehranjevanja.</strong> 
-<br><br>
+<br><br> 
 S hipnoterapijo se naučiš <strong>nadzorovati svoje odzive na čustvena stanja</strong>. 
 <br><br>
 V seansi se prebiješ skozi duševne blokade, ki so te ovirale pri doseganju želene teže. To pomaga zmanjšati željo po nezdravi hrani in pomaga pri ohranjanju dolgotrajne spremembe. 
 <br><br>Postaneš oseba, ki živi polno življenje in ti je hrana leše hranilo in užitek katerega pa ne izrabljaš več. In kar naenkrat hrana ni več v glavnem fokusu in ti <strong>ostane energija za vse ostalo v življenju</strong>.'
 
 
-subhero_2_Image: 'https://via.placeholder.com/300x300' 
+subhero_2_Image: '/images/banners/konec-custvenega-prenajedanja.png' 
 subhero_2_Title: Konec s čustvenim prenajedanjem
-subhero_2_short_desc: 'Veliko ljudi se spopada s čustvenim prenajedanjem, kar je <strong>težko premagati samo z voljo</strong>. <br><br>Čustveno prenajedanje je zatekanje k hrani v času čustvenih nihanj, ki pa niso nujno samo negativna. Osebe nagnnjene k čustvenemu prenajedanju se lahko zatekajo v hrano ko jim je dolgčas, so utrujeni, jezni, osamljeni ali pa jim gre dobro, jim kaj uspe in bi se nagradili. 
+subhero_2_short_desc: 'Veliko ljudi se spopada s čustvenim prenajedanjem, kar je <strong>težko premagati samo z voljo</strong>. <br><br>Čustveno prenajedanje je zatekanje k hrani v času čustvenih nihanj, ki pa niso nujno samo negativna. Osebe nagnnjene k čustvenemu prenajedanju se lahko zatekajo v hrano ko jim je dolgčas, so utrujeni, jezni, osamljeni ali pa jim gre dobro, jim kaj uspe in bi se nagradili.
 <br><br>Hipnoterapija <strong>pomaga prepoznati in obravnavati čustvene težave</strong>, ki prispevajo k prenajedanju, kot so stres, anksioznost ali depresija, in <strong>razviti zdrave mehanizme obvladovanja čustev</strong>. 
 <br><br>Hipnoterapija je učinkovit način za odpravljanje temeljnih vzrokov povečanja telesne teže, kot sta čustveno prenajedanje in negativna samopodoba.'
 
-subhero_3_Image: 'https://via.placeholder.com/300x300' 
+subhero_3_Image: '/images/banners/dobra-samopodoba.png' 
 subhero_3_Title: Povečaj motivacijo in izboljšaj samopodobo
 subhero_3_short_desc: 'Hipnoterapija pomaga premagati negativen samogovor in ti pomaga prepoznati in spremeniti miselne vzorce, ki ti škodujejo. 
 <br><br>S hipnoterapijo lahko povečaš <strong>motivacijo in predanost zdravemu življenjskemu slogu</strong>. Z obravnavo temeljnih vzrokov za povečanje telesne mase, kot sta čustveno prenajedanje in negativna samopodoba, lahko začnete opažati resnične rezultate.
-<br><br> 
+<br><br>
 Poveča se zamozavest, spremeni pa se tudi samo podoba, to je kako dojemaš samega sebe. Z reprogramiranjem podzavesti s pozitivnimi afirmacijami in slikami uspeha lahko hipnoterapija pomaga, da spremeniš kako dojemaš sebe. 
 <br><br>Ko <strong>vidiš/dojemaš sebe kot osebo, ki skrbi zase, ki uživa v zdravi hrani in normalnih količinah, poleg tega pa se še rada giblje, postane sprememba trajna</strong>. Naredi trajno spremembo s hipnoterapijo še danes in se naroči na pogovor.'
 
