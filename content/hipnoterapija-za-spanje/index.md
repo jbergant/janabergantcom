@@ -23,7 +23,6 @@ Pomembno je vedeti, da čeprav je hipnoterapija lahko koristno orodje za izbolj�
 '
 
 short_desc: Če iščete naraven način za premagovanje nespečnosti, je hipnoterapija pravi odgovor. Jana Bergant je certificirana hipnoterapevtka, ki ti pomaga do spanca, ki ga potrebuješ in si ga zaslužiš.
-image: 'https://via.placeholder.com/1200x300'
 addCallCTA: true
 layout: landing
 

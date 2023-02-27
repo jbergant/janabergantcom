@@ -13,7 +13,6 @@ Ustvari novo pot zase - prijavi se zdaj in začni dvigovati svojo samozavest in 
 '
 
 short_desc: Če želiš povečati svojo samozavest in odpraviti negativni samogovor, je hipnoterapija pri Jani Bergant idealna rešitev za tebe.
-image: 'https://via.placeholder.com/1200x300'
 addCallCTA: true
 layout: landing
 

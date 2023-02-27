@@ -280,8 +280,8 @@ table td {
       height: 100%;
       width: 100%;
       object-fit: cover;
-      -webkit-filter: blur(10px);
-      filter: blur(10px);
+      -webkit-filter: blur(100px);
+      filter: blur(100px);
 
       @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
         -webkit-filter: none;

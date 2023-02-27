@@ -10,7 +10,6 @@ Preizkusil/a si že vse, ampak se zdi, da nič ne deluje dolgo. Počutiš se raz
 S hipnoterapijo greva globoko do vzorcev, ki so vzrok za tvoje težave. V seansi se obravnava in spreminja temeljna prepričanja, miselne vzorce in vedenja, ki prispevajo k čustvenemu prenajedanju in pridobivanju telesne teže. Dostop do podzavesti omogoča, da hitro in enostavno ustvariš močne spremembe v svojem življenju. Če je torej čas za pravo preobrazbo, me kontaktiraj še danes!'
 
 short_desc: S hipnoterapijo za hujšanje se globoko v podzavesti naučiš boljših prehranjevalnih navad. S pomočjo hipnoterapije razviješ strategije za učinkovitejše odzive na sprožilce čustvenega prenajdanja.
-image: 'https://via.placeholder.com/1200x300'
 addCallCTA: true
 layout: landing
 
@@ -157,14 +156,6 @@ Da, s hipnoterapijo za hujšanje so povezana nekatera tveganja. Medtem ko lahko 
 
 V rezultate usmerjen program vključuje tehnike za spoznavanje samega sebe, orodja za delo s čustvi in postopne spremembe življenjskega sloga. Na ta način končno dosežeš trajno izgubo teže. Spremembe so na globji ravni, saj spremeniva samopodobo in podzavestni program, ki te je do zdaj ustavljal.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://via.placeholder.com/800x600" alt="Project">
-    <img src="https://via.placeholder.com/800x600" alt="Project">
-    <img src="https://via.placeholder.com/800x600" alt="Project">
-  </div>
-  <em>Projects / <a href="https://via.placeholder.com/1200x800" target="_blank">Unsplash</a></em>
-</div>
 
 S kombinacijo hipnoze, menjave vzorcev, samospoznavanja in vaj za obvladovanje čustev ti pomagam raziskati globje vzroke, ki so ti onemogočali izgubo teže.
 

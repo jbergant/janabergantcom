@@ -21,14 +21,7 @@ S hipnoterapijo boste delali z usposobljenim strokovnjakom, ki vas bo vodil v st
 <br><br>
 Med sejo hipnoterapije boste imeli priložnost raziskati temeljne vzroke svojih težav in si prizadevati za rešitev, ki je prilagojena vašim edinstvenim potrebam. Naučili se boste močnih tehnik, ki vam bodo pomagale upravljati svoje misli in čustva, da boste lahko prevzeli nadzor nad svojim življenjem in dosegli svoje cilje.
 <br><br>
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://via.placeholder.com/800x600">
-    <img src="https://via.placeholder.com/800x600">
-    <img src="https://via.placeholder.com/800x600">
-  </div>
-  <em>Temeljne značilnosti hipnoterapije</a></em>
-</div>'
+'
 ---
 
 
