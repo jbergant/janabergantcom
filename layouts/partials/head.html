@@ -20,23 +20,7 @@
   <!-- Facebook OpenGraph -->
   <meta property="og:title" content="{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
-  {{ if .IsHome}}<meta property="og:image" content="{{ .Site.Params.author.author__image | absURL }}">
-  
-  <script type="text/javascript">
-  var images = [];
-  function preload() {
-      for (var i = 0; i < arguments.length; i++) {
-          images[i] = new Image();
-          images[i].src = preload.arguments[i];
-      }
-  }
-  
-  //-- usage --//
-  preload(
-      "{{ .Site.Params.author.author__image }}"
-  )
-  </script>
-  {{ else }}<meta property="og:image" content="{{ .Params.Image | absURL }}">{{ end }}
+  {{ if .IsHome}}<meta property="og:image" content="{{ .Site.Params.author.author__image | absURL }}">{{ else }}<meta property="og:image" content="{{ .Params.Image | absURL }}">{{ end }}
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com">

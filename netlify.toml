@@ -2,5 +2,15 @@
   command = "hugo"
   publish = "public"
 
+[[headers]]
+  for="/images/*"
+  [headers.values]
+  Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "public, s-max-age=604800"  
+
 [build.environment]
   HUGO_VERSION = "0.92.1"
