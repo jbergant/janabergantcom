@@ -17,7 +17,7 @@ layout: landing
 
 hero_header: Konec hujšanja enkrat in za vselej 
 hero_subheader: S hipnoterapijo do zdrave teže in svobode od čustvenega prenajedanja
-hero_image: '/images/jana-hipnoterapija-za-hujsanje.png' 
+hero_image: '/images/jana-hipnoterapija-za-hujsanje.webp' 
 
 subhero_1_Image: '/images/banners/trajno-v-podzavesti.webp' 
 subhero_1_Title: Reprogramiraj svojo podzavest
@@ -44,7 +44,7 @@ Poveča se zamozavest, spremeni pa se tudi samo podoba, to je kako dojemaš same
 <br><br>Ko <strong>vidiš/dojemaš sebe kot osebo, ki skrbi zase, ki uživa v zdravi hrani in normalnih količinah, poleg tega pa se še rada giblje, postane sprememba trajna</strong>. Naredi trajno spremembo s hipnoterapijo še danes in se naroči na pogovor.'
 
 
-features_benefits_image: '/images/janax.png'
+features_benefits_image: '/images/janax.webp'
 features_benefits_title: Glavne prednosti in značilnosti
 features_title: LASTNOSTI
 benefits_title: PREDNOSTI

@@ -20,7 +20,7 @@ layout: landing
 
 hero_header: S hipnoterapijo si povrni samozavest
 hero_subheader: Prevzemite nadzor nad svojim življenjem in odkleni svoj notranji potencial s hipnoterapijo za samozavest
-hero_image: '/images/jana-hipnoterapija-za-samozavest.png' 
+hero_image: '/images/jana-hipnoterapija-za-samozavest.webp' 
 
 
 subhero_1_Image: '/images/banners/notranji-potencial.webp' 
@@ -44,7 +44,7 @@ subhero_3_short_desc: 'Celosten in individualen pristop k hipnoterapiji za samoz
 <br><br>S  hipnoterapijo boš pridobiš samozavest in vero vase, ki ju potrebuješ za življenje, kakršnega si želiš. Ko sam sebega vidiš in dojemaš drugače, in znaš prepoznati svoje moči, <strong>postanejo spremembe dolgotrajne</strong>.'
 
 
-features_benefits_image: '/images/janax.png'
+features_benefits_image: '/images/janax.webp'
 features_benefits_title: Glavne prednosti in značilnosti
 features_title: LASTNOSTI
 benefits_title: PREDNOSTI

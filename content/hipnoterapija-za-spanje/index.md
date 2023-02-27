@@ -30,7 +30,7 @@ layout: landing
 
 hero_header: Do dobrega spanec s hipnoterapijo za spanje
 hero_subheader: Odkrij svoj polni potencial z mirnim in pomlajevalnim spancem
-hero_image: '/images/jana-hipnoterapija-za-spanje.png' 
+hero_image: '/images/jana-hipnoterapija-za-spanje.webp' 
 
 
 subhero_1_Image: '/images/banners/zdravilna-moc-spanja.webp' 
@@ -52,7 +52,7 @@ subhero_3_short_desc: 'Hipnoterapija za spanje je varen in učinkovit način za 
 <br><br>Z vsako seanso se boš počutil bolj sproščeno in bosš lahko užival v globljem in bolj mirnem spancu.'
 
 
-features_benefits_image: '/images/janax.png'
+features_benefits_image: '/images/janax.webp'
 features_benefits_title: Glavne prednosti in značilnosti
 features_title: LASTNOSTI
 benefits_title: PREDNOSTI

@@ -2,7 +2,7 @@
 title: Hipnoterapija
 Metatitle: Kaj je hipnoterapija?
 description: Hipnoterapija je učinkovita oblika terapije, ki vam lahko pomaga pri premagovanju različnih težav. V tem članku boste našli odgovore na nekatera pogosta vprašanja o hipnoterapiji.
-image: '/images/hipnoterapija.png'
+image: '/images/hipnoterapija.webp'
 layout: pillar
 vsebina: 'Hipnoterapija je močno orodje, ki ti lahko pomaga priti do podzavesti in narediti trajne spremembe v življenju. Hipnoterapija je varen in naraven način za dostop do delov uma, ki nadzorujejo navade, prepričanja in vedenje.
 <br><br>
