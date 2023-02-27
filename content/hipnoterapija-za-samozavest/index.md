@@ -23,21 +23,21 @@ hero_subheader: Prevzemite nadzor nad svojim življenjem in odkleni svoj notranj
 hero_image: '/images/jana-hipnoterapija-za-samozavest.png' 
 
 
-subhero_1_Image: '/images/banners/notranji-potencial.png' 
+subhero_1_Image: '/images/banners/notranji-potencial.webp' 
 subhero_1_Title: Odkleni svoj notranji potencial
 subhero_1_short_desc: 'Hipnoterapija za samozavest je odlična izbira za tiste, ki želijo ponovno prevzeti nadzor nad svojim življenjem in odkleniti svoj notranji potencial.  
 <br><br>Hipnoterapija ti bo pomagala pridobiti nazaj samozavest in vero vase, saj <strong>odpravi globje vzroke, miselne napake ter te nauči učinkovitejših čustvenih odzivov</strong>. 
 <br><br>Je močno orodje, ki ti pomaga pridobiti jasnost in se osredotočiti na stvari, ki so najpomembnejše.'
 
 
-subhero_2_Image: '/images/banners/pozitivne-navade.png' 
+subhero_2_Image: '/images/banners/pozitivne-navade.webp' 
 subhero_2_Title: Zgradi pozitivne navade
 subhero_2_short_desc: 'Hipnoterapija za samozavest ti <strong>pomaga zgraditi pozitivne navade</strong> in vedenje, ki ti pomagajo pri dolgoročnih spremembah v vašem življenju. 
 <br><br>S hipnoterapijo boš <strong>prebrodil negativna prepričanja in negativen samogovor</strong>. 
 <br><br><strong>Naučiš se ustvariti pozitivne cilje, ki jih lahko dosežeš.</strong>
 <br><br>Hipnoterapija ti pomaga pridobiti orodja, ki jih potrebuješ za doseganje svojih ciljev in doseganje želene ravni samozavesti.'
 
-subhero_3_Image: '/images/banners/individualen-pristop.png' 
+subhero_3_Image: '/images/banners/individualen-pristop.webp' 
 subhero_3_Title: Celosten in individualen pristop
 subhero_3_short_desc: 'Celosten in individualen pristop k hipnoterapiji za samozavest se osredotoča na tvoj um, telo in duha. <br><br><strong>Vsaka seansa je prilagojena posamezniku glede na njegove izzive in želje</strong>. 
 <br><br>S celostnim pristopom pridobiš znanje in veščine, ki jih potrebujete za dolgotrajne spremembe v svojem življenju. 

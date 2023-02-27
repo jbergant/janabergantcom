@@ -33,20 +33,20 @@ hero_subheader: Odkrij svoj polni potencial z mirnim in pomlajevalnim spancem
 hero_image: '/images/jana-hipnoterapija-za-spanje.png' 
 
 
-subhero_1_Image: '/images/banners/zdravilna-moc-spanja.png' 
+subhero_1_Image: '/images/banners/zdravilna-moc-spanja.webp' 
 subhero_1_Title: Ponovno izkusi zdravilno moč spanja
 subhero_1_short_desc: 'Hipnoterapija za spanje se vse bolj uveljavlja kot <strong>učinkovito zdravljenje nespečnosti</strong> in drugih motenj spanja.
 <br><br>Gre za <strong>varno, neinvazivno terapijo</strong>, ki ti lahko pomaga doseči krepčilen in miren spanec, ki si ga zaslužiš.
 <br><br>Z sproščujočem pristopom k spanju ti hipnoterapija pomaga obrniti nov list in si povrniti energijo za nov dan.'
 
 
-subhero_2_Image: '/images/banners/odprava-vzrokov-nespecnosti.png' 
+subhero_2_Image: '/images/banners/odprava-vzrokov-nespecnosti.webp' 
 subhero_2_Title: Razumevanje motenj spanja 
 subhero_2_short_desc: 'Hipnoterapija za spanje je odlična možnost za tiste, ki trpijo zaradi nespečnosti ali drugih motenj spanja. 
 <br><br>Pomaga ti lahko razumeti temeljne <strong>vzroke neprespanih noči ali nenadzorovanih misli</strong> in jih odpraviti na pozitiven, pomirjujoč način. 
 <br><br>S hipnoterapijo lahko končno dosežete miren spanec, ki si ga zaslužite.'
 
-subhero_3_Image: '/images/banners/varna-neinvazivna-metoda.png' 
+subhero_3_Image: '/images/banners/varna-neinvazivna-metoda.webp' 
 subhero_3_Title: Varen način za izboljšanje spanja
 subhero_3_short_desc: 'Hipnoterapija za spanje je varen in učinkovit način za izboljšanje kakovosti spanja <strong>brez stranskih učinkov</strong>. Hipnoterapija ne povzroča zasvojenosti kot lahko to naredijo zdravila. 
 <br><br>Z vsako seanso se boš počutil bolj sproščeno in bosš lahko užival v globljem in bolj mirnem spancu.'
