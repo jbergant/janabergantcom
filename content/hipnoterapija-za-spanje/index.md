@@ -91,6 +91,7 @@ aida_interest: Sem certificirana hipnoterapevtka, ki z močjo hipnoze pomagam do
 aida_desire: Predstavljajte si, koliko sladko bi se bilo zjutraj zbuditi, če bi lahko spal vso noč, ne da bi se premetaval in nemirno zbujal. Z Janino pomočjo lahko te sanje uresničiš!
 aida_action: Naredi prvi korak k bolj zdravemu in uravnoteženemu življenju, tako da se že danes dogovorite za termin!
 
+final_cta_text: Spremenite svoj spanec s hipnoterapijo! Odkrijte mirne, poživljajoče noči s sladkimi sanjami!
 ---
 
 
@@ -168,17 +169,3 @@ Pri svojem delu priporočam od 3 do 9 seans, v katerih prideva do zaželjenih re
 Povprečna doba za uvedbo novih navad je od 21 do 66 dni.
 
 
-
-
-
-</div>
-<div class="final_CTA">
-<div class="container">
-Spremenite svoj spanec s hipnoterapijo! Odkrijte mirne, poživljajoče noči s sladkimi sanjami!
-
-<div class="article_button">
-<form class="form" action="https://calendly.com/hipnoterapija/spoznavniklic" method="GET" target="_blank">
-    <button class="button button--middle" type="submit">Spoznavni klic <i class="ion ion-ios-paper-plane"></i></button>
-</form>
-</div>
-</div>

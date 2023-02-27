@@ -79,6 +79,7 @@ aida_interest: Sem certificirana hipnoterapevtka, in s pomočjo hipnoze in unika
 aida_desire: Predstavljaj si življenje brez obsesije s težo teže, koliko energije bi ti ostalo, kakšen bi bil občuek v lastnem telesi. Sem tu, da ti pomagam uresničiti te sanje!
 aida_action: Prijavi se na spoznavni klic še danes in naredi prvi korak na poti k izboljšanju zdravja in dobrega počutja s pomočjo hipnoze za hujšanje!
 
+final_cta_text: Take control of your life and your body with weight loss hypnotherapy! Let hypnosis help you break free from emotional overeating and negative self-image, giving you the power to reach your goals and maintain a healthy lifestyle. Act now and unlock the potential within yourself!
 ---
 
 
@@ -168,14 +169,3 @@ S kombinacijo hipnoze, menjave vzorcev, samospoznavanja in vaj za obvladovanje �
 
 
 
-</div>
-<div class="final_CTA">
-<div class="container">
-Take control of your life and your body with weight loss hypnotherapy! Let hypnosis help you break free from emotional overeating and negative self-image, giving you the power to reach your goals and maintain a healthy lifestyle. Act now and unlock the potential within yourself!
-
-<div class="article_button">
-<form class="form" action="https://calendly.com/hipnoterapija/spoznavniklic" method="GET" target="_blank">
-    <button class="button button--middle" type="submit">Spoznavni klic <i class="ion ion-ios-paper-plane"></i></button>
-</form>
-</div>
-</div>

@@ -1,6 +1,6 @@
 {{ define "main" }}
-
-<div class="containerxxx">
+<section class="section">
+  <div class="container">
 
     <div class="page-head">
         <h1 class="page-title">{{ .Title }}</h1>
@@ -15,18 +15,21 @@
           </div>
         {{ end }}    
     </div>
+  </div>
+</section>
+{{ partial "section-hero.html" . }}  
+{{ partial "key-features.html" . }}  
+{{ partial "social-proof.html" . }}  
+{{ partial "aida-call.html" . }}  
 
-    {{ partial "section-hero.html" . }}  
-    {{ partial "key-features.html" . }}  
-    {{ partial "social-proof.html" . }}  
-    {{ partial "aida-call.html" . }}  
 
-
-
+<section class="section">
+  <div class="container">
   <div class="project-content">
     {{ .Content }}
   </div>
-
 </div>
+</section>
+{{ partial "final-cta.html" . }} 
 
 {{ end }}

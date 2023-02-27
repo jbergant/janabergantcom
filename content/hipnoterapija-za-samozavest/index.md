@@ -82,6 +82,7 @@ aida_interest: Sem certificirana hipnoterapevtka, ki je specializirana za pomoč
 aida_desire: Povej mi, kako lahkotnejše bi bilo življenje, če bi se počutil/a varno v svoji koži in bi zaupal/a, da imaš vse, kar potrebuješ za uspeh. Z mojo pomočjo in pomočjo hipnoterapije te želje končno postanejo resničnost!
 aida_action: Prijavite se na pogovor z mano in obrni nov list v življenju še danes.
 
+final_cta_text: Prevzemi nadzor nad svojim življenjem, prebudi svoje moči in izboljšaj samobodobo s hipnoterapijo - bodite samozavestna že zdaj!
 ---
 
 
@@ -161,15 +162,3 @@ Povprečna doba za uvedbo novih navad je od 21 do 66 dni.
 
 
 
-
-</div>
-<div class="final_CTA">
-<div class="container">
-Prevzemi nadzor nad svojim življenjem, prebudi svoje moči in izboljšaj samobodobo s hipnoterapijo - bodite samozavestna že zdaj!
-
-<div class="article_button">
-<form class="form" action="https://calendly.com/hipnoterapija/spoznavniklic" method="GET" target="_blank">
-    <button class="button button--middle" type="submit">Spoznavni klic <i class="ion ion-ios-paper-plane"></i></button>
-</form>
-</div>
-</div>

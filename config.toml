@@ -68,7 +68,7 @@ paginate = 6
     author__bio_extended = "Dovolj nespečnosti, obsedenosti s kilami ter slabe samozavesti."
     author__image = "/images/hipnoterapija-z-jano.webp"
     author__avatar = "/images/hipnoterapija-z-jano-bergant.webp"
-    button__text = "Storitve"
+    button__text = "Kaj nudim"
 
 
   #-------------------------------
@@ -115,32 +115,7 @@ paginate = 6
     blog__description = ""
 
 
-  #-------------------------------
-  # Contact Settings
-  [params.contact]
-    enable = false 
-    contact__email = "your@email.com" # Add your form_id
-    contact__title = "<span class='text-span'>Get</span> in touch" # Add a title to your form
-    contact__description = "Avenco comes with a built-in contact form." # Add a description to your form
 
-    # NOTE
-    # Avenco comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
-
-
-  #-------------------------------
-  # Newsletter Settings
-  [params.mailchimp]
-    enable = true
-    mailchimp__title = "<span class='text-span'>Join</span> my mailing list" # Add your title
-    mailchimp__text = "Get the best inspiration and, cool stuff about design!" # Add descriptions to the form. If you want to use more than one sentence, be sure to separate them with a comma.
-    mailchimp__identifier = "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-    mailchimp__button__text = "Subscribe" # Add your button text
-
-  #-------------------------------
-  # Comment Section (Disqus)
-  [params.disqus]
-    enable = true
-    disqusShortname = "anvodstudio-demo" # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
   #-------------------------------

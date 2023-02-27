@@ -20,9 +20,24 @@
 
 
 .featurebox {
-    margin: 10px 0px;
-    padding: 10px;
-    min-height: 340px;
+    @media only screen and (max-width: $desktop) {
+      margin: 10px 0px;
+      padding: 10px;
+      min-height: 260px;
+    }
+  
+    @media only screen and (max-width: $tablet) {
+      margin: 30px 0px;
+      padding: 30px;
+      min-height: 70px;
+    }
+  
+    @media only screen and (max-width: $mobile) {
+      margin: 30px 0px;
+      padding: 30px;
+      min-height: 70px;
+    }
+    
     border: 1px solid #EEEEEE;
     background-color: #FFF;
   
