@@ -3,7 +3,6 @@
 baseURL = "https://janabergant.com/"
 languageCode = "sl-si"
 title = "Hipnoterapija z Jano"
-googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 6
 
 
