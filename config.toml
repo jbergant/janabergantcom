@@ -22,35 +22,36 @@ paginate = 6
     identifier = "home"
     name = "Domov"
     url = "/"
-    weight = -1
+    weight = -3
 
     [[menu.main]]
     parent = "Storitve"
     name = "Hipnoterapija za spanje"
     url = "/hipnoterapija-za-spanje/"
-    weight = 2
+    weight = -4
 
     [[menu.main]]
     parent = "Storitve"
     name = "Hipnoterapija za hujšanje"
     url = "/hipnoterapija-za-hujsanje/"
-    weight = 2
+    weight = -4
 
     [[menu.main]]
     parent = "Storitve"
     name = "Hipnoterapija za samozavest"
     url = "/hipnoterapija-za-samozavest/"
-    weight = 2
+    weight = -4
 
-  [[menu.main]]
+    [[menu.main]]
     name = "O hipnoterapiji"
     url = "/hipnoterapija/"
-    weight = 5
+    weight = -2
 
-  [[menu.main]]
+    [[menu.main]]
     name = "O Jani"
     url = "/jana-bergant/"
-    weight = 6
+    weight = 1
+
 
 
   # Call to action button

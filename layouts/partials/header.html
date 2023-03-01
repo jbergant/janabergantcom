@@ -25,7 +25,6 @@
 
               {{ $currentPage := . }}
               {{ range sort .Site.Menus.main "Weight" }}
-              
               {{ $menuURL := .URL | absLangURL }}
               {{ $pageURL:= $currentPage.Permalink | absLangURL }}
               {{ $active := eq $menuURL $pageURL }}
@@ -53,11 +52,10 @@
                 
               {{ end }}
 
-              {{ if .Site.Params.contact.enable }}
               <li class="nav__item">
-                <a href="#" class="nav__link cta-button button button--small">{{ .Site.Params.menu.button.cta__button__text }}</a>
+                <a href="/kontakt" class="nav__link cta-button button button--small">Kontakt</a>
               </li>
-              {{ end }}
+              
 
             </ul>
           </div>
