@@ -77,11 +77,17 @@ benefit_3_desc: Po mirnem nočnem spancu uživajte v boljši jasnosti čez dan i
 
 
 
-testemonials: [["name": Ana", "content": "Resnično sem imela težave s spanjem in bila sem zelo razočarana. Prijatelj mi je priporočil Jano Bergant in odločila sem se, da jo preizkusim. Zelo sem vesela, da sem poskusila! Bila je neverjetna. Pomagala mi je, da sem se pri hipnoterapiji za spanje sprostila in se počutila bolj udobno. Po najini seansi sem se počutila veliko bolje in jo toplo priporočam vsem, ki imajo težave s spanjem. Hvala, Jana!", "image": "https://via.placeholder.com/60x60"], 
-["name": Teja", "content": "Od nekdaj sem bila lahka spalna oseba, ko pa sem dopolnila 30 let, sem začela težko zaspati in ostati zaspana. Poskusila sem vse - od branja pred spanjem do ukinitve kofeina -, a nič ni pomagalo. Prijatelj mi je priporočil Jano Bergant in odločila sem se, da poskusim s hipnoterapijo. Po samo nekaj seansah z Jano sem končno lahko prespala vso noč! Počutila sem se spočito in čez dan sem imela veliko več energije. Jano toplo priporočam vsem, ki imajo težave s spanjem. Ona je resnično čudežna delavka!", "image": "https://via.placeholder.com/60x60"],["name": Saša", "content": "Včeraj sem imela prvo seanso z Jano Bergant in bilo je neverjetno. Bila sem zelo nervozna in dvomila, da bo hipnoza delovala zame, a Jana je poskrbela, da sem se počutila tako udobno in varno. Sprva sem bila zelo skeptična, vendar se po eni sami seansi počutim veliko bolj samozavestno. Resnično se veselim naslednje seanse in vidim, kako velik napredek lahko še dosežem. Hvala, Jana!", "image": "https://via.placeholder.com/60x60"],
-["name": Tina", "content": "Včeraj sem imela prvo seanso z Jano in bilo je neverjetno! Že leta se borim z nespečnostjo in poskusila sem že vse. Toda po samo eni seansi hipnoterapije z Jano sem prvič po več mesecih spala celo noč. Zelo sem hvaležna, da sem jo našla, in komaj čakam, da vidim rezultate po še nekaj seansah. Hvala, Jana!", "image": "https://via.placeholder.com/60x60"],
-["name": Aljaž", "content": "Sem velika oboževalka Janine hipnoterapije za spanje. Sprva sem bila nekoliko zadržana, vendar sem bila že po eni seansi zasvojena. Zdaj jo obiskujem že nekaj mesecev in končno sem se spočila, kar potrebujem. Hvala, Jana!", "image": "https://via.placeholder.com/60x60"],
-["name": Sandra", "content": "Z nespečnostjo sem se spopadala že več let in brez uspeha sem poskusila vse, od zdravil do meditacije. Ko mi je prijateljica priporočila Jano Bergant, sem bila nekoliko skeptična, vendar dovolj obupana, da bi poskusila karkoli. Zelo sem vesela, da sem poskusila! Janina hipnoterapija za spanje je bila točno to, kar sem potrebovala. Po letih nemirnih noči se končno počutim spočito in osveženo. Hvala, Jana!", "image": "https://via.placeholder.com/60x60"]]
+
+testemonials: 
+  -  
+    name: Miha
+    content: Imela sem težave s spanjem in bilo mi je res težko. Prijatelj mi je priporočil Jano Bergant in odločil sem se, da preizkusim še hipnoterapijo. Vesel sem, da sem! Bila je neverjetna. Pomagala mi je, da sem se končno sprostil in se naučil umiriti zvečer pred spanjem. Po najini seansi sem se počutil veliko bolje in jo toplo priporočam vsem, ki imajo težave s spanjem. Hvala!
+  -  
+    name: Neja
+    content: 'Od nekdaj sem dobro spala. Ko pa sem dopolnila 30 let, po rojstvu dveh otrok, se je začela nespočnost. Najprej nisem spala zaradi otrok, potem pa zaredi sebe. Poskusila sem vse - od branja pred spanjem do ukinitve kofeina -, a nič ni pomagalo. Zato sem poiskala Jano. Po samo nekaj seansah sem končno lahko prespala vso noč! Počutim se spočito in čez dan imam veliko več energije. Jano toplo priporočam vsem, ki imajo težave s spanjem. Ona resnično zna pomagat!'
+  -  
+    name: Matej
+    content: 'Pred mesecem sem imel prvo seanso z Jano in bilo je res sproščujoče! Že leta se borim z nespečnostjo in poskusil sem že veliko. Toda po samo eni seansi hipnoterapije z Jano sem prvič po dolgem času se res naspal. Zelo sem hvaležen in prav uživam v poslušanju njenih hipnotičnih posnetkov!'
 
 
 

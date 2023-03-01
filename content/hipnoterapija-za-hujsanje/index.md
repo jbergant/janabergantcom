@@ -68,8 +68,16 @@ benefit_3_title: Zaupnost in varen prostor
 benefit_3_desc: V seansi ti nudim varen prostor in zasebnost – saj le na ta način lahko prideva do trajnih sprememb.
 
 
-
-testemonials: [["name": Saša", "content": "If you're looking for a weight loss solution that really works, look no further than hypnotherapy. Hypnosis has helped me to not only lose weight, but to keep it off. It's also helped me to deal with emotional overeating and my negative self image. I highly recommend it!", "image": "https://via.placeholder.com/60x60"], ["name": Saša", "content": "If you're looking for a weight loss solution that really works, look no further than hypnotherapy. Hypnosis has helped me to not only lose weight, but to keep it off. It's also helped me to deal with emotional overeating and my negative self image. I highly recommend it!", "image": "https://via.placeholder.com/60x60"],["name": Saša", "content": "If you're looking for a weight loss solution that really works, look no further than hypnotherapy. Hypnosis has helped me to not only lose weight, but to keep it off. It's also helped me to deal with emotional overeating and my negative self image. I highly recommend it!", "image": "https://via.placeholder.com/60x60"],["name": Saša", "content": "If you're looking for a weight loss solution that really works, look no further than hypnotherapy. Hypnosis has helped me to not only lose weight, but to keep it off. It's also helped me to deal with emotional overeating and my negative self image. I highly recommend it!", "image": "https://via.placeholder.com/60x60"],["name": Saša", "content": "If you're looking for a weight loss solution that really works, look no further than hypnotherapy. Hypnosis has helped me to not only lose weight, but to keep it off. It's also helped me to deal with emotional overeating and my negative self image. I highly recommend it!", "image": "https://via.placeholder.com/60x60"],["name": Saša", "content": "If you're looking for a weight loss solution that really works, look no further than hypnotherapy. Hypnosis has helped me to not only lose weight, but to keep it off. It's also helped me to deal with emotional overeating and my negative self image. I highly recommend it!", "image": "https://via.placeholder.com/60x60"],["name": Saša", "content": "If you're looking for a weight loss solution that really works, look no further than hypnotherapy. Hypnosis has helped me to not only lose weight, but to keep it off. It's also helped me to deal with emotional overeating and my negative self image. I highly recommend it!", "image": "https://via.placeholder.com/60x60"]]
+testemonials: 
+  -  
+    name: Eliza
+    content: Ne vem ali je to placebo effekt ali je res možno, da že po 2 poslušanjih nimam več boja s cukrom. Predal s cukrom me ne preganja več! Komaj čakam, da začnem program svobode od čustvenega prenajedanja.
+  -  
+    name: Neja
+    content: Poskusila sem vse, da bi shujšala. Bila sem ujeta v jojo gor in dol. Dolgoročno ni nič delovalo. Nobene diete se nisem mogla držat, in tako ni nič delovalo. Potem sem našla hipnoterapijo za hujšanje. Naučila sem se, kako se ob čustveih izzivih se ne zatekat v hrano. Kilogrami so potem sami šli dol. Hvala Jana!
+  -  
+    name: Andreja
+    content: Ne vem, če lahko izrazim z besedami, kako zelo hvaležna sem, da sem pred nekaj meseci spoznala Jano. Začeli sva sodelovati, ker sem želela vzpostaviti bolj zdrav odnos do hrane in svojega telesa. Jano priporočam vsem, ki si s strani hipnoterapevta želite pozitivne motivacije, razumevanja, zavzetosti za reševanje vaših izzivov, opolnomočenja in iskrene želje po vašem uspehu. 
 
 
 

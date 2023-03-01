@@ -68,11 +68,17 @@ benefit_3_title: Učinkovitejša komunikacija
 benefit_3_desc: Povečana samozavest in izboljšane komunikacijske spretnosti, ki omogočajo boljše odnose z drugimi ljudmi in samim sabo.
 
 
+testemonials: 
+  -  
+    name: Teja
+    content: Med hipnozo sem šla globoko vase, in sem čutila globoko v sebi… čutila sem, kako si me vodila, da sem si živo predstavljala, da sem videla to novo podobo… kako je dobivala barve… obliko…kako je nastala ta moja chearleaderka…in se vgradila vame…. Da jo imam zdaj v sebi… da mi je v pomoč…da bo vedno z menoj. In od takrat naprej, avtomatsko pride ta podoba. Šla sem v stik sama s sabo, našla kar me muči in skozi vprašanja, ki si mi jih postavljala, se je zgradila chearleaderka, ki je prevzela mojo tremo
+  -  
+    name: Neja
+    content: 'Pred srečanjem sem bila zelo nervozna in dvomila, da bo hipnoza delovala zame. Jana je poskrbela, da sem se počutila zelo udobno in varno. Sprva sem bila zelo skeptična, vendar sem se že po eni sami seansi počutim veliko bolj samozavestno. Redno poslušam hipnotični posnetek in čutim kako samozavest vsak dan bolj in bolj raste v meni!'
+  -  
+    name: Martina
+    content: 'Kot mama 3 otrok in podjetnica sem bila resnično preobremenjena. Tako sem bila vpeta v dnevne obveznosti, da sploh čutila nisem, da sem tik pred zlomom. Na seansi sem se tako zelo sprostila, da se je od tam naprej samo še zložilo kot domine. Končno lahko rečem ne strankam, poskrbim zase in to popolnoma brez slabe vesti. Resnično, resnično hvala za to!'
 
-testemonials: [["name": Saša", "content": "Imela sem prvo seanso z Jano Bergant in počutim se fantastično! Prišla sem k njej po pomoč pri samozavesti in počutim se kot nova oseba. Je tako topla in prijazna, da sem se z njo takoj počutila dobro. Toplo jo priporočam vsem, ki razmišljajo o hipnoterapiji.", "image": "https://via.placeholder.com/60x60"], 
-["name": Saša", "content": "Preden sem začela sodelovati z Jano, sem imela res velike težave s svojo samozavestjo. Nisem imela pojma, kako bi mi lahko hipnoterapija pomagala, vendar sem zelo vesela, da sem poskusila. Res mi je spremenila življenje. Jana je tako topla in spodbudna oseba in mi je resnično pomagala razumeti, kako lahko s hipnoterapijo okrepim svojo samozavest. Toplo jo priporočam vsem, ki imajo težave s samozavestjo ali samospoštovanjem.", "image": "https://via.placeholder.com/60x60"],["name": Saša", "content": "Včeraj sem imela prvo seanso z Jano Bergant in bilo je neverjetno. Bila sem zelo nervozna in dvomila, da bo hipnoza delovala zame, a Jana je poskrbela, da sem se počutila tako udobno in varno. Sprva sem bila zelo skeptična, vendar se po eni sami seansi počutim veliko bolj samozavestno. Resnično se veselim naslednje seanse in vidim, kako velik napredek lahko še dosežem. Hvala, Jana!", "image": "https://via.placeholder.com/60x60"],
-["name": Saša", "content": "Pred nekaj tedni sem imela prvo seanso pri Jani Bergant in bila sem res navdušena. Obiskala sem jo zaradi hipnoterapije za samozavest in v samo eni seansi mi je lahko pomagala, da sem se sprostila in se počutila bolj samozavestno. Vsekakor bi jo priporočila vsem, ki iščejo usposobljenega hipnoterapevta.", "image": "https://via.placeholder.com/60x60"],
-["name": Saša", "content": "Obiskal sem Jano Bergant zaradi hipnoterapije za samozavest. Že nekaj časa sem imela težave v službi in res mi je primanjkovalo samozavesti. Jana je bila neverjetna. Z njo sem se počutila tako udobno in varno. Že po nekaj seansah sem opazila veliko razliko v svojem počutju. Zdaj sem veliko bolj samozavestna in v službi mi gre veliko bolje. Hvala, Jana!", "image": "https://via.placeholder.com/60x60"]]
 
 
 

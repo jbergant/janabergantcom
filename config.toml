@@ -80,7 +80,7 @@ paginate = 6
     projects__sub_description= "Nauči se kako hipnoterapija deluje in kako je lahko koristna za vse, ki želijo narediti pozitivne spremembe v svojem življenju."
 
   #-------------------------------
-  # Testimonials Section
+  # Testimonials Splosni
   [params.testimonials]
     enable = true
     testimonial__title = "Zadovoljne <span class='text-span'>stranke</span>" # Add a 'text-span' class to highlight text.
@@ -102,6 +102,29 @@ paginate = 6
     content = "Zdaj se popolnoma sprejemam. super se počutim v svoji koži. Težav s prenajedanjam končno nimam več. Sem SVOBONA"
 
   [[params.testimonial_item]]
+    name = "Andrej"
+    image = "https://via.placeholder.com/250x250"
+    content = "Po nekaj seansah z Jano sem bolj umirjen, lažje zaspim in nič več me ne preganjajo skrbi in strahovi."
+
+
+  # Testimonials Hujsanje
+
+  [[params.hujsanje_testimonial_item]]
+    name = "Ana"
+    image = "https://via.placeholder.com/250x250"
+    content = "Ne vem ali je to placebo effekt ali je res možno, da že po 2 poslušanjih nimam več boja s cukrom. Predal s cukrom me ne preganja več!"
+
+  [[params.hujsanje_testimonial_item]]
+    name = "Teja"
+    image = "https://via.placeholder.com/250x250"
+    content = "Namesto notranjega kritika me zdaj spodbuja zaveznica in mi daje oč, da se izpostavim in povem kar hočem."
+
+  [[params.hujsanje_testimonial_item]]
+    name = "Sandra"
+    image = "https://via.placeholder.com/250x250"
+    content = "Zdaj se popolnoma sprejemam. super se počutim v svoji koži. Težav s prenajedanjam končno nimam več. Sem SVOBONA"
+
+  [[params.hujsanje_testimonial_item]]
     name = "Andrej"
     image = "https://via.placeholder.com/250x250"
     content = "Po nekaj seansah z Jano sem bolj umirjen, lažje zaspim in nič več me ne preganjajo skrbi in strahovi."

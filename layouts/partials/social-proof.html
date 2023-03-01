@@ -17,38 +17,26 @@
               </li>
             </ul>
           </div>
-          {{ if .Site.Params.testimonials.testimonial__description }}
-            <p class="section__description">{{ .Site.Params.testimonials.testimonial__description }}</p>
-          {{ end }}
         </div>
 
         <div class="testimonials__slider my-slider">
-            {{ with .Site.Params.hhtestimonial_item }}
-            {{ range . }}
-              <div class="testimonial-item">
-                <div class="testimonial-content">
-                  {{ if .content }}
-                    <p class="client-text">{{ .content }}</p>
+          {{ range .Params.testemonials }}
+
+          <div class="testimonial-item">
+            <div class="testimonial-content">
+              {{ if .content }}
+                <p class="client-text">{{ .content }}</p>
+              {{ end }}
+              <div class="client-meta">
+                <div class="client-info">
+                  {{ if .name }}
+                    <h3 class="client-name">{{ .name }}</h3>
                   {{ end }}
-                  <div class="client-meta">
-                    {{ if .image }}
-                      <div class="image-container">
-                        <img class="client-avatar" src="{{ .image }}" alt="{{ .name }}">
-                      </div>
-                    {{ end }}
-                    <div class="client-info">
-                      {{ if .name }}
-                        <h3 class="client-name">{{ .name }}</h3>
-                      {{ end }}
-                      {{ if .designation }}
-                        <p class="client-designation">{{ .designation }}</p>
-                      {{ end }}
-                    </div>
-                  </div>
                 </div>
               </div>
-            {{ end }}
-          {{ end }}
+            </div>
+          </div>
+        {{end}}
         </div>
 
       </div>

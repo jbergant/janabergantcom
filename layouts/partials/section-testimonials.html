@@ -33,11 +33,6 @@
                   <p class="client-text">{{ .content }}</p>
                 {{ end }}
                 <div class="client-meta">
-                  {{ if .image }}
-                    <div class="image-container">
-                      <img class="client-avatar" src="{{ .image }}" alt="{{ .name }}">
-                    </div>
-                  {{ end }}
                   <div class="client-info">
                     {{ if .name }}
                       <h3 class="client-name">{{ .name }}</h3>
