@@ -89,15 +89,15 @@ paginate = 6
   [[params.testimonial_item]]
     name = "Ana"
     image = "https://via.placeholder.com/250x250"
-    content = "Samo eni seansi hipnoterapije z Jano sem prvič po več mesecih spala celo noč. Zelo sem hvaležna, da sem jo našla, in komaj čakam, da vidim rezultate po še nekaj seansah. Hvala, Jana!"
+    content = "V najinem sodelovanju sem dobila varen prostor, kjer sem se naučila pogovarjati z deli same sebe. Videla sem kako je imeti varno okolje za pogovore same s seboj, v katerih sem se dotaknila same sebe. Zdaj ko sem se tega naučila, grem veliko lažje čez katerekoli strahove. Imam večje zaupanje v to, da lahko sebe kontroliram… posledično sem bolj vesela, saj si bolj zaupam."
 
   [[params.testimonial_item]]
     name = "Teja"
     image = "https://via.placeholder.com/250x250"
-    content = "Namesto notranjega kritika me zdaj spodbuja zaveznica in mi daje oč, da se izpostavim in povem kar hočem."
+    content = "Namesto notranjega kritika me zdaj spodbuja zaveznica in mi daje oč, da se izpostavim in povem kar hočem. In od takrat naprej, avtomatsko pride ta podoba. Šla sem v stik sama s sabo, našla kar me muči in skozi vprašanja, ki si mi jih postavljala, se je zgradila chearleaderka, ki je prevzela mojo tremo."
 
   [[params.testimonial_item]]
-    name = "Sandra"
+    name = "Špela"
     image = "https://via.placeholder.com/250x250"
     content = "Zdaj se popolnoma sprejemam. super se počutim v svoji koži. Težav s prenajedanjam končno nimam več. Sem SVOBONA"
 
@@ -107,27 +107,6 @@ paginate = 6
     content = "Po nekaj seansah z Jano sem bolj umirjen, lažje zaspim in nič več me ne preganjajo skrbi in strahovi."
 
 
-  # Testimonials Hujsanje
-
-  [[params.hujsanje_testimonial_item]]
-    name = "Ana"
-    image = "https://via.placeholder.com/250x250"
-    content = "Ne vem ali je to placebo effekt ali je res možno, da že po 2 poslušanjih nimam več boja s cukrom. Predal s cukrom me ne preganja več!"
-
-  [[params.hujsanje_testimonial_item]]
-    name = "Teja"
-    image = "https://via.placeholder.com/250x250"
-    content = "Namesto notranjega kritika me zdaj spodbuja zaveznica in mi daje oč, da se izpostavim in povem kar hočem."
-
-  [[params.hujsanje_testimonial_item]]
-    name = "Sandra"
-    image = "https://via.placeholder.com/250x250"
-    content = "Zdaj se popolnoma sprejemam. super se počutim v svoji koži. Težav s prenajedanjam končno nimam več. Sem SVOBONA"
-
-  [[params.hujsanje_testimonial_item]]
-    name = "Andrej"
-    image = "https://via.placeholder.com/250x250"
-    content = "Po nekaj seansah z Jano sem bolj umirjen, lažje zaspim in nič več me ne preganjajo skrbi in strahovi."
 
 
   #-------------------------------
