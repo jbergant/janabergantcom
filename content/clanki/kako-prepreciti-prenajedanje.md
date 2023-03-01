@@ -1,8 +1,8 @@
 ---
 title:  Kako preprečiti prenajedanje
-date:   2023-02-27 15:01:35 +0300
+date:   2023-02-28 15:01:35 +0300
 image:  'https://via.placeholder.com/1200x800'
-tags:   [travel, lifestyle]
+tags:   ['čustveno prenajedanje', hipnoterapija]
 ---
 
 Hodiš v hladilnik in skriti predal, ko si žalosten ali kako drugače razburjen? Nisi Edini. Veliko ljudi se tolaži s hrano, ko se soočajo z velikimi, težkimi občutki.
@@ -16,7 +16,9 @@ je za trenutek lažje, čustveno prenajedanje ne reši resničnega problema. Nas
 
 Če se počutiš pod stresom, si zaskrbljen, zdolgočasen, osamljen, žalostn ali utrujen, hrana ne bo odpravila teh občutkov. Za trenutek jih bo omamila, potem pa se vrnejo še z večjo močjo, poleg vsega pa se lahko pojavi še krivda in sram zaradi prenajedanja.
 
-Krivda in sram, pa ta ustvarijo cikel neskočnega
+Krivda in sram, pa ta ustvarijo peklenski cikel čustvenega prenajedanja.
+
+Stroge diete in omejevanje hrane žal ne rešita [ čustvenega prenajedanja]({{< ref "/clanki/custveno-prenajedanje.md" >}} "Čustveno prenajedanje").
 
 <div class="gallery-box">
   <div class="gallery">
@@ -26,14 +28,65 @@ Krivda in sram, pa ta ustvarijo cikel neskočnega
   <em>Gallery / <a href="https://via.placeholder.com/1200x800" target="_blank">Unsplash</a></em>
 </div>
 
-In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.
+## Kako nasloviti čustveno prenajedanje
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+Ponovno poudarjam, da čustveno prenajedanje nima povezave s pomanjkanjem samokontrole, kot mnogi mislijo. Večina ljudi, ki ima težavo s čustvenim prenajedanjem, ima na drugih področjih življenja veliko samokontrole. Zato je prvo, kar lahko naredite, ko se soočate s čustvenim prenajedanjem to, da
+- si priznaš, da imate težavo in 
+- se **takoj prenehaš obsojati**  
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.
 
-<p><iframe src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allowfullscreen></iframe></p>
 
-Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.
+Procesiranje čustev je težko delo, zlasti v posebej stresnem času, v težkih občutkih in pri pomankanju spanja, ko so še oslabljeni dostopa do običajnih mehanizmov za obvladovanje. 
 
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.
+Pri čemer seveda ne pomaga, če smo odrasli v okolju, kjer smo bili obdani s posamezniki, ki niso imeli znanja kako obvladovati svoja čustva in smo se naučili neustreznih vedenjskih vzorcev. Zato niso krivi naša družina in šole. Posamezniki, ki nimajo znanja o obvladovanju čustev, težko pokažejo drugim kako obvladovati čustva in so večinoma tudi samo ujeti v negativne vzorce.
+
+Pri poskušanju spoprijemanja s čustvi je pravzaprav veliko neustreznih načinov za spopadanje. Mogoče si že srečal koga, ki spije pivo, da se pomiri. Ali pa kadi cigareto za cigareto. Potiskanje stran občutkov, omamljanje, vse to so neustrezni načini procesiranja čustev.
+
+Zato je prvi in najbolj pomemben korak to da si priznaš, da imaš težavo in se pri tem ne samoobsojaš. Ta korak ne delaš enkrat, ta korak delaš večkrat.
+
+S spoznanjem, da je edini razlog, zakaj trenutno ješ, neprijetno čustvo, ki ga čutiš, si že korak bližje temu, da ga premagaš
+Ko se lahko ustaviš in prepoznaš pri sebi, da ješ ne zaradi fizične lakote ampak zaradi čustvene lakote, se lahko ustaviš in
+zapišeš besedo ali stavek, ki opisuje, kaj čutiš"
+
+Ta korak se morda sliši preprosto – skoraj preveč preprosto. Če pa želiš biti resnično uspešen, potem sprejmeš vedenje, ne da bi se obsojali. S tem ko zapišeš kaj čutiš, gredo lahko občutki ven. In prav je, da gredo ven.
+
+
+Nato je čas za 2. korak.
+
+2. Poiščite rešitev za čustveni problem
+Če želite preseči čustveno prenajedanje, moraš začutiti in prečutiti svoja čustva. Predvsem pa ti pomaga, ko najdeš produktivno rešitev za ravnanje s čustvom.
+
+Naprimer: 
+
+- ko čutiš stres lahko narediš dihalne vaje, poslušaš meditacijo ali pa greš v naravo za sprehod
+- ko čutiš osamljenost pokliči prijatelja, prijateljico oziroma nekoga, ki ti je blizu
+- ko čutiš žalost naredi seznam stvari, za katere ste hvaležni, ali se nasmejte ob kakšni komediji
+- ob dolgčasu dokončaj projekt, poglej film ali preberi knjigo
+- pri anksioznosti napiši seznam svojih moči, naredi nekaj dobrega za drugega
+- ko pa pride utrujenost, si vzami čas za počitek, privošči si razvajanje v banji ali pa le ležanje in umirjanje
+
+Navedeni so zgolj primeri.
+
+Dolgoročno je dobro, da si narediš **seznam trigerjev**. Trigerji so dejanja, situacije, občutki, karkoli te pahne v prenajdeanje.
+
+Nekomu je triger popoldanska utrujenost, spet drugemu žemljice, kot jih je pekla babica. Za nekoga je prepir s partnerjem ali otrokom. Ali pa preveč obveznosti v dnevu.
+
+Zelo, zelo pomembno je, da si pri pisanju trigerjev povsem iskrena sama s sabo. Če je določena situacija vedno ali velikokrat peljala v prenajedanje, potem je velika možnost, da bo tudi naslednjič. Ne muči se z mislijo, da bo tokrat drugače.
+
+Rajši za vse trigerje najdi ustreznejšo rešitev. Recimo ob popoldanski utrujenost povej družinskim članom, da potrebuješ počitek in si vzemi pol ure zase. Če so triger žemljice, jih odstrani iz jedilnika. Bo lažje, če jih niti ne poskušaš. Ob prepiru lahko pokličeš prijateljico, greš na sprehod, najdeš tisto, kar te umiri. 
+
+Za vsak triger moraš poiskati ustreznejšo rešitev. Za vsako situacijo se pripraviš v naprej in potem točno veš kaj narediti, brez razmišljanja. Na začetku bo težko spremeniti navado, ampak vsakič bo lažje.
+
+>  Nobena hrana nima tako dobrega okusa kot svoboda od čustvenega prenajedanja.
+
+
+
+Zamenjava trigerja z eno od bolj produktivnih rešitev je resnično edini način za dolgoročno premagovanje čustvenega prenajedanja. 
+
+Prav tako je edini način za obvladovanje čustev to, da jih prečutimo. Ko želiš, da čustvo mine, in ko je težko, je najbolj učinkovito, da **čustvu pustiš da obstaja**. Pustiš mu, da je tam, da ga čutiš, da te preplavi, pri čemer, pa se zavedaš, da je samo čustvo in da mine. Vsa čustva minejo. Bolj ko jih odrivaš, dalj časa vstrajajo in bolj močna postajajo.
+
+>  Lastnost čustev je, da minejo. Vedno.
+
+Še zadnja ampak najbolj pomembno na poti iz čustvenega prenajedanja. Pot je lahko težko delo, ki lahko traja nekaj časa. Če se ti zdi, da en dan narediš en korak naprej, naslednji dan pa dva koraka nazaj, je to v redu! Bodite potrpežljiv in nežen do sebe. 
+
+
