@@ -1,8 +1,8 @@
 ---
 title:  Kako preprečiti prenajedanje
 date:   2023-02-28 15:01:35 +0300
-image:  'https://via.placeholder.com/1200x800'
-tags:   ['čustveno prenajedanje', hipnoterapija]
+image:  '/images/clanki/kako-prepreciti-prenajedanje.webp'
+tags:   ['čustveno prenajedanje', 'hujšanje', 'čustva']
 ---
 
 Hodiš v hladilnik in skriti predal, ko si žalosten ali kako drugače razburjen? Nisi Edini. Veliko ljudi se tolaži s hrano, ko se soočajo z velikimi, težkimi občutki.
@@ -20,12 +20,11 @@ Krivda in sram, pa ta ustvarijo peklenski cikel čustvenega prenajedanja.
 
 Stroge diete in omejevanje hrane žal ne rešita [ čustvenega prenajedanja]({{< ref "/clanki/custveno-prenajedanje.md" >}} "Čustveno prenajedanje").
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://via.placeholder.com/800x600" alt="Project">
-    <img src="https://via.placeholder.com/800x600" alt="Project">
-  </div>
-  <em>Gallery / <a href="https://via.placeholder.com/1200x800" target="_blank">Unsplash</a></em>
+<div class="article_button">
+<p>Reši test čustvenega prenajedanja. S testom čustvenega prenajdanje lahko ugotoviš, ali je čustveno prenajedanje posledica globlje zakoreninjenih težav.</p>
+    <form class="form" action="https://preview.mailerlite.io/preview/14994/forms/81273345070335372" method="GET" target="_blank">
+        <button class="button button--middle" type="submit">Reši test čustvenega prenajedanja<i class="ion ion-ios-paper-plane"></i></button>
+    </form>
 </div>
 
 ## Kako nasloviti čustveno prenajedanje
@@ -42,6 +41,8 @@ Pri čemer seveda ne pomaga, če smo odrasli v okolju, kjer smo bili obdani s po
 
 Pri poskušanju spoprijemanja s čustvi je pravzaprav veliko neustreznih načinov za spopadanje. Mogoče si že srečal koga, ki spije pivo, da se pomiri. Ali pa kadi cigareto za cigareto. Potiskanje stran občutkov, omamljanje, vse to so neustrezni načini procesiranja čustev.
 
+## Priznaj si težavo brez samoobsojanja
+
 Zato je prvi in najbolj pomemben korak to da si priznaš, da imaš težavo in se pri tem ne samoobsojaš. Ta korak ne delaš enkrat, ta korak delaš večkrat.
 
 S spoznanjem, da je edini razlog, zakaj trenutno ješ, neprijetno čustvo, ki ga čutiš, si že korak bližje temu, da ga premagaš
@@ -51,12 +52,13 @@ zapišeš besedo ali stavek, ki opisuje, kaj čutiš"
 Ta korak se morda sliši preprosto – skoraj preveč preprosto. Če pa želiš biti resnično uspešen, potem sprejmeš vedenje, ne da bi se obsojali. S tem ko zapišeš kaj čutiš, gredo lahko občutki ven. In prav je, da gredo ven.
 
 
-Nato je čas za 2. korak.
+## Poišči rešitev in nadomestilo za čustveno prenajedanje
 
-2. Poiščite rešitev za čustveni problem
+Nato je čas za 2. korak, ki je poiščite rešitev za čustveni problem. 
+
 Če želite preseči čustveno prenajedanje, moraš začutiti in prečutiti svoja čustva. Predvsem pa ti pomaga, ko najdeš produktivno rešitev za ravnanje s čustvom.
 
-Naprimer: 
+Na primer: 
 
 - ko čutiš stres lahko narediš dihalne vaje, poslušaš meditacijo ali pa greš v naravo za sprehod
 - ko čutiš osamljenost pokliči prijatelja, prijateljico oziroma nekoga, ki ti je blizu
@@ -65,7 +67,9 @@ Naprimer:
 - pri anksioznosti napiši seznam svojih moči, naredi nekaj dobrega za drugega
 - ko pa pride utrujenost, si vzami čas za počitek, privošči si razvajanje v banji ali pa le ležanje in umirjanje
 
-Navedeni so zgolj primeri.
+Navedeni so zgolj primeri. Vsak je drugače in zase poišči rešitev, ki ustreza tebi.
+
+## Naredi seznam trigerjev čustvenega prenajedanja in ga zamenjaj z ustreznejšimi rešitvami
 
 Dolgoročno je dobro, da si narediš **seznam trigerjev**. Trigerji so dejanja, situacije, občutki, karkoli te pahne v prenajdeanje.
 
@@ -80,13 +84,16 @@ Za vsak triger moraš poiskati ustreznejšo rešitev. Za vsako situacijo se prip
 >  Nobena hrana nima tako dobrega okusa kot svoboda od čustvenega prenajedanja.
 
 
-
 Zamenjava trigerja z eno od bolj produktivnih rešitev je resnično edini način za dolgoročno premagovanje čustvenega prenajedanja. 
 
-Prav tako je edini način za obvladovanje čustev to, da jih prečutimo. Ko želiš, da čustvo mine, in ko je težko, je najbolj učinkovito, da **čustvu pustiš da obstaja**. Pustiš mu, da je tam, da ga čutiš, da te preplavi, pri čemer, pa se zavedaš, da je samo čustvo in da mine. Vsa čustva minejo. Bolj ko jih odrivaš, dalj časa vstrajajo in bolj močna postajajo.
+## Prečuti čustva
+
+Edini način za obvladovanje čustev to, da jih prečutimo. Ko želiš, da čustvo mine, in ko je težko, je najbolj učinkovito, da **čustvu pustiš da obstaja**. Pustiš mu, da je tam, da ga čutiš, da te preplavi, pri čemer, pa se zavedaš, da je samo čustvo in da mine. Vsa čustva minejo. Bolj ko jih odrivaš, dalj časa vstrajajo in bolj močna postajajo.
 
 >  Lastnost čustev je, da minejo. Vedno.
 
-Še zadnja ampak najbolj pomembno na poti iz čustvenega prenajedanja. Pot je lahko težko delo, ki lahko traja nekaj časa. Če se ti zdi, da en dan narediš en korak naprej, naslednji dan pa dva koraka nazaj, je to v redu! Bodite potrpežljiv in nežen do sebe. 
+## Daj si čas in sočutje na poti iz čustvenega prenajedanja
+
+Še zadnje ampak najbolj pomembno na poti iz čustvenega prenajedanja. Pot je lahko težko delo, ki lahko traja nekaj časa. Če se ti zdi, da en dan narediš en korak naprej, naslednji dan pa dva koraka nazaj, je to v redu! Bodite potrpežljiv in nežen do sebe. 
 
 

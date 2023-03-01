@@ -3,8 +3,8 @@ title:  Čustveno prenajedanje
 Metatitle: Čustveno prenajedanje - ko ješ brez lakote
 description: Ali jeste, ko niste lačni? Se počutite pod stresom, žalostni ali jezni? Morda imaš težave s čustvenim prenajedanjem. Preveri ali si ujet v čustveno prenajdanje
 date:   2023-02-26 15:01:35 +0300
-image:  'https://via.placeholder.com/1200x800'
-tags:   ['čustveno prenajedanje', hipnoterapija]
+image:  '/images/clanki/custveno-prenajedanje.webp'
+tags:   ['čustveno prenajedanje', 'hujšanje', 'čustva']
 ---
 
 Čustveno prenajedanje je način zatiranja ali pomirjanja negativnih čustev, kot so stres, jeza, strah, dolgčas, žalost in osamljenost. Večji življenjski dogodki ali pogosteje vsakodnevne težave lahko sprožijo negativna čustva, ki vodijo v čustveno prehranjevanje in motijo prizadevanja za hujšanje. Ti sprožilci lahko vključujejo naslednje:
