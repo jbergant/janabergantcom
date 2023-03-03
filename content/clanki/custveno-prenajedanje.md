@@ -58,7 +58,7 @@ Pomembno je poudariti: osebe, ki jih muči čustveno prenajedanje nimajo šibkeg
 
 ## Zakaj stroge diete ne rešijo čustvenega prenajedanja
 
-Obstajata dva glavna razloga, zakaj reševanje čustvenega prenajdeanja z omejevalnimi dietami pri večini ljudi preprosto ne deluje:
+Obstajata dva glavna razloga, zakaj reševanje čustvenega prenajedanja z omejevalnimi dietami pri večini ljudi preprosto ne deluje:
 
 1. Predvideva, da je čustveno prenajedanje pomanjkanja samokontrole
 2. Za boj proti čustveni težavi uporabljate rešitev s hrano
