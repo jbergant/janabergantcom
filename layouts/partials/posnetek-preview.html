@@ -1,0 +1,40 @@
+<article class="article col col-6 col-d-6 col-t-12">
+  <div class="article__inner">
+
+    {{ if .Params.Image }}
+      <div class="image-wrap">
+        <a class="article__image" href="{{ .RelPermalink }}">
+          <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+        </a>
+      </div>
+    {{ end }}
+
+    <div class="article__content">
+
+      {{ if .Params.tags }}
+      <div class="article-tags__box">
+        {{ range ($.GetTerms "tags") }}
+        <a href="{{ .Permalink }}" class="article__tag">{{ .LinkTitle }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      <h2 class="article__title">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h2>
+
+
+
+      <div class="article__meta">
+        <p class="posnetek_description">{{ .Params.description}}</p>
+        <p class="posnetek_preview">Poslušaj zvočni vzorec hipnoze za hujšanje</p>
+
+      </div>
+      <audio controls autoplay muted>
+        <source src="horse.ogg" type="audio/ogg">
+        <source src="horse.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+      </audio>
+    </div>
+  </div>
+</article>

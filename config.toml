@@ -23,6 +23,16 @@ disableKinds = ['sitemap']
     name = "Domov"
     url = "/"
     weight = -3
+    
+    [[menu.main]]
+    name = "O hipnoterapiji"
+    url = "/hipnoterapija/"
+    weight = -2
+
+    [[menu.main]]
+    name = "Članki"
+    url = "/clanki/"
+    weight = -1
 
     [[menu.main]]
     parent = "Storitve"
@@ -42,10 +52,13 @@ disableKinds = ['sitemap']
     url = "/hipnoterapija-za-samozavest/"
     weight = -4
 
-    [[menu.main]]
-    name = "O hipnoterapiji"
-    url = "/hipnoterapija/"
-    weight = -2
+
+   [[menu.main]]
+    parent = "Orodja"
+    name = "Hipnotični posnetki"
+    url = "/hipnoticni-posnetki/"
+    weight = 0
+
 
     [[menu.main]]
     name = "O Jani"
@@ -123,43 +136,29 @@ disableKinds = ['sitemap']
   #-------------------------------
   # Footer Settings
   # Social Links
-  [[params.social]]
-    icon = "ion-logo-twitter"
-    name = "Twitter"
-    link = "https://twitter.com"
-
-  [[params.social]]
-    icon = "ion-logo-github"
-    name = "Github"
-    link = "https://github.com"
 
   [[params.social]]
     icon = "ion-logo-pinterest"
     name = "Pinterest"
-    link = "https://pinterest.com"
-
-  [[params.social]]
-    icon = "ion-logo-codepen"
-    name = "Codepen"
-    link = "https://codepen.io"
-
-  [[params.social]]
-    icon = "ion-logo-vimeo"
-    name = "Vimeo"
-    link = "https://vimeo.com"
+    link = "https://www.pinterest.com/hipnoterapija123"
 
   [[params.social]]
     icon = "ion-logo-youtube"
     name = "Youtube"
-    link = "https://youtube.com"
+    link = "https://www.youtube.com/channel/UCTQGieKopKqxmgfry1KV47Q"
 
-  # Example of adding a new link to the footer section:
-  # [[params.social]]
-  #   icon = "ion-logo-facebook"
-  #   name = "Facebook"
-  #   link = "https://facebook.com"
+  [[params.social]]
+    icon = "ion-logo-facebook"
+    name = "Facebook"
+   link = "https://www.facebook.com/janieblue/"
+
+  [[params.social]]
+    icon = "ion-logo-tiktok"
+    name = "TikTok"
+   link = "https://www.tiktok.com/@hipnoterapija123"
 
   # Other icons can be found at https://ionicons.com/v4/
+
 
 
 [markup]

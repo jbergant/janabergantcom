@@ -15,7 +15,7 @@
                 <div class="tag-count{{ if gt (len .Pages) 9 }} count-padding-small{{ end }}">
                   <div class="tag-number">{{ len .Pages }}</div>
                 </div>
-                <span>{{ if lt (len .Pages) 2 }}ČLANKA / HIPNOTIČNA POSNETKA{{ else }}ČLANKI / HIPNOTIČNI POSNETKI{{ end }}</span>
+                <span>{{ if lt (len .Pages) 2 }}HIPNOTIČNA POSNETKA{{ else }}HIPNOTIČNI POSNETKi{{ end }}</span>
             </div>
           </div>
         </div>
@@ -53,9 +53,9 @@
 
 <div class="container animate">
   <div class="row">
-    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "clanki" ) }}
+    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "hipnoticni-posnetki" ) }}
     {{ range $paginator.Pages }}
-      {{ partial "article-content.html" . }}
+      {{ partial "posnetek-preview.html" . }}
     {{ end }}
   </div>
 </div>

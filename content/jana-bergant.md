@@ -29,4 +29,17 @@ Za svoje stranke vspostavljam varno in podporno okolje ter jih spodbujam k razis
 
 Strankam ne more samo olajšam procesa hipnoze, ampak izkušnjo prilagodim edinstvenim potrebam vsake stranke. Svoj pristop prilagodim posamezniku, pri čemer črpam iz različnih tehnik hipnoze in drugih terapevtskih modalitet, da ustvarim prilagojen načrt zdravljenja, ki obravnava posebne potrebe in cilje vsake stranke posebej.
 
-V svojem delu sem predana pomoči posameznikom, da dosežejo svoj polni potencial in živijo izpoln
+V svojem delu sem predana pomoči posameznikom, da dosežejo svoj polni potencial in živijo izpolnjeno.
+
+
+## Izobraževanja
+
+Praktik hipnoze opravljen pri Mindology Institute
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img alt="Praktik hipnoze" src="/images/praktik_hipnoze.webp">
+  </div>
+  <em>Certifikati</em>
+</div>
+
