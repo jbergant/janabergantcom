@@ -9,11 +9,11 @@ tags:   ['hipnoterapija', 'hipnoza']
 
 Hipnoza stoletja fascinacinira in vznemirja ljudi. 
 
-V filmih jo pogosto prikazujejo kot skrivnostno in močno orodje, ki lahko nadzoruje um ljudi. S čimer vzbuja nepotreben strah in dvome.
+V filmih jo pogosto prikazujejo kot skrivnostno in močno orodje, ki lahko nadzoruje um ljudi. S čimer se vzbuja nepotreben strah in dvome.
 
 Namreč: obstajata dve različni obliki hipnoze, ki ju ljudje pogosto zamenjujejo: odrska hipnoza in hipnoterapija.
 
-Hipnoza in hipnoterapija sta dve različni metodi, ki se uporabljata moč podzavestnega uma. Čeprav obe metodi vključujeta stanje, podobno transu, se njuna uporaba in cilji močno razlikujejo. 
+Hipnoza in hipnoterapija sta dve povsem različni metodi, ki obe uporabljata moč podzavestnega uma. Čeprav obe metodi vključujeta stanje, podobno transu, se njuna uporaba in cilji močno razlikujejo. 
 
 V tem članku bomo opisala ključne razlike med odrsko hipnozo in hipnoterapijo.
 
