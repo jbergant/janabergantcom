@@ -87,7 +87,7 @@ aida_interest: Sem certificirana hipnoterapevtka, in s pomočjo hipnoze in unika
 aida_desire: Predstavljaj si življenje brez obsesije s težo teže, koliko energije bi ti ostalo, kakšen bi bil občuek v lastnem telesi. Sem tu, da ti pomagam uresničiti te sanje!
 aida_action: Prijavi se na spoznavni klic še danes in naredi prvi korak na poti k izboljšanju zdravja in dobrega počutja s pomočjo hipnoze za hujšanje!
 
-final_cta_text: Prevzemite nadzor nad svojim življenjem in kilami s hipnoterapijo za hujšanje! Naj ti hipnoza pomaga, da se osvobodiš čustvenega prenajedanja in negativne samopodobe. Ukrepajte zdaj in se končno osvobodi čustvenega prenajedanja!
+final_cta_text: Prevzemite nadzor nad svojim življenjem in kilami s hipnoterapijo za hujšanje!<br> Naj ti hipnoza pomaga, da se osvobodiš čustvenega prenajedanja in negativne samopodobe.<br> Ukrepajte zdaj in se končno osvobodi čustvenega prenajedanja!
 ---
 
 
