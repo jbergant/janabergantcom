@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://janabergant.com/"
+baseURL = "https://www.janabergant.com/"
 languageCode = "sl-si"
 title = "Hipnoterapija z Jano"
 paginate = 6
