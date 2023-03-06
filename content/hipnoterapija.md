@@ -58,11 +58,12 @@ Hipnoterapija je tako močno orodje, ker odpravlja vzorce globoko v podzavesti. 
 <a name="uspesnost"></a>
 ## Kakšna je uspešnost hipnoterapije?
 
-Uspešnost hipnoterapije se razlikuje glede na začetno stanje in posameznikovo nagnjenost k hipnotičnim sugestijam, vendar so raziskave o njeni učinkovitosti obetavne. 
+Uspešnost hipnoterapije se razlikuje glede na začetno stanje in posameznikovo nagnjenost k hipnotičnim sugestijam, vendar so raziskave o njeni učinkovitosti obetavne.
 
-Študija iz leta 2018 je pokazala, da je hipnoterapija po 12 tednih zdravljenja bistveno bolj zmanjšala simptome depresije kot sama kognitivno-vedenjska terapija (CBT). 
+[ Študija iz leta 2018]("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5786848/" "Študija o vplivu hipnoze na spanje")  je pokazala, da je hipnoterapija prinesla uspeh v 70% pri težavah z nespečnostjo.  Uspešnost se še toliko bolj poveča, ko se hipnoterapija za spanje kombinira skupaj s konitivno vedenjsko terapijo za nespečnost. Konitivno vedenjsko terapijo za nespečnost uporabljam skupaj z hipnoterapijo s čimer skupaj s stranko nasloviva vzroke nespečnosti.
 
-Na splošno so študije našle pomembne ali dobre dokaze, ki kažejo, da je hipnoza lahko koristna pri različnih psiholoških težavah, kot so tesnoba, depresija, stres in nespečnost.
+Na splošno so študije našle pomembne ali dobre dokaze, ki kažejo, da je hipnoza lahko koristna pri različnih  težavah, kot so tesnoba, nezdrave navade, negativno razišljanje, stres in nespečnost.
+
 
 
 
