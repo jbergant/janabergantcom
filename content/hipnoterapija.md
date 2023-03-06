@@ -34,6 +34,7 @@ Hitri dostop
 [Kakšna je razlika med hipnozo in hipnoterapijo?](#razlika)  
 [Za koga hipnoterapija ni primerna?](#niprimerna)  
 [Ali so rezultati hipnoterapije trajni?](#rezultati)  
+[Razlika med hipnoterapijo in hipnozo za oder?](#hipnozazaoder)  
 [Kaj če se ne morem zbuditi iz hipnoze?](#zbuditi)  
 [Ali lahko hipnoterapevt bere moje misli?](#misli)  
 [Kakšen je občutek med seanso hipnoterapije?](#obcutek)  
@@ -64,6 +65,7 @@ Uspešnost hipnoterapije se razlikuje glede na začetno stanje in posameznikovo 
 
 Na splošno so študije našle pomembne ali dobre dokaze, ki kažejo, da je hipnoza lahko koristna pri različnih  težavah, kot so tesnoba, nezdrave navade, negativno razišljanje, stres in nespečnost.
 
+Uspešnost po 6 seansah je 93%, pod pogoji, da oseba tudi doma izvaja vaje podane na seansi hipnoterapije.
 
 
 
@@ -89,26 +91,47 @@ Hipnoterapija ni primerna za zdravljenje nekaterih psihiatričnih stanj, kot so 
 <a name="rezultati"></a>
 ## Ali so rezultati hipnoterapije trajni?
 
-Rezultati hipnoze niso vedno trajni in so lahko odvisni od posameznikove sposobnosti, da predloge, ki jih je dobil med seanso, vključi v svoje vsakdanje življenje. Vendar pa je veliko ljudi doživelo dolgotrajne rezultate hipnoterapije, če so redno vadili, kar so se naučili na seansah. Raziskave so tudi pokazale, da je mogoče pozitivne učinke hipnoze ohraniti tudi šest mesecev po koncu zdravljenja, kar kaže na to, da so nekateri njeni učinki res trajni.
+Rezultati hipnoze niso vedno trajni in so lahko odvisni od posameznikove sposobnosti, da predloge, ki jih je dobil med seanso, vključi v svoje vsakdanje življenje. 
 
+Vendar pa je veliko ljudi doživelo dolgotrajne rezultate hipnoterapije, če so redno vadili, kar so se naučili na seansah. 
+
+
+ 
+<a name="hipnozazaoder"></a>
+## Razlika med hipnoterapijo in hipnozo za oder?
 
 <a name="zbuditi"></a>
 ## Kaj če se ne morem zbuditi iz hipnoze?
 
-Normalno je, da se med hipnozo počutimo sproščeno in udobno, vendar je popolnoma nemogoče, da bi nekdo ostal v stanju transa, če tega ne želi. Transu podobno stanje, ki ga doživite med hipnozo, je le začasno in iz njega lahko zlahka izstopite, ko vam terapevt da znak ali ko se sami odločite, da je čas za konec seanse. Če se kadar koli med seanso počutite preobremenjeno ali neprijetno, to preprosto povejte terapevtu, da vas bo lahko varno in učinkovito popeljal iz hipnoze.
+Normalno je, da se med hipnozo počutimo sproščeno in udobno, vendar je popolnoma nemogoče, da bi nekdo ostal v stanju transa, če tega ne želi. 
+
+Transu podobno stanje, ki ga doživite med hipnozo, je le začasno in iz njega lahko zlahka izstopite, ko vam terapevt da znak ali ko se sam odločiš, da je čas za konec seanse. 
+
+Če se kadar koli med seanso počutite preobremenjeno ali neprijetno, to preprosto poveš terapevtu, da te bo lahko varno in učinkovito popeljal iz hipnoze.
+
+Hipnoterapija nima nobene veze s hipnozo za oder, s čimer mnogi povezujejo hipnozo. Preberi si več o 
 
 
 <a name="misli"></a>
 ## Ali lahko hipnoterapevt bere moje misli?
 
-Ne, hipnoterapevt ne more brati vaših misli. Hipnoterapevt vam lahko pomaga dostopati do podzavesti in tako pridobiti boljši vpogled v svoje misli, občutke in vedenje. Vendar pa ne more brati vaših misli ali vedeti, kaj se dogaja v vašem umu, če mu tega ne poveste neposredno. Pri hipnoterapiji gre za to, da se naučite, kako imeti nadzor nad dogajanjem v svoji glavi - in ne za to, da nekdo drug prevzame nadzor nad tem namesto vas.
+Ne, hipnoterapevt ne more brati vaših misli. Hipnoterapevt vam lahko pomaga dostopati do podzavesti in tako pridobiti boljši vpogled v svoje misli, občutke in vedenje. 
+Vendar pa ne more brati vaših misli ali vedeti, kaj se dogaja v vašem umu, če mu tega ne poveste neposredno. P
+
+ri hipnoterapiji gre za to, da se naučite, kako imeti nadzor nad dogajanjem v svoji glavi - in ne za to, da nekdo drug prevzame nadzor nad tem namesto vas.
 
 
 <a name="obcutek"></a>
 ## Kakšen je občutek med seanso hipnoterapije?
 
 Hipnoterapija se običajno začne s pogovorom med stranko in hipnoterapevtom. Terapevt tako razume strankine cilje, trenutne težave in čustveno stanje. Med seanso se stranke običajno počutijo sproščeno, saj vstopijo v stanje, podobno transu. 
-Med hipnozo posameznik sicer sliši, vidi in razume vse kar se dogaja okrog njega. Hipnotična izkušnja se lahko razlikuje od osebe do osebe, odvisno od njene stopnje udobja, vendar jo veliko ljudi opisuje kot občutek globoke sprostitve. V tem času lahko doživijo tudi intenzivna čustva ali živahne podobe, včasih pa celo prikličejo pozabljene spomine. Seanse hipnoterapije temeljijo na besednih predlogih terapevta, ki so posebej prilagojeni vsakemu posamezniku, da bi odpravili vse temeljne težave ali prepričanja, ki bi lahko vplivala na njegovo trenutno vedenje ali vzorce. Mnogi ljudje poročajo, da se po seansi počutijo bolj sveže, umirjene, polne energije in moči.
+
+Med hipnozo posameznik sicer sliši, vidi in razume vse kar se dogaja okrog njega. Hipnotična izkušnja se lahko razlikuje od osebe do osebe, odvisno od njene stopnje udobja, vendar jo veliko ljudi opisuje kot občutek globoke sprostitve. 
+V tem času lahko doživijo tudi intenzivna čustva ali živahne podobe, včasih pa celo prikličejo pozabljene spomine. 
+
+Seanse hipnoterapije temeljijo na besednih predlogih terapevta, ki so posebej prilagojeni vsakemu posamezniku, da bi odpravili vse temeljne težave ali prepričanja, ki bi lahko vplivala na njegovo trenutno vedenje ali vzorce. 
+
+Veliko strank mi pove, da se po seansi počutijo bolj sveže, umirjene, polne energije in moči.
 
 
 
