@@ -44,9 +44,16 @@ Hitri dostop
 <a name="mocna"></a>
 ## Zakaj je hipnoterapija tako močna?
 
-Hipnoterapija je močna, ker se dotakne podzavestnega uma in omogoča dostop do globljih misli, čustev in prepričanj. 
+Hipnoterapija je močna, ker se dotakne podzavestnega uma in omogoča dostop do globljih misli, čustev in prepričanj.
 
-Osebi lahko pomaga dobiti vpogled v to, zakaj se obnaša na določen način, prepoznati sprožilce negativnega vedenja ali čustev ter nadomestiti samouničujoče miselne vzorce s pozitivnimi. Hipnoterapijo lahko uporabimo tudi za odpravljanje navad, kot sta negativno razmišljanje ali prenajedanje, ki sta globoko zakoreninjeni v podzavesti. 
+S hipnoterapijo lahko dobiš vpogled v to, zakaj reagiraš na določen način. V seansi in delu z mano prepoznaš sprožilce negativnega vedenja ali čustev in se naučiš reagirati drugače. S hipnoterapijo globoko v podzavesti nadomestiš samouničujoče miselne vzorce s pozitivnimi. 
+
+S hipnoterapijo ti pomagam do boljšega spanja. Je pa hipnoterapija zelo uspešna tud pri odpravljanju navad, kot sta negativno razmišljanje in čustveno prenajedanje, ki sta globoko zakoreninjeni v podzavesti.
+
+Hipnoterapija je tako močno orodje, ker odpravlja vzorce globoko v podzavesti. Za uspešnost hipnoterapije pa je nujno potrebno tudi sodelovanje stranke, saj kljub moči ni čarobna palčka. 
+
+Če imaš močno željo, če si pripravljen uvajati spremembe v svojem življenju, potem ti hipnoterapija lahko zelo pomaga in olajša pot.
+
 
 <a name="uspesnost"></a>
 ## Kakšna je uspešnost hipnoterapije?
