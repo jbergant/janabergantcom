@@ -13,7 +13,7 @@ V filmih jo pogosto prikazujejo kot skrivnostno in močno orodje, ki lahko nadzo
 
 Namreč: obstajata dve različni obliki hipnoze, ki ju ljudje pogosto zamenjujejo: odrska hipnoza in hipnoterapija.
 
-Hipnoza in hipnoterapija sta dve povsem različni metodi, ki obe uporabljata moč podzavestnega uma. Čeprav obe metodi vključujeta stanje, podobno transu, se njuna uporaba in cilji močno razlikujejo. 
+Odrska hipnoza in hipnoterapija sta dve povsem različni metodi, ki obe uporabljata moč podzavestnega uma. Čeprav obe metodi vključujeta stanje, podobno transu, se njuna uporaba in cilji močno razlikujejo. 
 
 V tem članku bomo opisala ključne razlike med odrsko hipnozo in hipnoterapijo.
 
