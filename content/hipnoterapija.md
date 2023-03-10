@@ -5,15 +5,18 @@ description: Hipnoterapija je učinkovita oblika terapije, ki vam lahko pomaga p
 image: '/images/hipnoterapija.webp'
 layout: pillar
 vsebina: 'Hipnoterapija je fascinantno in močno orodje, ki zelo dobro deluje pri težavah kot so:<br>
-- Anksioznost<br>
-- Strahovi<br>
-- Nespečnost<br>
-- Stress<br>
-- Migrene<br>
-- Čustveno prenajedanje<br>
-- Težave v seksualnosti<br>
-- Jecljenje<br>
-- In podobno<br>
+<ul>
+<li>Anksioznost</li>
+<li>Strahovi</li>
+<li>Nespečnost</li>
+<li>Stres</li>
+<li>Migrene</li>
+<li>Čustveno prenajedanje</li>
+<li>Težave v seksualnosti</li>
+<li>Jecljenje</li>
+<li>In podobno</li>
+</ul>
+
 
 <br><br>
 Pomaga tudi pri doseganju ciljev. 
@@ -46,7 +49,10 @@ Hipnoza je stanje globoke, globoke sprostitve, v katerem je oseba bolj odprta za
 <br><br>
 V stanju globoke sprostitve utihne logični del možganov in nadzor prevzame kreativni del.<br><br>
 Že Einstein je vedel, da je logika omejena. En njegovih rekov se glasi:<br><br>
-> Domišljija je pomembnejša od znanja. Znanje je omejeno. Domišljija obkroža svet.
+
+<blockquote>
+<p>Domišljija je pomembnejša od znanja. Znanje je omejeno. Domišljija obkroža svet.</p>
+</blockquote>
 <br><br>
 In prav je imel.
 <br><br>
