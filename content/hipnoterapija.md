@@ -37,7 +37,7 @@ Hitri dostop
 [Razlika med hipnoterapijo in hipnozo za oder?](#hipnozazaoder)  
 [Kaj če se ne morem zbuditi iz hipnoze?](#zbuditi)  
 [Ali lahko hipnoterapevt bere moje misli?](#misli)  
-[Kakšen je občutek med seanso hipnoterapije?](#obcutek)  
+[Kakšen je občutek med hipnozo v seansi hipnoterapije?](#obcutek)  
 [Koga se ne da hipnotizirati?](#neda)  
 [Kakšna je cena hipnoterapije?](#cena)  
 
@@ -141,16 +141,22 @@ ri hipnoterapiji gre za to, da se naučite, kako imeti nadzor nad dogajanjem v s
 
 
 <a name="obcutek"></a>
-## Kakšen je občutek med seanso hipnoterapije?
+## Kakšen je občutek med hipnozo v seansi hipnoterapije?
 
-Hipnoterapija se običajno začne s pogovorom med stranko in hipnoterapevtom. Terapevt tako razume strankine cilje, trenutne težave in čustveno stanje. Med seanso se stranke običajno počutijo sproščeno, saj vstopijo v stanje, podobno transu. 
+Med seanso se stranke običajno počutijo sproščeno, saj vstopijo v stanje, podobno transu. Možhani gredo iz beta valovanja, v mirnojšo alfo in še globjo teto.
 
-Med hipnozo posameznik sicer sliši, vidi in razume vse kar se dogaja okrog njega. Hipnotična izkušnja se lahko razlikuje od osebe do osebe, odvisno od njene stopnje udobja, vendar jo veliko ljudi opisuje kot občutek globoke sprostitve. 
-V tem času lahko doživijo tudi intenzivna čustva ali živahne podobe, včasih pa celo prikličejo pozabljene spomine. 
+Med hipnozo posameznik sicer sliši, vidi in razume vse kar se dogaja okrog njega. Ne gre v neko mistično, nadnavarno stanje, hipnoza ni mistična, ampak zelo naravno stanje, ki ga vsi doživljamo večkrat na dan.
 
-Seanse hipnoterapije temeljijo na besednih predlogih terapevta, ki so posebej prilagojeni vsakemu posamezniku, da bi odpravili vse temeljne težave ali prepričanja, ki bi lahko vplivala na njegovo trenutno vedenje ali vzorce. 
+Začneva najprej s pogovorom med stranko. Pogovor je ključnega pomena, da lahko tako razumem strankine cilje, trenutne težave in čustveno stanje.  
 
-Veliko strank mi pove, da se po seansi počutijo bolj sveže, umirjene, polne energije in moči.
+Hipnotična izkušnja pa se lahko razlikuje od osebe do osebe, odvisno od njene stopnje udobja in zaupanja, vendar jo večina ljudi opisuje kot občutek globoke sprostitve. Moje stranke mi pogosto rečejo, da jim je fino, da so sproščeni, da se počutijo bolje.
+Je pa kot sem omenila, potrebno da stranka zaupa, da se prepusti, sprosti.
+Nekateri v stanju hipnoze doživijo tudi intenzivna čustva ali živahne podobe, včasih pa celo prikličejo pozabljene spomine. 
+V senasi hipnotizirano osebo vodim z navodili, ki so posebej prilagojeni vsakemu posamezniku. 
+Seanse so prilagojene, da odpravijo vse temeljne težave ali prepričanja, ki jih stranka ima. Vse stvai, ki vplivajp na trenutno vedenje ali vzorce. 
+
+Mnogi rečejo, da se po seansi počutijo bolj sveže, umirjene, polne energije in moči.
+
 
 
 
