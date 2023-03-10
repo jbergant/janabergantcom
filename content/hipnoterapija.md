@@ -99,17 +99,36 @@ Vendar pa je veliko ljudi doživelo dolgotrajne rezultate hipnoterapije, če so 
  
 <a name="hipnozazaoder"></a>
 ## Razlika med hipnoterapijo in hipnozo za oder?
+Odrska hipnoza je oblika hipnoze, ki jo pozna večina ljudi. Pogosto se izvaja pred velikim občinstvom in vključuje hipnotizerja, ki izbere prostovoljce iz občinstva za sodelovanje v različnih zabavnih in pogosto komičnih podvigih.
+
+V filmih hipnozo prikazujejo kot nekaj magičnega s čimer odvzameš moč drugemu človeku. Na odrih vidimo hipnotizerje, za katere se res zdi, da znajo brat misli.
+Za dober show je potrebna teatralnost. 
+
+Hipnoza pa ni nič tako misličnega kot jo prikazuje show biznis. Hipnoza je čist naravno stanje, ki ga vsak človek doživi večkrat na dan.
+
+Naj še omenim, da prostovoljci v odrski hipnotični predstavi dejansko niso pod nadzorom hipnotizerja. Preprosto so bolj sugestibilni, ko so v stanju transa, in so pripravljeni slediti danim predlogom, ker se jim zdijo zabavni.
+
+Hipnoterapija pa je terapevtska tehnika, ki s pomočjo hipnoze pomaga posameznikom narediti pozitivne spremembe v svojem življenju.
+
+Hipnoterapija uporablja hipnozo kot orodje za reševanje težav s čimer pomaga ljudem spremeniti njihovo vedenje, navade, misli in čustva.
+
+V smislu terapije hipnoza predstavlja osebo v globoki sprostitvi, s pozornostjo usmerjeno navznoter ob primernijh navodilih hipnoterapevta.
+
+Več o [ razliki med odrsko hipnozo in hipnoterapijo]({{< ref "/clanki/odrska-hipnoza-in-hipnoterapija/.md" >}} "Razlika med odrsko hipnozo in hipnoterapiji") si lahko prebereš v članku.
+
+
 
 <a name="zbuditi"></a>
 ## Kaj če se ne morem zbuditi iz hipnoze?
 
 Normalno je, da se med hipnozo počutimo sproščeno in udobno, vendar je popolnoma nemogoče, da bi nekdo ostal v stanju transa, če tega ne želi. 
 
-Transu podobno stanje, ki ga doživite med hipnozo, je le začasno in iz njega lahko zlahka izstopite, ko vam terapevt da znak ali ko se sam odločiš, da je čas za konec seanse. 
+Transu podobno stanje, ki ga doživite med hipnozo, je le začasno in iz njega lahko zlahka izstopiš, ko ti terapevt da znak ali ko se sami odločiš, da je čas za konec seanse. 
 
-Če se kadar koli med seanso počutite preobremenjeno ali neprijetno, to preprosto poveš terapevtu, da te bo lahko varno in učinkovito popeljal iz hipnoze.
+Če se med seanso počutil preobremenjeno ali neprijetno, mi to preprosto poveš, pa te popeljem v varen prostor ali pa tudi iz hipnoze. 
 
-Hipnoterapija nima nobene veze s hipnozo za oder, s čimer mnogi povezujejo hipnozo. Preberi si več o 
+Hipnoza je stanje globoke sproščenosti in v resnici ne moremo ostati večno globoko sproščeni. Preprosto se ne da.
+
 
 
 <a name="misli"></a>
