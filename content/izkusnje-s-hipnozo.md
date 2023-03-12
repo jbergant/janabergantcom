@@ -61,6 +61,7 @@ Zdaj veliko lažje zaspim. Pride še kakšen dan, ko se misli ne ustavijo ampak 
 
 Z vajo in seansami sem prišel do tega, da nimam več toliko težav s spanjem. Pot še ni končana, bom še delal z Jano in vajami, ki mi jih je Jana pripravila. Zame je že zdaj velika, velika razlika.
 
+
 **Kako si se počutil med sešni hipnoterapije?**
 Ko nekdo reče hipnoza pomislim na tiste hipnoze, ki jih vidiš po televiziji. In seveda to ni to. Predvsem se gre, da se postopno sprostiš, spustiš, nekako potoneš deloma vase in si v nekakšnem takem stanju med budnostjo in spanjem.
 
@@ -69,6 +70,8 @@ Počutiš se prijetno in varno in ko sporočilo namenjeno temu, da razrešuje tv
 V praksi to pomeni, da sediš, hipnoterapevt je nasproti tebe in te pelje čez ves proces. Hipnoza je zelo prijetna izkušnja. 
 
 Ob koncu se počutiš zelo spočitega. Ves čas slišiš in se zavedaš. Tudi če se bojiš sprostit in želiš imeti kontrolo, je dobro vedt, da ves čas med hipnozo imaš kontrolo in greš lahko kadarkoli ven. Tudi čez dan mi prav pride, ko je kakšna stresna situacija, da se znam sprostit in umirit. 
+
+<a class="section__link" href="/hipnoterapija-za-spanje/">Več o hipnoterapiji za spanje <i class="ion ion-md-arrow-forward"></i></a>
 
 ### Izkušnja s hipnoterapijo za hujšanje
 
@@ -95,6 +98,8 @@ Jano priporočam vsem, ki si s strani hipnoterapevta želite pozitivne motivacij
 Definitivno priporočam! 
 
 (anonimna)
+
+<a class="section__link" href="/hipnoterapija-za-hujsanje/">Več o hipnoterapiji za hujšanje <i class="ion ion-md-arrow-forward"></i></a>
 
 ### Izkušnja s hipnoterapijo za fokus
 
@@ -141,6 +146,7 @@ Potem si kapitan svoje ladje, ki pozorno pazi na čeri, spremlja vreme, prilagaj
 
 Ana je skozi najina srečanje izurila svoj stik s sabo in se opolnomočila. Ima vse možnosti, da prispe na cilj, ki si ga želi. V sebi ima moč in jasnost, ki se je vse bolj zaveda.
 
+<a class="section__link" href="/hipnoterapija-za-samozavest/">Več o hipnoterapiji za samozavest <i class="ion ion-md-arrow-forward"></i></a>
 
 ### Izkušnja s hipnoterapijo za samozavest
 Na hipnozo je prišla lepa, urejena ženska v najboljših letih. Njen videz je perfekten, vedno urejena, prijazna. Ne moreš si pomagat, da ne pomisliš: wow!
@@ -189,4 +195,4 @@ Tejo sem vprašala tudi, kaj je doživljala med hipnozo. Tole je delila z mano:
 
 “Med hipnozo sem šla globoko vase, in sem čutila globoko v sebi… čutila sem, kako si me vodila, da sem si živo predstavljala, da sem videla to novo podobo… kako je dobivala barve… obliko…kako je nastala ta moja chearleaderka…in se vgradila vame…. Da jo imam zdaj v sebi… da mi je v pomoč…da bo vedno z menoj. In od takrat naprej, avtomatsko pride ta podoba. Šla sem v stik sama s sabo, našla kar me muči in skozi vprašanja, ki si mi jih postavljala, se je zgradila chearleaderka, ki je prevzela mojo tremo”.
 
- 
+ <a class="section__link" href="/hipnoterapija-za-samozavest/">Več o hipnoterapiji za samozavest <i class="ion ion-md-arrow-forward"></i></a>
