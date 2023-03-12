@@ -1,0 +1,38 @@
+{{ define "main" }}
+<section class="section">
+  <div class="container">
+
+    <div class="page-head">
+        <h1 class="page-title">{{ .Title }}</h1>
+        {{ if .Params.subtitle }}
+          <p class="project-subtitle">{{ .Params.subtitle  | markdownify }}</p>
+        {{ end }}
+
+    </div>
+  </div>
+</section>
+{{ if .Params.image }}
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="post-image">
+        <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+<div class="container">
+    <article class="post animate">
+
+  
+      <div class="post__content">
+        {{ .Content }}
+      </div>
+  
+    </article>
+  </div>
+{{ partial "social-proof.html" . }}  
+
+
+{{ end }}

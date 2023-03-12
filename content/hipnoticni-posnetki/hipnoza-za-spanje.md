@@ -17,7 +17,7 @@ Hipnotični posnetek za spanje je namenjen vsem, ki:
 - imajo občutek, kot da zamujajo pomembne vidike življenja, ker so preveč utrujeni za dejavnosti ali druženje.
 
 
-Veliko ljudi se ne zaveda kako popmmbno je spanje. V kulturi, kjer je ena večjih vrednot produktivnost, je zgodnje vstajanje in delo v pozno v noč hvljeno kot vrlina.
+Veliko ljudi se ne zaveda kako pomembno je spanje. V kulturi, kjer je ena večjih vrednot produktivnost, je zgodnje vstajanje in delo v pozno v noč hvljeno kot vrlina.
 
 Na žalost pa ravno pomankanje spanja vodi v veliko slabšo produktivnost. Ni pa to najhujše kar pomankanje spanja prinaša. Pomankanje spanja je povezano s:
 - zmanjšano zmožnostjo uravnavati razpoloženja. Neprespana oseba je razdražljiva, vskipljiva, težje kontrolira impulze, čustva ji nihajo,...

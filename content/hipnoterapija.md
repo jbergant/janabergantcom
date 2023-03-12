@@ -29,13 +29,26 @@ Hipnoterapija je močno orodje, ki ti lahko pomaga priti do podzavesti in naredi
 Ta proces je lahko neverjetno močen, saj ti omogoča, da obideš kritičen glas v svoji glavi, ki te ovira pri pozitivnih spremembah v tvojem življenju. Se pravi premagaš tiste stvari, ki te blokirajo in zarad katerih ne moreš enih stvari spustit, druge pa odlašaš. 
 <br><br>
 V hipnoterapiji  se lahko naučiš preoblikovati negativne miselne vzorce, opustiti omejujoča prepričanja in poiskat, se dotakniti svojih notranjih virov, da končno dosežeš svoje cilje.
+
+
+Najpogosteje strankam pomagam s:
+<ul>
+    <li><a href="/hipnoterapija-za-spanje" title="Hipnoterapija za spanje">hipnoterapijo za spanje</a></li>
+    <li><a href="/hipnoterapija-za-hujsanje" title="Hipnoterapija za hujšanje">hipnoterapijo za hujsanje</a></li>
+    <li><a href="/hipnoterapija-za-samozavest" title="Hipnoterapija za samozavest">hipnoterapijo za samozavest</a></li>
+</ul>
+
+
 <br><br>
+
+<h2>Hipnoterapija in hipnoza</h2>
+<br>
 Kaj pa ima hipnoterapija veze s hipnozo? Hipnoza in hipnoterapija nista isto, sta pa povezani.
 
 
 
 <br><br><br>
-Predno pa kaj več povem, dajva najprej razčistit kaj hipnoza ni.
+Predno pa kaj več povem, poglejva kaj hipnoza ni.
 <br><br>
 Hipnoza že od nekdaj fascinacinira in vznemirja. V filmih jo prikazujejo kot nekaj magičnega s čimer odvzameš moč drugemu človeku. <br><br>
 Na odrih vidimo hipnotizerje, za katere se res zdi, da znajo brat misli.<br><br>
@@ -81,8 +94,15 @@ Nezadostno ali neurejeno spanje lahko poveča tveganje za anksioznost, depresijo
 Globoko spanje te popelje iz teta v delta valove. V tem stanju se v telesu dogajajo najbolj restorativne, kreativne, mogočne stvari. Na videz že izgleda, da smo na miru, pod površjem pa se dogaja mnogo procesov, ki ti pomagajo do boljše čustvene stabilnosti, večje učinkovitosti in boljše sposobnosti reševanja problemov. In ja V REM stanju se reši tudi marsikateri problem. Marsikatera pesem je bila skreirana v spanju. Periodični sistem je bil sestavljen v spanju. Bolj ko preučuješ spanje, bolj ti je jasno, da je res izredno pomembno za vsakogar.
 <br><br>
 In ja, hipnoterapija zelo pomaga pri urejanju spanja. Hipnoterapija sicer ne reši zdravstvenih stvari kot so nemirne noge ali spalna apneja in druge stvari. Ti pa pomaga, ko imaš obsessive misli, slabe navade in prepričanja, ali pa rabiš se samo sprostit.
+
+<div class="article_button">
+    <form class="form" action="https://www.janabergant.com/hipnoterapija-za-spanje/" method="GET" target="_blank">
+        <button class="button button--middle" type="submit">Hipnoterapija za spanje <i class="ion ion-ios-paper-plane"></i></button>
+    </form>
+</div>
+
 <br><br>
-Zelo uspešna pa je tudi pri odpravljanju navad, kot sta negativno razmišljanje in čustveno prenajedanje, ki sta globoko zakoreninjeni v podzavesti.<br> 
+Hipnoterapija je zelo uspešna tudi pri odpravljanju navad, kot sta negativno razmišljanje in čustveno prenajedanje, ki sta globoko zakoreninjeni v podzavesti.<br> 
 In vse to so stvari v katere strastno verjamem in jih dnevno pomagam reševat mojim strankam.
 
 <br><br><br>

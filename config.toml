@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://www.janabergant.com/"
+baseURL = "https://janabergant.com/"
 languageCode = "sl-si"
 title = "Hipnoterapija z Jano"
 paginate = 6
@@ -25,29 +25,30 @@ disableKinds = ['sitemap']
     weight = -3
     
     [[menu.main]]
+    name = "Mnenja strank"
+    url = "/izkusnje-s-hipnozo/"
+    weight = -2 
+
+    [[menu.main]]
+    parent = "Hipnoterapija"
     name = "O hipnoterapiji"
     url = "/hipnoterapija/"
-    weight = -2
+    weight = -4
 
     [[menu.main]]
-    name = "Članki"
-    url = "/clanki/"
-    weight = -1
-
-    [[menu.main]]
-    parent = "Storitve"
+    parent = "Hipnoterapija"
     name = "Hipnoterapija za spanje"
     url = "/hipnoterapija-za-spanje/"
     weight = -4
 
     [[menu.main]]
-    parent = "Storitve"
+    parent = "Hipnoterapija"
     name = "Hipnoterapija za hujšanje"
     url = "/hipnoterapija-za-hujsanje/"
     weight = -4
 
     [[menu.main]]
-    parent = "Storitve"
+    parent = "Hipnoterapija"
     name = "Hipnoterapija za samozavest"
     url = "/hipnoterapija-za-samozavest/"
     weight = -4

@@ -28,8 +28,7 @@
               {{ range sort .Site.Menus.main "Weight" }}
               {{ $menuURL := .URL | absLangURL }}
               {{ $pageURL:= $currentPage.Permalink | absLangURL }}
-              {{ $active := eq $menuURL $pageURL }}
-
+              {{ $active := eq $menuURL $pageURL }}  
               {{ if .HasChildren }}
                 <li class="nav__item dropdown">
                   <span class="nav__link dropdown-toggle">{{ .Name }} <i class="ion ion-ios-arrow-down arrow-down"></i></span>
