@@ -73,12 +73,17 @@ disableKinds = ['sitemap']
     url = "/hipnoterapija-za-spanje/"
     weight = -4    
 
+    [[menu.main]]
+    name = "Članki"
+    url = "/clanki/"
+    weight = -1
 
    [[menu.main]]
     parent = "Orodja"
     name = "Hipnotični posnetki"
     url = "/hipnoticni-posnetki/"
     weight = 0
+
 
 
     [[menu.main]]
