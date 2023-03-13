@@ -25,20 +25,34 @@ disableKinds = ['sitemap']
     weight = -3
     
     [[menu.main]]
-    name = "Mnenja strank"
+    parent = "Mnenja strank"
+    name = "Izkušnje s hipnozo"
     url = "/izkusnje-s-hipnozo/"
     weight = -2 
+
+    [[menu.main]]
+    parent = "Mnenja strank"
+    name = "Izkušnje s hipnozo za spanje"
+    url = "/hipnoza-za-spanje-izkusnje/"
+    weight = -2  
+
+    [[menu.main]]
+    parent = "Mnenja strank"
+    name = "Izkušnje s hipnozo za hujšanje"
+    url = "/hipnoza-za-hujsanje-izkusnje/"
+    weight = -2   
+
+    [[menu.main]]
+    parent = "Mnenja strank"
+    name = "Izkušnje s hipnozo za samozavest"
+    url = "/hipnoza-za-samozavest-izkusnje/"
+    weight = -2   
+
 
     [[menu.main]]
     parent = "Hipnoterapija"
     name = "O hipnoterapiji"
     url = "/hipnoterapija/"
-    weight = -4
-
-    [[menu.main]]
-    parent = "Hipnoterapija"
-    name = "Hipnoterapija za spanje"
-    url = "/hipnoterapija-za-spanje/"
     weight = -4
 
     [[menu.main]]
@@ -52,6 +66,12 @@ disableKinds = ['sitemap']
     name = "Hipnoterapija za samozavest"
     url = "/hipnoterapija-za-samozavest/"
     weight = -4
+
+    [[menu.main]]
+    parent = "Hipnoterapija"
+    name = "Hipnoterapija za spanje"
+    url = "/hipnoterapija-za-spanje/"
+    weight = -4    
 
 
    [[menu.main]]
