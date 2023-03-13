@@ -51,5 +51,8 @@ Definitivno priporočam!
 
 (anonimna)
 
-<a class="section__link" href="/hipnoterapija-za-hujsanje/">Več o hipnoterapiji za hujšanje <i class="ion ion-md-arrow-forward"></i></a>
+
+<div class="article_button">
+  <a href="/hipnoterapija-za-hujsanje/" class="button button--middle" type="submit">Več o hipnoterapiji za hujšanje<i class="ion ion-ios-paper-plane"></i></a>
+</div>
 
