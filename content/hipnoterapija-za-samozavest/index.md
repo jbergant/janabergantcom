@@ -7,7 +7,7 @@ subtitle: 'Ali meniš, da te pomanjkanje samozavesti ovira pri doseganju želene
 <br><br>
 Dal/a si vse od sebe, prebrala vse knjige za samopomoč in šla na 1001 delavnico, da bi si pomagala. Toda kljub trudi nobena od teh metod ni bila uspešna pri tem da bi se počutil/a bolj samozavestn/a.
 <br><br>
-Naroče se še danes in začni svojo pot preobrazbe. S strokovnim znanjem o hipnoterapiji te popeljem na notranje raziskovanje, da skupaj ugotoviva, kaj te ovira pri doseganju ciljev. 
+Naroče se še danes in začni svojo pot preobrazbe. V stanju hipnoze te popeljem na notranje raziskovanje, da skupaj ugotoviva, kaj te ovira pri doseganju ciljev. 
 Z odklepanjem podzavesti – izvora toliko naših težav – lahko hitro in brez truda razvijemo trajne spremembe.
 Ustvari novo pot zase - prijavi se zdaj in začni dvigovati svojo samozavest in samospoštovanje!
 '
