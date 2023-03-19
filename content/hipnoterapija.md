@@ -34,7 +34,7 @@ V hipnoterapiji  se lahko naučiš preoblikovati negativne miselne vzorce, opust
 Najpogosteje strankam pomagam s:
 <ul>
     <li><a href="/hipnoterapija-za-spanje" title="Hipnoterapija za spanje">hipnoterapijo za spanje</a></li>
-    <li><a href="/hipnoterapija-za-hujsanje" title="Hipnoterapija za hujšanje">hipnoterapijo za hujsanje</a></li>
+    <li><a href="/hipnoterapija-za-hujsanje" title="Hipnoterapija za hujšanje">hipnoterapijo za hujšanje</a></li>
     <li><a href="/hipnoterapija-za-samozavest" title="Hipnoterapija za samozavest">hipnoterapijo za samozavest</a></li>
 </ul>
 

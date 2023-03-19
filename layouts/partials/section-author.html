@@ -9,7 +9,8 @@
             <h1 class="author__name">{{ .Site.Params.author.author__title | safeHTML }}</h1>
             <p class="author__bio">{{ .Site.Params.author.author__bio | markdownify }}</p>
             <p class="author__bio">{{ .Site.Params.author.author__bio_extended | markdownify }}</p>
-            <a class="author__btn" href="#storitve">
+            <p class="author__bio">{{ .Site.Params.author.author__bio_hook | markdownify }}</p>
+            <a class="author__btn" href="#freebie">
               <span class="circle-bg"><i class="ion ion-md-arrow-down button-arrow"></i></span> {{ .Site.Params.author.button__text }}
             </a>
 

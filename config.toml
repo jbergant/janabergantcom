@@ -50,28 +50,11 @@ disableKinds = ['sitemap']
 
 
     [[menu.main]]
-    parent = "Hipnoterapija"
-    name = "O hipnoterapiji"
+    name = "Hipnoterapija"
     url = "/hipnoterapija/"
-    weight = -4
+    weight = -2
 
-    [[menu.main]]
-    parent = "Hipnoterapija"
-    name = "Hipnoterapija za hujšanje"
-    url = "/hipnoterapija-za-hujsanje/"
-    weight = -4
 
-    [[menu.main]]
-    parent = "Hipnoterapija"
-    name = "Hipnoterapija za samozavest"
-    url = "/hipnoterapija-za-samozavest/"
-    weight = -4
-
-    [[menu.main]]
-    parent = "Hipnoterapija"
-    name = "Hipnoterapija za spanje"
-    url = "/hipnoterapija-za-spanje/"
-    weight = -4    
 
     [[menu.main]]
     name = "Članki"
@@ -103,11 +86,12 @@ disableKinds = ['sitemap']
   [params.author]
     author__name = "Jana Bergant"
     author__title = "Živjo, sem Jana"
-    author__bio = "S hipnoterapijo ti pomagam bolje spati, shujšati in postati bolj samozavestna in opolnomočena. Na spletni strani najdeši vse, kar potrebuješ za pozitivne spremembe v svojem življenju."
-    author__bio_extended = "Dovolj nespečnosti, obsedenosti s kilami ter slabe samozavesti."
+    author__bio = "S hipnoterapijo in metodami za izboljšanje spalnih navad in opuščanje slabih mislenih vzorcev ti pomagam bolje spati."
+    author__bio_extended = "Odkrij kako se lahko resnično naspiš da boš imel večjo umsko in telesno zmogljivost brez stranskih učinkov."
+    author__bio_hook = "S slabim spanjem izgubljaš zdravje, umske sposobnosti in čustveno stabilnost. Si pripravljen na spremembo?<br>Imaš dovolj neprespanih noči? Se ti neprespanost pozna pri delu, odnosih in zdravju? Ni treba, da je tako."
     author__image = "/images/hipnoterapija-z-jano.webp"
     author__avatar = "/images/hipnoterapija-z-jano-bergant.webp"
-    button__text = "Kaj nudim"
+    button__text = "Kako do kvalitetnega spanja"
 
 
   #-------------------------------
