@@ -63,11 +63,15 @@ disableKinds = ['sitemap']
 
    [[menu.main]]
     parent = "Orodja"
+    name = "Tečaj Dovolj slabega spanja"
+    url = "/dovolj-slabega-spanja/"
+    weight = 0
+
+   [[menu.main]]
+    parent = "Orodja"
     name = "Hipnotični posnetki"
     url = "/hipnoticni-posnetki/"
     weight = 0
-
-
 
     [[menu.main]]
     name = "O Jani"

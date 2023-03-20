@@ -1,0 +1,62 @@
+{{ define "main" }}
+
+<a href="https://bit.ly/dovolj-slabega-spanja"><img src="/images/delavnice/dovolj-slabega-spanja.webp" alt="Dovolj slabega spanja" /></a>
+<div class="container">
+    <div class="post-head">
+      <div class="post-tags__box">
+        {{ range ($.GetTerms "tags") }}
+          <a href="{{ .Permalink }}" class="post__tag">{{ .LinkTitle }}</a>
+        {{ end }}
+      </div>
+      <h1 class="post-title">{{ .Title }}</h1>
+    </div>
+    <div class="row">
+      <div class="col col-12">
+          <div class="project-content">
+            {{ .Content }}
+          </div>
+          </div>
+      </div>
+      <div class=" col col-12">
+        <div class="article_button"><p>Prijava na tečaj Dovolj slabega spanja. </p>
+            <form class="form" action="https://bit.ly/dovolj-slabega-spanja" method="GET" target="_blank">
+                <button class="button button--middle" type="submit">PRIJAVA<i class="ion ion-ios-paper-plane"></i></button>
+            </form>
+        </div>
+      </div>   
+  </div>
+
+  <div class="freebie">
+    <div class="container">
+        <div class="row">
+
+            <div class=" col col-6 col-d-6 col-t-12">
+                  <img src="/images/delavnice/jana.webp" alt="Jana" />
+            </div>
+
+            
+            <div class=" col col-6 col-d-6 col-t-12">
+              <div class="content">
+                {{ .Content }}
+              </div>
+            </div>
+               
+
+        </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class=" col col-12">
+        <div class="article_button"><p>Prijava na tečaj Dovolj slabega spanja. </p>
+            <form class="form" action="https://bit.ly/dovolj-slabega-spanja" method="GET" target="_blank">
+                <button class="button button--middle" type="submit">PRIJAVA<i class="ion ion-ios-paper-plane"></i></button>
+            </form>
+        </div>
+      </div> 
+           
+
+    </div>
+</div>
+
+{{ end }}
