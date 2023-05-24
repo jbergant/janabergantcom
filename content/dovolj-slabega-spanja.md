@@ -6,7 +6,7 @@ layout: freebie
 vsebina: "Odkrij kako izboljšaš kvaliteto spanja in se resnično naspiš, da bodo tvoji dnevi polni energije, kreative in zdravja, brez stranskih učinkov.
 
 
-Tečaj je zate če zaradi nespečnosti: 
+TePosvetčaj je zate če zaradi nespečnosti: 
 
 - izgubljaš na energiji, učinkovitosti in počutju 
 
@@ -30,7 +30,7 @@ Naučila te bom uporabiti **moč podzavestnega uma**, da prideš do boljšega sp
 
 S slabim spanjem izgubljaš zdravje, umske sposobnosti in čustveno stabilnost.
 
-S tečajem pridobiš vpogled v to, kako lahko izboljšaš spanje in posledično izboljšaš kvaliteto življenja.
+Na posvetu pridobiš vpogled v to, kako lahko izboljšaš spanje in posledično izboljšaš kvaliteto življenja.
 
 
 
