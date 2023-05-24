@@ -1,9 +1,9 @@
 ---
 title: Dovolj slabega spanja
-Metatitle: Dovolj slabega spanja je 3 dnevni brezplačni online tečaj za osebe, ki si želijo kvalitetnega spanja
-description: Odkrij kako izboljšaš kvaliteto spanja in se resnično naspiš, da bodo tvoji dnevi polni energije, KREATkreative in zdravja, brez stranskih učinkov.
+Metatitle: Brezplačni posvet za osebe, ki si želijo kvalitetnega spanja
+description: Odkrij kako izboljšaš kvaliteto spanja in se resnično naspiš, da bodo tvoji dnevi polni energije, kreative in zdravja, brez stranskih učinkov.
 layout: freebie
-vsebina: "Na 3 dnevnem brezplačnem spletnem tečaju odkrij kako izboljšaš kvaliteto spanja in se resnično naspiš, da bodo tvoji dnevi polni energije, kreative in zdravja, brez stranskih učinkov.
+vsebina: "Odkrij kako izboljšaš kvaliteto spanja in se resnično naspiš, da bodo tvoji dnevi polni energije, kreative in zdravja, brez stranskih učinkov.
 
 
 Tečaj je zate če zaradi nespečnosti: 
