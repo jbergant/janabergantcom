@@ -25,7 +25,7 @@ Zgodnji pionir hipnoze je bil Franz Mesmer, avstrijski zdravnik, ki je v 18. sto
 
 <div class="gallery-box">
   <div class="gallery">
-    <img alt="Franz Mesmer" src="/images/franz-mesmer.jpg">
+    <img alt="Franz Mesmer" src="/images/clanki/franz-mesmer.jpg">
   </div>
   <em>Franz Mesmer</em>
 </div>
@@ -93,7 +93,7 @@ Predvsem pa zelo dobro deluje pri težavah kot so:
 
 <div class="gallery-box">
   <div class="gallery">
-    <img alt="Hipnoterapija in doseganje ciljev" src="/images/hipnoterapija-cilji.jpg">
+    <img alt="Hipnoterapija in doseganje ciljev" src="/images/canki/hipnoterapija-cilji.jpg">
   </div>
   <em>Hipnoteraoija pomaga tudi pri doseganju ciljev.</em>
 </div>
