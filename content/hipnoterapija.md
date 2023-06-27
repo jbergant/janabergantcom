@@ -209,6 +209,12 @@ Hipnoterapija je torej pomembno orodje v psihoterapevtski praksi, ki lahko pomag
 
 Če si želiš izkusiti hipnoterapijo ali če meniš, da bi ti lahko pomagala, te vabim, da se poveževa. Sem mojster hipnoterapije in ti lahko odgovorim na vsa vprašanja in ti pomagam ugotoviti, ali je hipnoterapija prava izbira zate. Izpolni kontaktni obrazec [tukaj](https://lead-capture-95fa3f.zapier.app/). Odgovorim v najkrajšem možnem času. Veselim se sodelovanja z tabo na tvoji poti do boljšega zdravja, dobrega počutja in dosegu željenih ciljev.
 
+<div class="article_button">
+    <form class="form" action="https://lead-capture-95fa3f.zapier.app/" method="GET" target="_blank">
+        <button class="button button--middle" type="submit">Kontaktni obrazec <i class="ion ion-ios-paper-plane"></i></button>
+    </form>
+</div>
+
 
 <div class="gallery-box">
   <div class="gallery">
