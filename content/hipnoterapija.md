@@ -1,6 +1,6 @@
 ---
-title: Hipnoterapija
-Metatitle: Hipnoterapija. Kaj je, kako se izvaja. Prednosti in pomankljivosti hopnoteraapije.
+title: Hipnoterapija. Kaj je, kako se izvaja. Prednosti in pomankljivosti hopnoterapije.
+Metatitle: Hipnoterapija. Kaj je, kako se izvaja. Prednosti in pomankljivosti hopnoterapije.
 description: Hipnoterapija je učinkovita oblika terapije, ki vam lahko pomaga pri premagovanju različnih težav. V tem članku boste našli odgovore na nekatera pogosta vprašanja o hipnoterapiji.
 image: '/images/pink-hypnosis-spiral.webp'
 addCallCTA: true
