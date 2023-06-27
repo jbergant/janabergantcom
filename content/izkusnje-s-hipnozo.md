@@ -51,13 +51,13 @@ Ob koncu se počutiš zelo spočitega. Ves čas slišiš in se zavedaš. Tudi č
 
 ## Izkušnja s hipnoterapijo za hujšanje
 
-Ne vem, če lahko izrazim z besedami, kako zelo hvaležna sem, da sem pred nekaj meseci spoznala Jano. 
+"Ne vem, če lahko izrazim z besedami, kako zelo hvaležna sem, da sem pred nekaj meseci spoznala Jano. 
 
 Potrebovala sem namreč pomoč pri odpravljanju vzrokov prenajedanja in čustvenega prehranjevanja. Posledica takega početja niso samo odvečni kilogrami, ampak tudi slaba samopodoba in občutek izgube kontrole nad lastnim telesom. 
 
 Jano priporočam vsem, ki si s strani hipnoterapevta želite pozitivne motivacije, razumevanja, zavzetosti za reševanje vaših izzivov, opolnomočenja in iskrene želje po vašem uspehu. 😊 
 
-Definitivno priporočam! 
+Definitivno priporočam! "
 
 (anonimna)
 
@@ -83,6 +83,29 @@ Vidim kako pomembno je, da se dobro počutim…včasih sem težko zaključila, k
 
 Všeč mi je tudi tvoj glas, tvoj glas mi daje občutek, da ti lahko zaupam. Tvoj glas me pomirja, mu zaupam, se počutim varno.”
 
+
 <a class="section__link" href="/hipnoza-za-samozavest-izkusnje/">Več o izkušnji s hipnoterapijo za samozavest <i class="ion ion-md-arrow-forward"></i></a>
 
 <a class="section__link" href="/hipnoterapija-za-samozavest/">Več o hipnoterapiji za samozavest <i class="ion ion-md-arrow-forward"></i></a>
+
+
+## Izkušnja s hipnoterapijo - regresijo
+
+
+Hipnoterapija s stranko, ki preboleva raka.
+
+Njena izkušnja:
+
+"Moje počutje pred hipnozo je bilo kar precej naporno, psihično in fizično. Po težki borbi z zdravjem, sem bila psihično in fizično zelo utrujena, izčrpana. Zavedala sem se, da moram nekaj narediti, da se spravim k sebi in da so določeni vzorci že iz otroštva, ki jih moram odpraviti. Tako kot tudi energije, ki niso moje, da se jih pošlje, kamor pripadajo.
+
+Jana mi je pri tem zelo pomagala. Najprej sva se pomenili, pogovarjali, veliko me je spraševala in skozi to, je bilo tudi veliko aha momentov in s tem posledično lažje razreševanje težav. Po vsaki terapiji, pogovovoru, sem bila sicer malo utrujena, kar pa je normalno, saj sva veliko naredili.
+
+Potem pa s hipnozo, ji mi jo je naredila, so se še določene stvari popravile,.. Med hipnozo je res zanimiv občutek, sproščen, pa kljub temu na momente težko, ker te ponese res v dogodke, občutke, zadeve, ki jih je treba rešiti. Jana te pri tem seveda vodi, kaj uprasa, pove.. Varno je in zanimivo,kaj vse se pojavi "slike "," prizori ", občutki..
+
+Po zaključeni terapiji so se počasi stvari kazati, kaj vse se je začelo spreminjati,postavljati na pra o mesto,samozavest, odnosi z določenimi ljudmi, moje reakcije na razne situacije, zavedanje sebe,... . Korak za korakom, dan za dnem novi občutki, počutje.. 
+
+In se za po vrhu, Jana poskrbi, da imaš posnetek, ki ga poslušaš 21 dni oz. večerov, preden greš spat, da se ti res vtisnejo prave misli, vzorci...
+
+Hvala Jana za vso podporo, pomoč, sploh iz vidika, ker tudi sama ves, kaksno je življenje mame samohranilke, ker tudi tvoja pot ni bila lahka 🙏🍀."
+
+(Lidija)
