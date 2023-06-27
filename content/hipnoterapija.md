@@ -175,7 +175,7 @@ Jano priporočam vsem, ki si s strani hipnoterapevta želite pozitivne motivacij
 
 Definitivno priporočam! "
 
-## Primer hipnoterapije s stranki, ki preboleva raka
+## Primer hipnoterapije z mamo samohranilko, ki preboleva raka
 
 Hipnoterapija s stranko, ki preboleva raka.
 
