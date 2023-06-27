@@ -8,7 +8,7 @@ tags:   ['hipnoterapija', 'hipnoza']
 ---
 
 
-Kaj pa ima hipnoterapija veze s hipnozo? Hipnoza in hipnoterapija nista isto, sta pa povezani.  
+Kaj pa ima [hipnoterapija](/hipnoterapija) veze s hipnozo? Hipnoza in hipnoterapija nista isto, sta pa povezani.  
   
   
 Predno pa kaj več povem, poglejva kaj hipnoza ni.  
@@ -47,8 +47,8 @@ S hipnoterapijo globoko v podzavesti nadomestiš samouničujoče miselne vzorce 
 
 
 
-*Hipnoza je stanje globoke sprostitve in osredotočenosti, ki omogoča dostop do podzavesti.* 
+> Hipnoza je stanje globoke sprostitve in osredotočenosti, ki omogoča dostop do podzavesti.* 
 
-Po drugi strani pa je hipnoterapija terapevtska tehnika, ki uporablja hipnozo za obravnavo različnih težav, kot so anksioznost, depresija ali slabe navade. 
+> Hipnoterapija pa je terapevtska tehnika, ki uporablja hipnozo za obravnavo različnih težav, kot so anksioznost, depresija ali slabe navade. 
 
 Torej, medtem ko je hipnoza orodje, ki se lahko uporablja v različnih kontekstih, je hipnoterapija specifična uporaba tega orodja za terapevtske namene, razlika je v namenu in uporabi.
