@@ -120,13 +120,13 @@ V hipnoterapiji se lahko naučiš preoblikovati negativne miselne vzorce, opusti
 Raziskave so pokazale, da je hipnoterapija učinkovita pri zdravljenju številnih zdravstvenih stanj in simptomov. 
 Hipnoterapija je lahko izjemno učinkovita, vendar je njena učinkovitost odvisna od več dejavnikov.
 
-- Zaupanje: Za učinkovitost hipnoterapije je ključno, da posameznik verjame v hipnoterapijo in je odprt za proces. Zelo pomembno je tudi, da posameznik zaupa hipnoterapevtu in se je pripravljen odpreti in zaupati v proces. Če posameznik dvomi v hipnoterapijo ali je skeptičen, je lahko manj verjetno, da bo dosegel želene rezultate.
+- **Zaupanje**: Za učinkovitost hipnoterapije je ključno, da posameznik verjame v hipnoterapijo in je odprt za proces. Zelo pomembno je tudi, da posameznik zaupa hipnoterapevtu in se je pripravljen odpreti in zaupati v proces. Če posameznik dvomi v hipnoterapijo ali je skeptičen, je lahko manj verjetno, da bo dosegel želene rezultate.
 
-- Redno poslušanje avdio posnetkov: Veliko hipnoterapevtov svojim strankam ponuja avdio posnetke, ki jih lahko poslušajo doma. Redno poslušanje teh posnetkov lahko pomaga posameznikom poglobiti svoje razumevanje hipnoterapije in okrepiti učinke sej.
+- **Redno poslušanje avdio posnetkov**: Veliko hipnoterapevtov svojim strankam ponuja avdio posnetke, ki jih lahko poslušajo doma. Redno poslušanje teh posnetkov lahko pomaga posameznikom poglobiti svoje razumevanje hipnoterapije in okrepiti učinke sej.
 
-- Domišljija: Domišljija igra ključno vlogo pri učinkovitosti hipnoterapije. Med hipnozo hipnoterapevt pogosto uporablja vodene vizualizacije, ki pomagajo posamezniku vizualizirati želeno spremembo ali stanje. Posamezniki z bogato domišljijo lahko pogosto dosegajo boljše rezultate z hipnoterapijo.
+- **Domišljija**: Domišljija igra ključno vlogo pri učinkovitosti hipnoterapije. Med hipnozo hipnoterapevt pogosto uporablja vodene vizualizacije, ki pomagajo posamezniku vizualizirati želeno spremembo ali stanje. Posamezniki z bogato domišljijo lahko pogosto dosegajo boljše rezultate z hipnoterapijo.
 
-- Sugestibilnost: Sugestibilnost je stopnja, do katere je posameznik dovzeten za sugestije. V kontekstu hipnoterapije sugestibilnost pomeni, kako dovzetna je oseba za sugestije hipnoterapevta. Ljudje, ki so bolj sugestibilni, so običajno bolj odprti za hipnozo in lahko dosegajo boljše rezultate z hipnoterapijo. Sugestibilnost je pogosto tudi znak večje inteligence, saj pomeni večjo učljivost.
+- **Sugestibilnost**: Sugestibilnost je stopnja, do katere je posameznik dovzeten za sugestije. V kontekstu hipnoterapije sugestibilnost pomeni, kako dovzetna je oseba za sugestije hipnoterapevta. Ljudje, ki so bolj sugestibilni, so običajno bolj odprti za hipnozo in lahko dosegajo boljše rezultate z hipnoterapijo. Sugestibilnost je pogosto tudi znak večje inteligence, saj pomeni večjo učljivost.
 
 Vendar pa je pomembno poudariti, da hipnoterapija ni primerna za vse. Nekateri ljudje so manj sugestibilni ali imajo težave s sprostitvijo ali koncentracijo, kar lahko oteži hipnozo. Poleg tega hipnoterapija morda ne bo učinkovita pri zdravljenju nekaterih zdravstvenih stanj ali simptomov. Predlagam krajši posvet predno se odločite za hipnoterapijo.
 
