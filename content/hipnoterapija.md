@@ -93,7 +93,7 @@ Predvsem pa zelo dobro deluje pri težavah kot so:
 
 <div class="gallery-box">
   <div class="gallery">
-    <img alt="Hipnoterapija in doseganje ciljev" src="/images/canki/hipnoterapija-cilji.jpg">
+    <img alt="Hipnoterapija in doseganje ciljev" src="/images/clanki/hipnoterapija-cilji.jpg">
   </div>
   <em>Hipnoteraoija pomaga tudi pri doseganju ciljev.</em>
 </div>
