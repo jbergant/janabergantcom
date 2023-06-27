@@ -53,7 +53,7 @@ Hipnoterapija uporablja različne tehnike, ki pomagajo posameznikom doseči žel
 
 Vse te tehnike se uporabljajo z namenom voditi posameznika skozi proces, ki inducira stanje podobno transu, ki pomaga posamezniku osredotočiti svoj um, bolj odzivati na predloge in postati globoko sproščen. Hipnoterapija izkorišča povečano zavest hipnotičnega stanja, da vam pomaga bolj poglobljeno osredotočiti na problem.
 
-**Uporabe Hipnoterapije**
+# Uporaba hipnoterapije
 
 Hipnoterapija ima široko paleto uporab in se lahko uporablja za zdravljenje različnih zdravstvenih stanj in simptomov. Nekatere od teh vključujejo:
 
