@@ -11,7 +11,7 @@ addCallCTA: true
 
 Hipnoterapija je posebna vrsta terapije, ki uporablja hipnozo kot orodje za pomoč pri različnih zdravstvenih stanjih. Hipnoza je proces, ki vodi do spremenjenega stanja zavesti, ki omogoča boljšo koncentracijo in povečano sprostitev. Ta stanje je podobno globoki zbranosti, ki jo doživimo, ko smo popolnoma vpeti v branje knjige, gledanje filma ali celo v lastne misli in meditacije.
 
-Hipnoterapija se pogosto uporablja kot *dopolnilna tehnika*, kar pomeni, da se običajno uporablja skupaj z drugimi oblikami psihološkega ali medicinskega zdravljenja. Kljub temu pa ima hipnoterapija veliko različnih uporab kot del zdravljenja za anksioznost, stres, panične napade, posttravmatsko stresno motnjo, fobije, zlorabo snovi, vključno s tobakom, spolno disfunkcijo, nezaželeno kompulzivno vedenje, razpoloženjske motnje in slabe navade.
+Hipnoterapija se pogosto uporablja kot **dopolnilna tehnika**, kar pomeni, da se običajno uporablja skupaj z drugimi oblikami psihološkega ali medicinskega zdravljenja. Kljub temu pa ima hipnoterapija veliko različnih uporab kot del zdravljenja za anksioznost, stres, panične napade, posttravmatsko stresno motnjo, fobije, zlorabo snovi, vključno s tobakom, spolno disfunkcijo, nezaželeno kompulzivno vedenje, razpoloženjske motnje in slabe navade.
 
 Hipnoterapija se lahko uporablja tudi za izboljšanje spanja, za obravnavo učnih motenj, komunikacijskih težav in izzivov v odnosih. Poleg tega lahko pomaga pri obvladovanju bolečin in reševanju medicinskih težav, kot so prebavne motnje, kožna stanja, simptomi avtoimunih motenj ter gastrointestinalni stranski učinki nosečnosti ali kemoterapije.
 
@@ -65,7 +65,7 @@ Hipnoterapija ima široko paleto uporab in se lahko uporablja za zdravljenje raz
 
 4. **Zdravljenje stranskih učinkov raka**: Hipnoterapija se lahko uporablja za zmanjšanje stranskih učinkov zdravljenja raka, kot so slabost in utrujenost. Lahko pomaga tudi pri obvladovanju bolečine in stresa, povezanega z diagnozo in zdravljenjem.
 
-5. **Duševne zdravstvene razmere**: Hipnoterapija se lahko uporablja za zdravljenje različnih duševnih zdravstvenih stanj, vključno z depresijo, posttravmatsko stresno motnjo in obsesivno-kompulzivno motnjo.
+5. **Depresija in drugi duševne težave**: Hipnoterapija se lahko uporablja za zdravljenje različnih duševnih zdravstvenih stanj, vključno z depresijo, posttravmatsko stresno motnjo in obsesivno-kompulzivno motnjo.
 
 6. **Izboljšanje spanja**: Hipnoterapija je bila učinkovita pri zdravljenju motenj spanja, kot so nespečnost, nočne more ali nočno potenje. S pomočjo sprostitvenih tehnik in sugestij lahko hipnoterapija pomaga posameznikom izboljšati kakovost in trajanje spanja.
 
