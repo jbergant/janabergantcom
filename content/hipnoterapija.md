@@ -1,7 +1,7 @@
 ---
 title: Hipnoterapija. Kaj je, kako se izvaja. Prednosti in pomankljivosti hopnoterapije.
 Metatitle: Hipnoterapija. Kaj je, kako se izvaja. Prednosti in pomankljivosti hopnoterapije.
-description: Hipnoterapija je učinkovita oblika terapije, ki vam lahko pomaga pri premagovanju različnih težav. V tem članku boste našli odgovore na nekatera pogosta vprašanja o hipnoterapiji.
+description: Hipnoterapija je učinkovita oblika terapije, ki ti lahko pomaga pri premagovanju različnih težav. V tem članku boste našli odgovore na nekatera pogosta vprašanja o hipnoterapiji.
 image: '/images/pink-hypnosis-spiral.webp'
 addCallCTA: true
 
@@ -51,7 +51,7 @@ Hipnoterapija uporablja različne tehnike, ki pomagajo posameznikom doseči žel
 
 4. **Raziskovanje preteklih izkušenj - Regresija**: Posamezniku se lahko spodbudi, da govori o prvem trenutku, ko je doživel vedenje ali problem, ki ga poskuša premagati, in kako se je takrat počutil. To lahko pomaga pri razumevanju korenin težave in pri iskanju učinkovitih strategij za njeno reševanje.
 
-Vse te tehnike se uporabljajo z namenom voditi posameznika skozi proces, ki inducira stanje podobno transu, ki pomaga posamezniku osredotočiti svoj um, bolj odzivati na predloge in postati globoko sproščen. Hipnoterapija izkorišča povečano zavest hipnotičnega stanja, da vam pomaga bolj poglobljeno osredotočiti na problem.
+Vse te tehnike se uporabljajo z namenom voditi posameznika skozi proces, ki inducira stanje podobno transu, ki pomaga posamezniku osredotočiti svoj um, bolj odzivati na predloge in postati globoko sproščen. Hipnoterapija izkorišča povečano zavest hipnotičnega stanja, da ti pomaga bolj poglobljeno osredotočiti na problem.
 
 # Uporaba hipnoterapije
 
