@@ -95,7 +95,7 @@ disableKinds = ['sitemap']
     author__bio_hook = "S slabim spanjem izgubljaš zdravje, umske sposobnosti in čustveno stabilnost. Si pripravljen na spremembo?<br>Imaš dovolj neprespanih noči? Se ti neprespanost pozna pri delu, odnosih in zdravju? Ni treba, da je tako."
     author__image = "/images/hipnoterapija-z-jano.webp"
     author__avatar = "/images/hipnoterapija-z-jano-bergant.webp"
-    button__text = "Kako do kvalitetnega spanja"
+    button__text = "Kako do hipnoterapije"
 
 
   #-------------------------------
