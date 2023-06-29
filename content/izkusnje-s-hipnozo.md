@@ -4,6 +4,7 @@ Metatitle: Izkušnje s hipnozo in hipnoterapijo
 description: Predno se odločiš za hipnozo in hipnoterapijo si preberi izkušnje  in mnenja strank o hipnozi in hipnoterapiji
 subtitle: Predno se odločiš za hipnozo in hipnoterapijo si preberi izkušnje  in mnenja strank o hipnozi in hipnoterapiji
 image: '/images/clanki/izkusnje-s-hipnozo.webp'
+date:   2023-06-19 19:22:35 +0300
 layout: testemonials
 testemonials: 
   -  

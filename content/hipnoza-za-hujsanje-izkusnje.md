@@ -4,6 +4,7 @@ Metatitle: Izkušnje s hujšanjem s hipnozo
 description: Se boriš z dieto in stalnim hujšanjem? Preveri izkušnje s hipnozo za hujšanje 
 subtitle: Se boriš z dieto in stalnim hujšanjem? Imaš počasi vsega dovolj in bi rada stvari spremenila na podzavestni ravni? Preveri izkušnje s hipnozo za hujšanje 
 image: '/images/clanki/hipnoza-hujsanje-izkusnje.webp'
+date:   2023-05-29 9:01:35 +0300
 layout: testemonials
 testemonials:      
   -  

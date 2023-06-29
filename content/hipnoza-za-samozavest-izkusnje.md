@@ -4,6 +4,7 @@ Metatitle: Izkušnje s hipnoterapijo za samozavest
 description: Želiš bolj samozavestno stopati skozi življenje? Predno se odločiš za hipnozo za samozavest si preberi izkušnje strank s hipnozo za samozavest
 subtitle: Želiš bolj samozavestno stopati skozi življenje? Predno se odločiš za hipnozo za samozavest si preberi izkušnje strank s hipnozo za samozavest
 image: '/images/clanki/izkusnja-hipnoza-samozavest.webp'
+date:   2023-06-22 9:01:35 +0300
 layout: testemonials
 testemonials: 
   -  

@@ -4,6 +4,7 @@ Metatitle: Izkušnje s hipnozo in hipnoterapijo za spanje
 description: Imaš težave s spanjem? Preberi si izkušnje in mnenja strank o hipnozi in hipnoterapiji za spanje
 subtitle: Imaš težave s spanjem? Preveri kako je ostalim pomagala hipnoza in hipnoterapija za spanje
 image: '/images/clanki/izkusje-hipnoza-spanje.webp'
+date:   2023-06-28 9:11:55 +0300
 layout: testemonials
 testemonials: 
   -  

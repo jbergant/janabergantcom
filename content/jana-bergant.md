@@ -1,6 +1,7 @@
 ---
 title: Hipnoterapevtka Jana Bergant
 description: Spoznaj Jano Bergant in njeno prakso hipnoterapije s katero pomaga posameznikom, ki se soočajo s čustvenim prenajedanjem, pomanjkanjem spanja, slabo samozavestjo ter ostalimi tegobami, ki slabšajo kvaliteto življenja. Prepričaj se o njenem znanju in preberi njeno vizijo hipnoterapije.
+date:   2023-04-29 9:01:35 +0300
 image: '/images/jana-bergant-hipnoterapija.webp'
 ---
 
