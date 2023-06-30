@@ -35,7 +35,9 @@ V svojem delu sem predana pomoči posameznikom, da dosežejo svoj polni potencia
 
 ## Izobraževanja
 
-Praktik hipnoze opravljen pri Mindology Institute
+- Praktik hipnoze opravljen pri Mindology Institute
+- Mojster hipnoze opravljen pri Mindology Institute
+- Praktik regresije opravljen pri Mindology Institute
 
 <div class="gallery-box">
   <div class="gallery">
