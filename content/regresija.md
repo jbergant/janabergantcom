@@ -1,5 +1,5 @@
 ---
-title: Regresivna hipnoza - Kaj je regresija? Kako se izvaja regresija?
+title: Regresija
 Metatitle: Regresivna hipnoza - razumevanje, koristi in tveganja regresije
 description: Odkrij moč regresijske hipnoterapije, razumi njen proces, koristi in tveganja ter ugotovite, ali je ta oblika terapije prava za tebe
 image: '/images/clanki/regresija.webp'

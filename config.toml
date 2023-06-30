@@ -63,7 +63,7 @@ disableKinds = []
 
   [[menu.main]]
     parent = "Hipnoterapija"
-    name = "Regresija"
+    name = "O regresiji"
     url = "/regresija/"
     weight = -2
 
