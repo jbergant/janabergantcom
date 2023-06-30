@@ -56,11 +56,16 @@ disableKinds = []
 
 
     [[menu.main]]
-    name = "Hipnoterapija"
+    parent = "Hipnoterapija"
+    name = "O hipnoterapiji"
     url = "/hipnoterapija/"
     weight = -2
 
-
+  [[menu.main]]
+    parent = "Hipnoterapija"
+    name = "Regresija"
+    url = "/regresija/"
+    weight = -2
 
     [[menu.main]]
     name = "Članki"
