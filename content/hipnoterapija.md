@@ -212,7 +212,7 @@ Hipnoterapija je torej pomembno orodje v psihoterapevtski praksi, ki lahko pomag
 
 <div class="article_button">
     <form class="form" action="https://lead-capture-95fa3f.zapier.app/" method="GET" target="_blank">
-        <button class="button button--middle" type="submit">Kontaktni obrazec <i class="ion ion-ios-paper-plane"></i></button>
+        <button class="button button--middle" type="submit">Kontakt <i class="ion ion-ios-paper-plane"></i></button>
     </form>
 </div>
 

@@ -103,4 +103,12 @@ Hipnoza za prenehanje kajenja je metoda, ki ponuja obetavne rezultate. Z uporabo
 
 Vendar pa je pomembno poudariti, da je uspeh hipnoze za prenehanje kajenja v veliki meri odvisen od posameznikove motivacije in zavezanosti k opustitvi kajenja. Hipnoza je lahko močno orodje, ki podpira ta proces, vendar je končni uspeh odvisen od posameznikovega truda.
 
-Če razmišljate o opustitvi kajenja, bi bilo morda vredno razmisliti o hipnozi kot možnosti. Ta metoda lahko ponudi dodatno podporo in orodja, ki vam lahko pomagajo na vaši poti do opustitve kajenja. Ne glede na to, katero pot izberete, je pomembno, da se zavedate, da je vsak korak, ki ga naredite proti opustitvi kajenja, korak v pravo smer. Ne obupajte, verjemite vase in poiščite podporo, ki jo potrebujete. Vaše zdravje in dobro počutje sta vredna tega truda.
+Če razmišljaš o opustitvi kajenja, bi bilo vredno razmisliti o hipnozi kot možnosti. Hipnoterapija ti ponudi dodatno podporo in orodja, ki ti pomagajo na poti do opustitve kajenja. Ne glede na to, katero pot izbereš, je pomembno, da se zavedaš, da je vsak korak, ki ga narediš proti opustitvi kajenja, korak v pravo smer. Ne obupaj, verjemite vase in poišči podporo, ki jo potrebuješ. Tvoje zdravje in dobro počutje sta vredna tega truda.
+
+Za več informacij ali za naročitev termina sem dosegljiva preko kontaktnega obrazca:
+
+<div class="article_button">
+    <form class="form" action="https://lead-capture-95fa3f.zapier.app/" method="GET" target="_blank">
+        <button class="button button--middle" type="submit">Kontakt <i class="ion ion-ios-paper-plane"></i></button>
+    </form>
+</div>
