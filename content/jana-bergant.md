@@ -39,7 +39,9 @@ Praktik hipnoze opravljen pri Mindology Institute
 
 <div class="gallery-box">
   <div class="gallery">
-    <img alt="Praktik hipnoze" src="/images/praktik_hipnoze.webp">
+    <img alt="Praktik hipnoze" src="/images/certifikati/praktik_hipnoze.webp">
+    <img alt="Praktik hipnoze" src="/images/certifikati/praktik-regresije.webp">
+    <img alt="Praktik hipnoze" src="/images/certifikati/mojster-hipnoze.webp">
   </div>
   <em>Certifikati</em>
 </div>
