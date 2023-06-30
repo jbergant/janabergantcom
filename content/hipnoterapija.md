@@ -167,7 +167,7 @@ Všeč mi je tudi tvoj glas, tvoj glas mi daje občutek, da ti lahko zaupam. Tvo
 
 Na hipnoterapijo je prišla mlada ženska stara okoli 30 let, ki se že dolgo bori z jojo učinkom hujšanja in redenja.
 
-Besedepo hipnoterapiji:
+Besede po hipnoterapiji:
 
 "Ne vem, če lahko izrazim z besedami, kako zelo hvaležna sem, da sem pred nekaj meseci spoznala Jano. 
 
