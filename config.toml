@@ -100,7 +100,7 @@ disableKinds = []
   # Author Settings
   [params.author]
     author__name = "Jana Bergant"
-    author__title = "Živjo, sem Jana, hipnoterapevtka, programerka in še kaj."
+    author__title = "Živjo, sem Jana."
     author__bio = "Verjamem, da ima vsak od nas moč, da se osvobodi slabih navad in živi življenje, ki si ga zasluži."
     author__bio_extended = "Z uporabo hipnoterapije in regresije ti pomagam razkriti in odpraviti vzroke slabih navad, da lahko začneš novo poglavje v svojem življenju."
     author__bio_hook = "Moja strast je tudi spodbujanje dobrih navad spanja. Verjamem, da je kakovosten spanec ključen za naše fizično in duševno zdravje ter celostno dobro počutje."
