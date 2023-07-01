@@ -64,29 +64,29 @@ Dolžina spalne regresije se lahko razlikuje. Nekatere regresije spanja lahko tr
 ### Spalna regresija pri 4 mesecih
 
 Štirimesečna spalna regresija je pogosto prva, s katero se starši srečajo. 
-1. Ta regresija je povezana z velikimi spremembami v otrokovem spanju. Otrok začne prehajati iz novorojenčkovega spanca, ki je bolj naključen, v bolj odrasel vzorec spanja. 
-2. To je tudi čas, ko se otrok začne učiti novih veščin, kot je obračanje, kar lahko vpliva na njegov spanec.
+- Ta regresija je povezana z velikimi spremembami v otrokovem spanju. Otrok začne prehajati iz novorojenčkovega spanca, ki je bolj naključen, v bolj odrasel vzorec spanja. 
+- To je tudi čas, ko se otrok začne učiti novih veščin, kot je obračanje, kar lahko vpliva na njegov spanec.
 
 ### Spalna regresija pri 8-10 mesecih
 
-1. V tem obdobju se otroci pogosto začnejo učiti sedenja, plazenja ali celo hoje, kar lahko vpliva na njihov spanec. 
-2. Prav tako je to obdobje, ko se lahko začnejo pojavljati ločitvena tesnoba in strah pred tujci, kar lahko prav tako vpliva na spanje.
+- V tem obdobju se otroci pogosto začnejo učiti sedenja, plazenja ali celo hoje, kar lahko vpliva na njihov spanec. 
+- Prav tako je to obdobje, ko se lahko začnejo pojavljati ločitvena tesnoba in strah pred tujci, kar lahko prav tako vpliva na spanje.
 
 ### Spalna regresija pri 12 mesecih
 
-1. Dvanajstmesečna spalna regresija je pogosto povezana z otrokovim razvojem mobilnosti, kot je hoja. 
-2. Prav tako je to obdobje, ko se lahko začnejo pojavljati spremembe v prehrani in rutini, kot je prehod iz stekleničke na skodelico ali prehod na en sam dnevni spanec.
+- Dvanajstmesečna spalna regresija je pogosto povezana z otrokovim razvojem mobilnosti, kot je hoja. 
+- Prav tako je to obdobje, ko se lahko začnejo pojavljati spremembe v prehrani in rutini, kot je prehod iz stekleničke na skodelico ali prehod na en sam dnevni spanec.
 
 ### Spalna regresija pri 18 mesecih
 
-1. V tem obdobju se lahko otroci začnejo upirati spanju, kar je pogosto povezano z njihovo željo po večji neodvisnosti. 
-2. Prav tako je to obdobje, ko se lahko začnejo pojavljati nočne more ali strah pred temo.
+- V tem obdobju se lahko otroci začnejo upirati spanju, kar je pogosto povezano z njihovo željo po večji neodvisnosti. 
+- Prav tako je to obdobje, ko se lahko začnejo pojavljati nočne more ali strah pred temo.
 
 ### Spalna regresija pri 24 mesecih
 
-1. Zadnja spalna regresija je pogosto povezana z razvojem govora in večjem zavedanjem okolja. 
-2. Otroci se lahko začnejo bati ločitve ali teme, kar lahko vpliva na njihov spanec. 
-3. Prav tako je to obdobje, ko se lahko začnejo pojavljati spremembe v rutini, kot je prehod iz posteljice v otroško posteljo.
+- Zadnja spalna regresija je pogosto povezana z razvojem govora in večjem zavedanjem okolja. 
+- Otroci se lahko začnejo bati ločitve ali teme, kar lahko vpliva na njihov spanec. 
+- Prav tako je to obdobje, ko se lahko začnejo pojavljati spremembe v rutini, kot je prehod iz posteljice v otroško posteljo.
 
 ## Kako se spopasti s spalno regresijo
 
