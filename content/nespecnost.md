@@ -251,3 +251,20 @@ Ustvarjanje prijetnega spalnega okolja je ključnega pomena za dober spanec. To 
 8. Spalna higiena
 
 Dobra spalna higiena vključuje vzpostavitev rednega urnika spanja, izogibanje kofeinu in alkoholu pred spanjem, in izogibanje elektronskim napravam pred spanjem. Prav tako vključuje vzdrževanje zdravih dnevnih navad, kot so redna telesna aktivnost, zdrava prehrana in izpostavljanje sončni svetlobi.
+
+## Zaključne misli o nespečnosti
+
+Nespečnost je pogosta težava, ki prizadene veliko ljudi po vsem svetu. Čeprav je lahko izčrpavajoča in vpliva na kakovost življenja, obstajajo učinkovite strategije za obvladovanje tega stanja. Od sprememb življenjskega sloga, kot so izboljšanje higiene spanja in zmanjšanje vnosa kofeina, do medicinskega zdravljenja, vključno z zdravili za spanje ali terapijo za obvladovanje stresa in anksioznosti, obstaja veliko orodij, ki vam lahko pomagajo izboljšati kakovost spanja.
+
+Vendar pa je pomembno, da se posamezniki, ki se borijo z nespečnostjo, zavedajo, da niso sami. Pomoč je na voljo in je mogoče izboljšati kakovost spanja. Če se borite z nespečnostjo, je pomembno, da se posvetujete z zdravstvenim delavcem, ki vam lahko pomaga najti najboljše zdravljenje za vas.
+
+Poleg tega lahko hipnoterapija ponudi dodatno pomoč pri obvladovanju nespečnosti. Hipnoterapija za spanje lahko pomaga zmanjšati anksioznost in stres, ki lahko motita spanec, in lahko pomaga pri vzpostavljanju bolj pozitivnih vzorcev spanja.
+
+Če se borite z nespečnostjo in iščete dodatno pomoč, vas vabim, da se prijavite na hipnoterapijo za spanje. Skupaj lahko raziskujemo, kako lahko hipnoterapija pomaga izboljšati vaš spanec in izboljšati vaše splošno dobro počutje. Ne dovolite, da vam nespečnost krade dragoceni spanec. Prijavite se danes in začnite svojo pot do boljšega spanca.
+
+
+<div class="article_button">
+    <form class="form" action="https://lead-capture-95fa3f.zapier.app/" method="GET" target="_blank">
+        <button class="button button--middle" type="submit">Kontakt <i class="ion ion-ios-paper-plane"></i></button>
+    </form>
+</div>
