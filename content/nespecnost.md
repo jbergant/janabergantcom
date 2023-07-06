@@ -33,15 +33,16 @@ Nespečnost je lahko za nekatere ljudi izčrpavajoča, saj moti vsakodnevno živ
 
 ## Simptomi nespečnosti 
 
-1. Težave pri uspavanju
+1. **Težave pri uspavanju**
 
 Nespečnost je pogosto povezana s težavami pri uspavanju. Ljudje, ki trpijo za nespečnostjo, preživijo ure v postelji, preden zaspijo. To je posledica različnih dejavnikov, vključno s stresom, anksioznostjo, prekomernim vnosom kofeina ali uporabo elektronskih naprav pred spanjem.
 
-2. Težave pri ohranjanju spanca 
+2. **Težave pri ohranjanju spanca** 
 
 Poleg težav pri zaspanju lahko nespečnost povzroči tudi težave pri ohranjanju spanca. To pomeni, da se ljudje pogosto prebudijo sredi noči in imajo težave, da bi ponovno zaspali. To lahko povzroči prekinjen in nekvaliteten spanec, kar vodi do utrujenosti in pomanjkanja energije čez dan.
 
-3. Prezgodnje prebujanje 
+3. **Prezgodnje prebujanje** 
+
 Prezgodnje prebujanje je še en simptom nespečnosti. Ljudje se prebudijo veliko prej, kot bi želeli, in ne morejo več zaspati. To  povzroči občutek utrujenosti in izčrpanosti čez dan.
 
 4. Dnevne posledice nespečnosti 
@@ -98,13 +99,13 @@ Vsaka od teh vrst nespečnosti zahteva različne pristope k zdravljenju, zato je
 ## Vzroki nespečnosti
 
 
-1. Fiziološka vzburjenost 
+1. **Fiziološka vzburjenost** 
 
 Nespečnost je pogosto posledica fiziološke vzburjenosti, ki jo povzročajo stresne situacije, kot so pomembni dogodki, težave v odnosih, težave na delovnem mestu ali finančne težave. Prav tako se lahko pojavi zaradi vsiljenih sprememb ritma spanja, kot so nočno delo ali potovanje z letalom preko več časovnih območij, kar povzroča t.i. jet lag.
 
 Fiziološka vzburjenost je eden od glavnih vzrokov za nespečnost. To vključuje stres, ki je povezan z delom, družino ali osebnimi odnosi, težave z denarjem ali celo jet lag. Te stresne situacije so pogosto začasne, vendar lahko vplivajo na kakovost in količino spanja. Poleg tega lahko navade in aktivnosti pred spanjem, kot so pitje kave, gledanje televizije ali uporaba računalnika, vplivajo na kakovost spanja.
 
-2. Povezava z duševnimi zdravstvenimi motnjami
+2. **Povezava z duševnimi zdravstvenimi motnjami**
 
 Nespečnost je pogosto povezana z duševnimi zdravstvenimi motnjami, kot so anksioznost, depresija in manija. Te motnje lahko povzročijo težave s spanjem, ki trajajo dlje časa. Poleg tega lahko nekatera zdravila, ki se uporabljajo za zdravljenje teh motenj, kot so antidepresivi, povzročijo težave s spanjem.
 
@@ -112,7 +113,7 @@ Razvade, kot so pitje alkohola, kajenje in uživanje pijač, ki vsebujejo kofein
 
 
 
-3. Telesne bolezni
+3. **Telesne bolezni**
 
 Poleg tega je nespečnost pogosto povezana z različnimi telesnimi boleznimi, kot so bolezni dihal (zlasti astma), bolezni srca in ožilja (npr. srčno popuščanje), bolezni žlez z notranjim izločanjem, bolezni prebavil (npr. refluksna bolezen) in nevrološke bolezni.
 
@@ -151,6 +152,8 @@ Diagnoza nespečnosti se začne z vrednotenjem navad spanja in zdravstvene anamn
 - Ali glasno in pogosto smrčite ali se zbudite z občutkom zadušitve ali pomanjkanja sape
 
 Priporočamo tudi fizični pregled pri zdravniku, da bi izključili druge zdravstvene težave, ki bi lahko vplivale na spanec. Zdravnik bo poslušal vaše srce in pljuča ter iskal dejavnike tveganja za apnejo v spanju, kot so velike tonzile ali velik obseg vratu.
+
+> "Spanje je zlata veriga, ki povezuje zdravje in naša telesa." 
 
 ### Uporaba dnevnika spanja
 
@@ -195,56 +198,63 @@ Zelo glasno smrčanje ali smrčanje, ki vključuje zvoke dušenja ali zadušitve
 
 Za zdravljenje nespečnosti imate več možnosti.
 
-1. Kognitivno-vedenjska terapija za nespečnost (Kognitivno-vedenjska terapija za nespečnost - CBT-I)
+1. **Kognitivno-vedenjska terapija za nespečnost (Kognitivno-vedenjska terapija za nespečnost - CBT-I)**
 
 Kognitivno-vedenjska terapija za nespečnost (CBT-I) je strukturiran pristop, ki se osredotoča na raziskovanje povezave med našim načinom razmišljanja, našim vedenjem in našim spanjem. Med zdravljenjem usposobljeni izvajalec CBT-I pomaga prepoznati misli, občutke in vedenja, ki prispevajo k simptomom nespečnosti. Misli in občutki o spanju se preverjajo in testirajo, da se ugotovi, ali so točni, medtem ko se vedenje preverja, ali spodbuja spanje. Izvajalec nato pojasni ali preoblikuje napačne predstave in izzive na način, ki je bolj ugoden za miren spanec. Zdravljenje običajno traja od 6 do 8 sej, čeprav se dolžina lahko razlikuje glede na potrebe posameznika.
 
-2. Zdravila za spanje
+2. **Zdravila za spanje**
 
 Zdravila za spanje so lahko učinkovita kratkoročna rešitev, na primer, lahko zagotovijo takojšnje olajšanje, ko ste zelo pod stresom ali žalujete. Nekatera novejša zdravila za spanje so odobrena za daljšo uporabo. Vendar pa zdravila za spanje niso najboljše dolgoročno zdravljenje za nespečnost za veliko ljudi. Zdravila za spanje lahko povzročijo resne stranske učinke, vključno z odvisnostjo, simptomi odtegnitve, amnezijo in misli o samomoru.
 
-3. Spremembe življenjskega sloga
+3. **Spremembe življenjskega sloga**
 
 Spremembe življenjskega sloga, kot so redna telesna aktivnost, zdrava prehrana in dobra higiena spanja, pomagajo izboljšati kakovost spanja. Dobra higiena spanja vključuje vzpostavitev rednega urnika spanja, izogibanje kofeinu in alkoholu pred spanjem, zagotavljanje tihega in temnega okolja za spanje ter izogibanje elektronskim napravam pred spanjem.
 
-4. Hipnoza za spanje
+4. **Hipnoza za spanje**
 
 Hipnoza za spanje vključuje učenje sproščanja ob verbalnem ali neverbalnem signalu. Hipnoza pomaga zmanjšati anksioznost in stres, ki lahko motita spanec, in lahko pomaga pri vzpostavljanju bolj pozitivnih vzorcev spanja.
 
 
 ## Orodja za izboljšanje spanca 
 
-1. Izpostavljanje sončni svetlobi
+1. **Izpostavljanje sončni svetlobi**
 
-Svetloba, zlasti sončna svetloba, je eden ključnih dejavnikov, ki uravnavajo naše cirkadiane ritme in spodbujajo kakovosten spanec. Izpostavljanje sončni svetlobi čez dan lahko pomaga uravnavati naše notranje ure in izboljšati kakovost spanja.
+Svetloba, zlasti sončna svetloba, je eden ključnih dejavnikov, ki uravnavajo naše cirkadiane ritme in spodbujajo kakovosten spanec. Izpostavljanje sončni svetlobi čez dan pomaga uravnavati naše notranje ure in izboljšati kakovost spanja. Dr. M. Huberman priporoča izpostavljanju sončni svetlobi takoj po odhodi iz postelje, prav tako ob sončnem zahodu.
 
-2. Omejevanje kofeina
+2. **Omejevanje kofeina**
 
-Kofein je stimulans, ki lahko moti spanec, zato je pomembno, da ga omejimo, zlasti v popoldanskem in večernem času. Prav tako je pomembno biti pozoren, če zaužijemo veliko kofeina, da bi nadomestili pomanjkanje spanja.
+Kofein je stimulans, ki lahko moti spanec, zato je pomembno, da ga omejimo, zlasti v popoldanskem in večernem času. Prav tako je pomembno biti pozoren, če zaužijemo veliko kofeina, da bi nadomestili pomanjkanje spanja. Kofein zmanjšuje količini andenosina v telesu. Andenosin vpliva na spalni pritisk, ki telesu sporoči, da je čas za spanje. Če prvo kavo spijete takoj zjutraj, se rado zgodi, da boste popoldan bolj zaspani, zato je priporočljivo prvo kavo spiti šele dve ali tri ure po odhodu iz postelje.
 
-3. Izogibanje modri svetlobi ponoči
+3. **Izogibanje modri svetlobi ponoči**
 
 Modra svetloba, ki jo oddajajo elektronske naprave, kot so pametni telefoni, tablični računalniki in računalniki, lahko zavira proizvodnjo melatonina, hormona, ki ga telo proizvaja za spodbujanje spanja. Izogibanje elektronskim napravam pred spanjem lahko pomaga izboljšati kakovost spanja.
 
-4. Omejevanje dnevnih dremežev
+4. **Omejevanje dnevnih dremežev**
 
 Dremeži čez dan so lahko koristni za obnovitev energije, vendar lahko motijo spanec ponoči. Da bi to preprečili, poskusite omejiti dremeže na kratke počitke v zgodnjem popoldnevu.
 
-5. Meditacija za spanje
+5. **Meditacija za spanje**
 
 Meditacija lahko pomaga zmanjšati stres in anksioznost, ki lahko motita spanec. Prav tako lahko pomaga pri vzpostavljanju bolj pozitivnih vzorcev spanja.
 
-6. Dodatki za spanje: kamilčni čaj, magnezij
+6. **Dodatki za spanje: kamilčni čaj ter magnezij**
 
 Nekateri naravni dodatki, kot so kamilčni čaj in magnezij, lahko pomagajo spodbuditi sprostitev in izboljšati kakovost spanja.
 
-7. Prilagajanje spalnega okolja
+7. **Prilagajanje spalnega okolja**
 
 Ustvarjanje prijetnega spalnega okolja je ključnega pomena za dober spanec. To vključuje zagotavljanje tihega in temnega okolja za spanje, uporabo udobne postelje in blazin, in ohranjanje hladne temperature v spalnici.
 
-8. Spalna higiena
+8. **Spalna higiena / Spalne navade**
 
 Dobra spalna higiena vključuje vzpostavitev rednega urnika spanja, izogibanje kofeinu in alkoholu pred spanjem, in izogibanje elektronskim napravam pred spanjem. Prav tako vključuje vzdrževanje zdravih dnevnih navad, kot so redna telesna aktivnost, zdrava prehrana in izpostavljanje sončni svetlobi.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img alt="Spalne navade - Nasveti za boljše spanje" src="/images/clanki/spalne-navade.webp">
+  </div>
+  <em>Spalne navade - Nasveti za boljše spanje</em>
+</div>
 
 ## Zaključne misli o nespečnosti
 
