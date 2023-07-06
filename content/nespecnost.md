@@ -137,4 +137,117 @@ Zato je pomembno, da se posamezniki, ki trpijo za nespečnostjo, posvetujejo s s
 
 
 
+## Diagnoza nespečnosti
 
+### Vrednotenje navad spanja in zdravstvene anamneze
+
+Diagnoza nespečnosti se začne z vrednotenjem navad spanja in zdravstvene anamneze pacienta. Zdravstveni delavec bo želel izvedeti več o simptomih, dejavnikih tveganja, zdravstveni zgodovini in družinski zdravstveni zgodovini pacienta. Za boljše razumevanje težav s spanjem se lahko zahtevajo podrobnosti o navadah spanja, kot so:
+
+- Kako pogosto imate težave s spanjem in kako dolgo že imate težavo
+- Kdaj greste spat in vstanete v dneh, ko delate, in v prostih dneh
+- Kako dolgo traja, da zaspite, kako pogosto se ponoči zbudite in kako dolgo traja, da ponovno zaspite
+- Kako osveženi se počutite, ko se zbudite, in kako neprespani se počutite čez dan
+- Ali pred spanjem uporabljate elektronske naprave ali gledate televizijo, saj lahko svetloba iz teh virov vpliva na vaš spanec
+- Ali glasno in pogosto smrčite ali se zbudite z občutkom zadušitve ali pomanjkanja sape
+
+Zdravstveni delavec bo opravil tudi fizični pregled, da bi izključil druge zdravstvene težave, ki bi lahko vplivale na spanec. Poslušal bo vaše srce in pljuča ter iskal dejavnike tveganja za apnejo v spanju, kot so velike tonzile ali velik obseg vratu.
+
+### Uporaba dnevnika spanja
+
+Dnevnik spanja je dragoceno orodje za sledenje spanju, spremljanje navad spanja in dokumentiranje težav s spanjem. Ljudje, ki doživljajo težave s spanjem, lahko uporabijo dnevnik spanja za razvoj načrta zdravljenja skupaj z zdravnikom ali specialistom za spanje.
+
+Dnevnik spanja je dnevni zapis pomembnih informacij, povezanih s spanjem. Čeprav niso vsi dnevniki spanja enaki, običajno vključujejo podrobnosti o:
+
+- Času odhoda v posteljo
+- Času prebujanja
+- Času, ki je potreben za zaspanje
+- Številu in trajanju prekinitev spanja
+- Številu in trajanju dnevnih drem
+- Zaznani kakovosti spanja
+- Uživanju alkohola, kofeina in tobaka
+- Dnevnih zdravilih
+- Dnevni telesni aktivnosti
+
+Z vodenjem dnevnika spanja lahko izračunamo skupni čas spanja. Zapis spanja tudi pomaga ljudem prepoznati motnje spanja in druge dejavnike, ki lahko vplivajo na kakovost spanja. Identifikacija navad, ki vplivajo na spanje, lahko pokaže vzorce in pomaga razložiti težave s spanjem. Za zdravstvene delavce so konkretni vnosi v dnevniku spanja pogosto bolj zanesljivi in uporabni kot splošen spomin na navade spanja.
+
+Dnevnik spanja se lahko uporablja tudi pri pripravi na določene specializirane študije spanja. Dnevnik spanja lahko poveča veljavnost testov spanja, saj kaže, da je spanje osebe stabilno v obdobju pred študijo.
+
+Zdravniki običajno svetujejo, da ljudje vodijo dnevnik spanja vsaj en teden. Morda boste morali svoj dnevnik posodabljati dva tedna ali več, odvisno od tega, kako se uporablja. Če ste se odločili začeti dnevnik spanja sami, se lahko sami odločite, kako dolgo boste beležili informacije o spanju in kako pogosto jih boste pregledovali. 
+
+Če izpolnjujete dnevnik spanja po naročilu zdravnika, se prepričajte, da uporabljate obrazec, ki so vam ga dali, in sledite vsem priloženim navodilom. 
+
+Če vodite dnevnik spanja kot osebno pobudo, ga lahko uporabite za izboljšanje svojega zdravja z izvajanjem samopregleda. Ko pregledujete svoj dnevnik spanja, vam lahko nekaj vprašanj pomaga oceniti svoj spanec:
+
+- Ali namenjam dovolj časa spanju?
+- Je moj urnik spanja dosleden ali poln nihanj?
+- Ali preživim veliko časa v postelji, medtem ko se borim, da bi zaspal?
+- Ali je moj spanec prekinjen med nočjo? Če je tako, ali obstajajo kakšni vzorci v dnevniku, ki bi lahko razložili zakaj?
+- Je moj spanec zadovoljiv? Se počutim zaspano čez dan?
+- Ali jemljem dremeže, ki so predolgi ali prepozni v dnevu, ki bi lahko vplivali na moj nočni spanec?
+- Ali moja uporaba alkohola, kofeina ali zdravil vpliva na moj čas spanja ali kakovost spanja?
+
+Ko se lotite teh vprašanj, lahko prepoznate priložnosti za uporabo praktičnih nasvetov za izboljšanje higiene spanja in prispevate k vašemu splošnemu
+
+dobro počutju.
+
+### Kdaj obiskati zdravnika zaradi spanja?
+
+Če imate pomembne težave z zaspanjem ali spanjem skozi noč, če so vaše miselne, čustvene ali fizične sposobnosti čez dan oslabljene, ali če se čez dan počutite pretirano zaspane, še posebej, če se vam zdi, da se borite, da bi se uprli dremi, se posvetujte z zdravnikom. Zdravnik lahko pregleda vaš dnevnik spanja z vami in ugotovi, ali so potrebni kakšni testi za diagnozo in reševanje vaših težav s spanjem.
+
+Zelo glasno smrčanje ali smrčanje, ki vključuje zvoke dušenja ali zadušitve, so tudi razlogi za obisk zdravnika. Ne glede na to, ali vodite dnevnik spanja, se pogovorite z zdravnikom, če imate katerega od teh simptomov.
+
+
+## Zdravljenje nespečnosti 
+
+Za zdravljenje nespečnosti imate več možnosti.
+
+1. Kognitivno-vedenjska terapija za nespečnost (Kognitivno-vedenjska terapija za nespečnost - CBT-I)
+
+Kognitivno-vedenjska terapija za nespečnost (CBT-I) je strukturiran pristop, ki se osredotoča na raziskovanje povezave med našim načinom razmišljanja, našim vedenjem in našim spanjem. Med zdravljenjem usposobljeni izvajalec CBT-I pomaga prepoznati misli, občutke in vedenja, ki prispevajo k simptomom nespečnosti. Misli in občutki o spanju se preverjajo in testirajo, da se ugotovi, ali so točni, medtem ko se vedenje preverja, ali spodbuja spanje. Izvajalec nato pojasni ali preoblikuje napačne predstave in izzive na način, ki je bolj ugoden za miren spanec. Zdravljenje običajno traja od 6 do 8 sej, čeprav se dolžina lahko razlikuje glede na potrebe posameznika.
+
+2. Zdravila za spanje
+
+Zdravila za spanje so lahko učinkovita kratkoročna rešitev, na primer, lahko zagotovijo takojšnje olajšanje, ko ste zelo pod stresom ali žalujete. Nekatera novejša zdravila za spanje so odobrena za daljšo uporabo. Vendar pa zdravila za spanje niso najboljše dolgoročno zdravljenje za nespečnost za veliko ljudi. Zdravila za spanje lahko povzročijo resne stranske učinke, vključno z odvisnostjo, simptomi odtegnitve, amnezijo in misli o samomoru.
+
+3. Spremembe življenjskega sloga
+
+Spremembe življenjskega sloga, kot so redna telesna aktivnost, zdrava prehrana in dobra higiena spanja, pomagajo izboljšati kakovost spanja. Dobra higiena spanja vključuje vzpostavitev rednega urnika spanja, izogibanje kofeinu in alkoholu pred spanjem, zagotavljanje tihega in temnega okolja za spanje ter izogibanje elektronskim napravam pred spanjem.
+
+4. Hipnoza za spanje
+
+Hipnoza za spanje vključuje učenje sproščanja ob verbalnem ali neverbalnem signalu. Hipnoza pomaga zmanjšati anksioznost in stres, ki lahko motita spanec, in lahko pomaga pri vzpostavljanju bolj pozitivnih vzorcev spanja.
+
+
+## Orodja za izboljšanje spanca 
+
+1. Izpostavljanje sončni svetlobi
+
+Svetloba, zlasti sončna svetloba, je eden ključnih dejavnikov, ki uravnavajo naše cirkadiane ritme in spodbujajo kakovosten spanec. Izpostavljanje sončni svetlobi čez dan lahko pomaga uravnavati naše notranje ure in izboljšati kakovost spanja.
+
+2. Omejevanje kofeina
+
+Kofein je stimulans, ki lahko moti spanec, zato je pomembno, da ga omejimo, zlasti v popoldanskem in večernem času. Prav tako je pomembno biti pozoren, če zaužijemo veliko kofeina, da bi nadomestili pomanjkanje spanja.
+
+3. Izogibanje modri svetlobi ponoči
+
+Modra svetloba, ki jo oddajajo elektronske naprave, kot so pametni telefoni, tablični računalniki in računalniki, lahko zavira proizvodnjo melatonina, hormona, ki ga telo proizvaja za spodbujanje spanja. Izogibanje elektronskim napravam pred spanjem lahko pomaga izboljšati kakovost spanja.
+
+4. Omejevanje dnevnih dremežev
+
+Dremeži čez dan so lahko koristni za obnovitev energije, vendar lahko motijo spanec ponoči. Da bi to preprečili, poskusite omejiti dremeže na kratke počitke v zgodnjem popoldnevu.
+
+5. Meditacija za spanje
+
+Meditacija lahko pomaga zmanjšati stres in anksioznost, ki lahko motita spanec. Prav tako lahko pomaga pri vzpostavljanju bolj pozitivnih vzorcev spanja.
+
+6. Dodatki za spanje: kamilčni čaj, magnezij
+
+Nekateri naravni dodatki, kot so kamilčni čaj in magnezij, lahko pomagajo spodbuditi sprostitev in izboljšati kakovost spanja.
+
+7. Prilagajanje spalnega okolja
+
+Ustvarjanje prijetnega spalnega okolja je ključnega pomena za dober spanec. To vključuje zagotavljanje tihega in temnega okolja za spanje, uporabo udobne postelje in blazin, in ohranjanje hladne temperature v spalnici.
+
+8. Spalna higiena
+
+Dobra spalna higiena vključuje vzpostavitev rednega urnika spanja, izogibanje kofeinu in alkoholu pred spanjem, in izogibanje elektronskim napravam pred spanjem. Prav tako vključuje vzdrževanje zdravih dnevnih navad, kot so redna telesna aktivnost, zdrava prehrana in izpostavljanje sončni svetlobi.
