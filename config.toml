@@ -30,32 +30,10 @@ disableKinds = []
     url = "/"
     weight = -3
     
-    [[menu.main]]
-    parent = "Mnenja strank"
-    name = "Izkušnje s hipnozo"
-    url = "/izkusnje-s-hipnozo/"
-    weight = -2 
-
-    [[menu.main]]
-    parent = "Mnenja strank"
-    name = "Izkušnje s hipnozo za spanje"
-    url = "/hipnoza-za-spanje-izkusnje/"
-    weight = -2  
-
-    [[menu.main]]
-    parent = "Mnenja strank"
-    name = "Izkušnje s hipnozo za hujšanje"
-    url = "/hipnoza-za-hujsanje-izkusnje/"
-    weight = -2   
-
-    [[menu.main]]
-    parent = "Mnenja strank"
-    name = "Izkušnje s hipnozo za samozavest"
-    url = "/hipnoza-za-samozavest-izkusnje/"
-    weight = -2   
 
 
-    [[menu.main]]
+
+  [[menu.main]]
     parent = "Hipnoterapija"
     name = "O hipnoterapiji"
     url = "/hipnoterapija/"
@@ -67,15 +45,34 @@ disableKinds = []
     url = "/regresija/"
     weight = -2
 
-    [[menu.main]]
+  [[menu.main]]
+   parent = "Hipnoterapija"
+    name = "Izkušnje s hipnozo"
+    url = "/izkusnje-s-hipnozo/"
+    weight = -1      
+
+  [[menu.main]]
     name = "Članki"
     url = "/clanki/"
     weight = -1
 
-   [[menu.main]]
-    parent = "Orodja"
-    name = "Tečaj Dovolj slabega spanja"
-    url = "/dovolj-slabega-spanja/"
+  [[menu.main]]
+    parent = "Spanje"
+    name = "Nespečnost"
+    url = "/nespecnost/"
+    weight = 0
+
+  [[menu.main]]
+    parent = "Spanje"
+    name = "Hipnoterapija za spanje"
+    url = "/hipnoterapija-za-spanje/"
+    weight = 0
+    
+
+  [[menu.main]]
+    parent = "Spanje"
+    name = "Izkušnje s hipnozo za spanje"
+    url = "/hipnoza-za-spanje-izkusnje/"
     weight = 0
 
    [[menu.main]]
