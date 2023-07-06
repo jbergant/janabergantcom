@@ -33,6 +33,13 @@ Nespečnost je lahko za nekatere ljudi izčrpavajoča, saj moti vsakodnevno živ
 
 ## Simptomi nespečnosti 
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img alt="Simptomi nespečnosti" src="/images/clanki/simptomi-nespecnosti.webp">
+  </div>
+  <em>Simptomi nespečnosti</em>
+</div>
+
 1. **Težave pri uspavanju**
 
 Nespečnost je pogosto povezana s težavami pri uspavanju. Ljudje, ki trpijo za nespečnostjo, preživijo ure v postelji, preden zaspijo. To je posledica različnih dejavnikov, vključno s stresom, anksioznostjo, prekomernim vnosom kofeina ali uporabo elektronskih naprav pred spanjem.
@@ -45,7 +52,7 @@ Poleg težav pri zaspanju lahko nespečnost povzroči tudi težave pri ohranjanj
 
 Prezgodnje prebujanje je še en simptom nespečnosti. Ljudje se prebudijo veliko prej, kot bi želeli, in ne morejo več zaspati. To  povzroči občutek utrujenosti in izčrpanosti čez dan.
 
-4. Dnevne posledice nespečnosti 
+4. **Dnevne posledice nespečnosti** 
 
 Nespečnost povzroči številne dnevne posledice. Te vključujejo:
 
@@ -73,23 +80,23 @@ Pomembno je, da se zavedamo teh različnih vrst nespečnosti, saj to pomaga pri 
 
 Poleg osnovne razvrstitve na akutno in kronično nespečnost, obstajajo tudi drugi načini opisovanja nespečnosti, ki se uporabljajo za boljše razumevanje in opisovanje različnih načinov, kako se nespečnost izraža.
 
-1. Nespečnost ob začetku spanja 
+1. **Nespečnost ob začetku spanja** 
 
 Ta oblika nespečnosti opisuje težave pri uspavanju na začetku noči. Ljudje s to vrsto nespečnosti se v postelji obračajo in premetavajo, ne da bi dejansko zaspali. Večina ljudi s težavami pri začetku spanja ne more zaspati, tudi če so že 20-30 minut v postelji.
 
-2. Nespečnost pri vzdrževanju spanja 
+2. **Nespečnost pri vzdrževanju spanja** 
 
 Ta oblika nespečnosti opisuje nezmožnost ohranjanja spanca skozi celo noč. Najpogosteje to pomeni, da se ljudje vsaj enkrat ponoči prebudijo in se trudijo, da bi ponovno zaspali vsaj 20-30 minut. Fragmentiran spanec, povezan s slabim vzdrževanjem spanja, pomeni zmanjšanje količine in kakovosti spanja, kar povečuje možnosti za dnevno zaspanost ali počasnost.
 
-3. Nespečnost pri zgodnjem jutranjem prebujanju 
+3. **Nespečnost pri zgodnjem jutranjem prebujanju** 
 
 Nespečnost pri zgodnjem jutranjem prebujanju vključuje prebujanje veliko pred tem, ko bi oseba želela ali načrtovala zjutraj. Nekateri strokovnjaki to vidijo kot del vzdrževanja spanja, drugi pa ga obravnavajo ločeno. Nezmožnost doseganja želene količine spanja naslednji dan oslabi fizično in mentalno delovanje osebe.
 
-4. Mešana nespečnost 
+4. **Mešana nespečnost** 
 
 Čeprav ni uradni izraz, se opisnik mešana nespečnost lahko uporablja za ljudi, ki imajo kombinacijo težav, povezanih z začetkom spanja, vzdrževanjem spanja in zgodnjim jutranjim prebujanjem. Na splošno se širši izraz nespečnost lahko obravnava kot opis mešane nespečnosti, saj je pogosto, da imajo ljudje prekrivajoče se težave s spanjem.
 
-5. Komorbidna nespečnost 
+5. **Komorbidna nespečnost**     
 
 V preteklosti so težave s spanjem včasih označevali kot komorbidno nespečnost ali sekundarno nespečnost. To pomeni, da se je verjelo, da nespečnost izhaja iz drugega zdravstvenega stanja. Vendar pa je ta terminologija zdaj manj pogosta, saj so raziskave pokazale, da je nespečnost pogosto neodvisna motnja, ki se lahko pojavi skupaj z drugimi zdravstvenimi težavami.
 
@@ -111,6 +118,12 @@ Nespečnost je pogosto povezana z duševnimi zdravstvenimi motnjami, kot so anks
 
 Razvade, kot so pitje alkohola, kajenje in uživanje pijač, ki vsebujejo kofein (kava, čaj, nekatere brezalkoholne pijače), prav tako vodijo do nespečnosti. Alkohol preverjeno uničuje kakovost spanja, čeprav se posamezniku lahko zdi, da bolje spi, ko nekaj popije pred spanjem. Zanimivo je, da je alkoholni delirij pravzaprav posledica kroničnega pomanjkanja REM spanja, ki ga uničuje prav alkohol. (Dr. Mathew Walker v knjigi [Zakaj spimo](https://youtu.be/GY9a7EuOzfk))
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img alt="Anksioznost in stres je pogosto vzrok nespečnosti" src="/images/clanki/anksioznost.webp">
+  </div>
+  <em>Anksioznost in stres je pogosto vzrok nespečnosti</em>
+</div>
 
 
 3. **Telesne bolezni**
@@ -215,7 +228,14 @@ Spremembe življenjskega sloga, kot so redna telesna aktivnost, zdrava prehrana 
 Hipnoza za spanje vključuje učenje sproščanja ob verbalnem ali neverbalnem signalu. Hipnoza pomaga zmanjšati anksioznost in stres, ki lahko motita spanec, in lahko pomaga pri vzpostavljanju bolj pozitivnih vzorcev spanja.
 
 
-## Orodja za izboljšanje spanca 
+## Orodja za izboljšanje spanja 
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img alt="Orodja za izboljšanje spanja" src="/images/clanki/orodja-za-izboljsanje-spanja.webp">
+  </div>
+  <em>Orodja za izboljšanje spanja</em>
+</div>
 
 1. **Izpostavljanje sončni svetlobi**
 
