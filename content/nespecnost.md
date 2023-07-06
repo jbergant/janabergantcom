@@ -12,7 +12,7 @@ addCallCTA: true
 
 ## O nespečnosti
 
-Nespečnost je eden najpogostejših zdravstvenih problemov, s katerimi se soočajo odrasli po vsej Sloveniji in svetu. Nespečnost je stanje, ki ga zaznamujejo težave pri zaspanju, ohranjanju spanca ali oboje, kljub zadostni priložnosti in okolju, ki je ugodno za počitek in spanje. Za diagnozo nespečnosti je potrebno, da te težave s spanjem povzročajo tudi dnevne težave, kot so zaspanost ali težave s koncentracijo. 
+Nespečnost je eden najpogostejših težav, s katerimi se soočajo odrasli po vsej Sloveniji in svetu. Nespečnost je stanje, ki ga zaznamujejo težave pri uspavanje, ohranjanju spanja ali oboje, kljub zadostni priložnosti in okolju, ki je ugodno za počitek in spanje. Za diagnozo nespečnosti je potrebno, da te težave s spanjem povzročajo tudi dnevne težave, kot so zaspanost ali težave s koncentracijo. 
 
 Ena neprespana noč ne pomeni nespečnosti. O nespečnosti govorimo, ko oseba za daljše obdobje (vsaj trikrat na teden za obdobje enega meseca ali več) doživlja težave s spanjem. Te težave lahko vključujejo:
 - težave pri uspavanju, 
@@ -24,16 +24,18 @@ Za diagnozo nespečnosti morajo te težave povzročati pomembno stisko ali motnj
 
 Nespečnost je lahko povezana tudi z drugimi zdravstvenimi ali psihiatričnimi stanji, kot so depresija, anksioznost ali kronična bolečina.
 
-Pogostost nespečnosti med odraslimi je visoka. Po nekaterih ocenah do dve tretjini ljudi občasno doživlja simptome nespečnosti. Ti izbruhi nespečnosti morda ne izpolnjujejo kriterijev za formalno diagnozo nespečnosti, odvisno od tega, kako dolgo trajajo in ali povzročajo stisko ali vplivajo na dnevno delovanje. Vendar je pomembno, da vsak, ki ima skrbi glede svojega spanca, o njih razpravlja s strokovnjakom za zdravje, da se zagotovi ustrezna diagnoza in zdravljenje.
+Pojav nespečnosti med odraslimi je visok. Po nekaterih ocenah do dve tretjini ljudi občasno doživlja simptome nespečnosti. Ti izbruhi nespečnosti morda ne izpolnjujejo kriterijev za formalno diagnozo nespečnosti, odvisno od tega, kako dolgo trajajo in ali povzročajo stisko ali vplivajo na dnevno delovanje. Vendar je pomembno, da vsak, ki ima skrbi glede svojega spanca za njih poišče rešitev. 
 
-Nespečnost je lahko za nekatere ljudi izčrpavajoča, saj lahko moti vsakodnevno življenje in vpliva na kakovost življenja. Poleg tega dolgotrajna nespečnost, ki ni zdravljena, lahko vodi do kronične pomanjkljivosti spanja, ki je povezana z večjim tveganjem za zlorabo snovi, kronično bolečino, srčne bolezni in diabetes. Zato je ključnega pomena, da se nespečnost pravočasno prepozna in ustrezno zdravi.
+> "Spanje je najboljši most med obupom in upanjem." - John Steinbeck
+
+Nespečnost je lahko za nekatere ljudi izčrpavajoča, saj moti vsakodnevno življenje in vpliva na kakovost življenja. Poleg tega dolgotrajna nespečnost, ki ni zdravljena, vodi do raznih bolezni vključno z Alzhemerjem.
 
 
 ## Simptomi nespečnosti 
 
-1. Težave pri uspavanje 
+1. Težave pri uspavanju
 
-Nespečnost je pogosto povezana s težavami pri uspavanje. Ljudje, ki trpijo za nespečnostjo, lahko preživijo ure v postelji, preden zaspijo. To je lahko posledica različnih dejavnikov, vključno s stresom, anksioznostjo, prekomernim vnosom kofeina ali uporabo elektronskih naprav pred spanjem.
+Nespečnost je pogosto povezana s težavami pri uspavanju. Ljudje, ki trpijo za nespečnostjo, preživijo ure v postelji, preden zaspijo. To je posledica različnih dejavnikov, vključno s stresom, anksioznostjo, prekomernim vnosom kofeina ali uporabo elektronskih naprav pred spanjem.
 
 2. Težave pri ohranjanju spanca 
 
