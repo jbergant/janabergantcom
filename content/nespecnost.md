@@ -42,16 +42,16 @@ Nespečnost je pogosto povezana s težavami pri uspavanju. Ljudje, ki trpijo za 
 Poleg težav pri zaspanju lahko nespečnost povzroči tudi težave pri ohranjanju spanca. To pomeni, da se ljudje pogosto prebudijo sredi noči in imajo težave, da bi ponovno zaspali. To lahko povzroči prekinjen in nekvaliteten spanec, kar vodi do utrujenosti in pomanjkanja energije čez dan.
 
 3. Prezgodnje prebujanje 
-Prezgodnje prebujanje je še en simptom nespečnosti. Ljudje se lahko prebudijo veliko prej, kot bi želeli, in ne morejo več zaspati. To lahko povzroči občutek utrujenosti in izčrpanosti čez dan.
+Prezgodnje prebujanje je še en simptom nespečnosti. Ljudje se prebudijo veliko prej, kot bi želeli, in ne morejo več zaspati. To  povzroči občutek utrujenosti in izčrpanosti čez dan.
 
 4. Dnevne posledice nespečnosti 
 
-Nespečnost lahko povzroči številne dnevne posledice. Te vključujejo:
+Nespečnost povzroči številne dnevne posledice. Te vključujejo:
 
-- Dnevno zaspanost: Ljudje s nespečnostjo se pogosto počutijo zaspane čez dan, kar lahko vpliva na njihovo delovno učinkovitost in splošno kakovost življenja.
-- Težave s koncentracijo: Nespečnost lahko povzroči težave s koncentracijo in spominom. To lahko vpliva na delovno učinkovitost in sposobnost opravljanja vsakodnevnih nalog.
-- Razdražljivost: Pomanjkanje spanca lahko povzroči povečano razdražljivost in čustveno nestabilnost.
-- Fizične težave: Dolgotrajna nespečnost lahko vodi do različnih fizičnih težav, vključno z bolečinami v mišicah, glavoboli in oslabljenim imunskim sistemom.
+- **Dnevno zaspanost**: Ljudje s nespečnostjo se pogosto počutijo zaspane čez dan, kar lahko vpliva na njihovo delovno učinkovitost in splošno kakovost življenja.
+- **Težave s koncentracijo**: Nespečnost povzroči težave s koncentracijo in spominom. To vpliva na delovno učinkovitost in sposobnost opravljanja vsakodnevnih nalog.
+- **Razdražljivost**: Pomanjkanje spanca povzroči razdražljivost in čustveno nestabilnost.
+- **Fizične težave**: Dolgotrajna nespečnost lahko vodi do različnih fizičnih težav, vključno z bolečinami v mišicah, glavoboli in oslabljenim imunskim sistemom.
 
 Za učinkovito obvladovanje nespečnosti je pomembno, da se posamezniki zavedajo teh simptomov in poiščejo ustrezno pomoč. To lahko vključuje spremembe življenjskega sloga, kot so izboljšanje higiene spanja, redna telesna aktivnost in zmanjšanje vnosa kofeina, ali pa medicinsko zdravljenje, vključno z zdravili za spanje ali terapijo za obvladovanje stresa in anksioznosti.
 
@@ -68,23 +68,21 @@ Kratkotrajna nespečnost, znana tudi kot akutna ali prilagoditvena nespečnost, 
 ### Kronična nespečnost 
 Kronična nespečnost je dolgotrajna oblika nespečnosti, ki traja več kot tri mesece. Oseba ima težave s spanjem ali ohranjanjem spanca vsaj trikrat na teden za tri mesece ali dlje. Kronična nespečnost ima lahko veliko možnih vzrokov. Lahko je povezana s stresnimi situacijami, vendar je lahko tudi povezana z nepravilnimi urniki spanja, slabo higieno spanja, stalnimi nočnimi morami, duševnimi zdravstvenimi motnjami, osnovnimi fizičnimi ali nevrološkimi težavami, zdravili, partnerjem v postelji in določenimi drugimi motnjami spanja.
 
-Pomembno je, da se zavedamo teh različnih vrst nespečnosti, saj lahko to pomaga pri iskanju najbolj učinkovitega zdravljenja.
+Pomembno je, da se zavedamo teh različnih vrst nespečnosti, saj to pomaga pri iskanju najbolj učinkovitega zdravljenja.
 
-
-
-Poleg osnovne razvrstitve na akutno in kronično nespečnost, obstajajo tudi drugi načini opisovanja nespečnosti, ki se lahko uporabljajo za boljše razumevanje in opisovanje različnih načinov, kako se lahko nespečnost izraža.
+Poleg osnovne razvrstitve na akutno in kronično nespečnost, obstajajo tudi drugi načini opisovanja nespečnosti, ki se uporabljajo za boljše razumevanje in opisovanje različnih načinov, kako se nespečnost izraža.
 
 1. Nespečnost ob začetku spanja 
 
-Ta oblika nespečnosti opisuje težave pri uspavanju na začetku noči. Ljudje s to vrsto nespečnosti se lahko v postelji obračajo in premetavajo, ne da bi dejansko zaspali. Večina ljudi s težavami pri začetku spanja ne more zaspati, tudi če so že 20-30 minut v postelji.
+Ta oblika nespečnosti opisuje težave pri uspavanju na začetku noči. Ljudje s to vrsto nespečnosti se v postelji obračajo in premetavajo, ne da bi dejansko zaspali. Večina ljudi s težavami pri začetku spanja ne more zaspati, tudi če so že 20-30 minut v postelji.
 
 2. Nespečnost pri vzdrževanju spanja 
 
-Ta oblika nespečnosti opisuje nezmožnost ohranjanja spanca skozi celo noč. Najpogosteje to pomeni, da se ljudje vsaj enkrat ponoči prebudijo in se borijo, da bi ponovno zaspali vsaj 20-30 minut. Fragmentiran spanec, povezan s slabim vzdrževanjem spanja, pomeni zmanjšanje količine in kakovosti spanja, kar povečuje možnosti za dnevno zaspanost ali počasnost.
+Ta oblika nespečnosti opisuje nezmožnost ohranjanja spanca skozi celo noč. Najpogosteje to pomeni, da se ljudje vsaj enkrat ponoči prebudijo in se trudijo, da bi ponovno zaspali vsaj 20-30 minut. Fragmentiran spanec, povezan s slabim vzdrževanjem spanja, pomeni zmanjšanje količine in kakovosti spanja, kar povečuje možnosti za dnevno zaspanost ali počasnost.
 
 3. Nespečnost pri zgodnjem jutranjem prebujanju 
 
-Nespečnost pri zgodnjem jutranjem prebujanju vključuje prebujanje veliko pred tem, ko bi oseba želela ali načrtovala zjutraj. Nekateri strokovnjaki to vidijo kot del vzdrževanja spanja, drugi pa ga obravnavajo ločeno. Nezmožnost doseganja želene količine spanja lahko naslednji dan oslabi fizično in mentalno delovanje osebe.
+Nespečnost pri zgodnjem jutranjem prebujanju vključuje prebujanje veliko pred tem, ko bi oseba želela ali načrtovala zjutraj. Nekateri strokovnjaki to vidijo kot del vzdrževanja spanja, drugi pa ga obravnavajo ločeno. Nezmožnost doseganja želene količine spanja naslednji dan oslabi fizično in mentalno delovanje osebe.
 
 4. Mešana nespečnost 
 
@@ -102,7 +100,7 @@ Vsaka od teh vrst nespečnosti zahteva različne pristope k zdravljenju, zato je
 
 1. Fiziološka vzburjenost 
 
-Nespečnost je pogosto posledica fiziološke vzburjenosti, ki jo povzročajo stresne situacije, kot so pomembni dogodki, težave na delovnem mestu ali finančne težave. Prav tako se lahko pojavi zaradi vsiljenih sprememb ritma spanja, kot so nočno delo ali potovanje z letalom preko več časovnih območij, kar povzroča t.i. jet lag.
+Nespečnost je pogosto posledica fiziološke vzburjenosti, ki jo povzročajo stresne situacije, kot so pomembni dogodki, težave v odnosih, težave na delovnem mestu ali finančne težave. Prav tako se lahko pojavi zaradi vsiljenih sprememb ritma spanja, kot so nočno delo ali potovanje z letalom preko več časovnih območij, kar povzroča t.i. jet lag.
 
 Fiziološka vzburjenost je eden od glavnih vzrokov za nespečnost. To vključuje stres, ki je povezan z delom, družino ali osebnimi odnosi, težave z denarjem ali celo jet lag. Te stresne situacije so pogosto začasne, vendar lahko vplivajo na kakovost in količino spanja. Poleg tega lahko navade in aktivnosti pred spanjem, kot so pitje kave, gledanje televizije ali uporaba računalnika, vplivajo na kakovost spanja.
 
@@ -110,7 +108,7 @@ Fiziološka vzburjenost je eden od glavnih vzrokov za nespečnost. To vključuje
 
 Nespečnost je pogosto povezana z duševnimi zdravstvenimi motnjami, kot so anksioznost, depresija in manija. Te motnje lahko povzročijo težave s spanjem, ki trajajo dlje časa. Poleg tega lahko nekatera zdravila, ki se uporabljajo za zdravljenje teh motenj, kot so antidepresivi, povzročijo težave s spanjem.
 
-Razvade, kot so pitje alkohola, kajenje in uživanje pijač, ki vsebujejo kofein (kava, čaj, nekatere brezalkoholne pijače), lahko prav tako vodijo do nespečnosti.
+Razvade, kot so pitje alkohola, kajenje in uživanje pijač, ki vsebujejo kofein (kava, čaj, nekatere brezalkoholne pijače), prav tako vodijo do nespečnosti. Alkohol preverjeno uničuje kakovost spanja, čeprav se posamezniku lahko zdi, da bolje spi, ko nekaj popije pred spanjem. Zanimivo je, da je alkoholni delirij pravzaprav posledica kroničnega pomanjkanja REM spanja, ki ga uničuje prav alkohol. (Dr. Mathew Walker v knjigi [Zakaj spimo](https://youtu.be/GY9a7EuOzfk))
 
 
 
@@ -121,11 +119,11 @@ Poleg tega je nespečnost pogosto povezana z različnimi telesnimi boleznimi, ko
 
 Obstaja več dejavnikov tveganja, ki lahko povečajo verjetnost za razvoj nespečnosti. Ti vključujejo:
 
-- Apneja v spanju: To je stanje, pri katerem dihanje med spanjem preneha. Ljudje z apnejo v spanju pogosto imajo težave s spanjem in imajo tudi večje tveganje za visok krvni tlak.
-- Sindrom nemirnih nog: To je stanje, ki povzroča močno nelagodje, bolečino ali trzanje globoko v prstih, gležnjih, kolenih ali bokih, pogosto med spanjem. Simptomi lahko prebudijo posameznika.
-- Srčno popuščanje: Veliko ljudi s srčnim popuščanjem ima težave s spanjem. To je lahko posledica težav z dihanjem ali zaradi depresije ali anksioznosti. Veliko ljudi s srčnim popuščanjem ima tudi apnejo v spanju.
-- Kronična bolečina: Bolečina lahko oteži spanje, kronična bolečina pa lahko vodi do pomanjkanja spanja. Kronična bolečina ima veliko vzrokov, kot so težave s hrbtom ali artritis.
-- Zdravila in druge snovi: Veliko zdravil lahko povzroči težave s spanjem. Primeri vključujejo nekatere antidepresive, zdravila za prehlad, nepredpisane prehranske pripomočke, stimulanse (npr. zdravila za hujšanje in amfetamini), kortikosteroide, diuretike, antiepileptična zdravila in nekatera zdravila za zdravljenje povišanega krvnega tlaka, lahko prav tako povzročijo nespečnost.
+- **Apneja v spanju**: To je stanje, pri katerem dihanje med spanjem preneha. Ljudje z apnejo v spanju pogosto imajo težave s spanjem in imajo tudi večje tveganje za visok krvni tlak.
+- **Sindrom nemirnih nog**: To je stanje, ki povzroča močno nelagodje, bolečino ali trzanje globoko v prstih, gležnjih, kolenih ali bokih, pogosto med spanjem. Simptomi lahko prebudijo posameznika.
+- **Srčno popuščanje**: Veliko ljudi s srčnim popuščanjem ima težave s spanjem. To je lahko posledica težav z dihanjem ali zaradi depresije ali anksioznosti. Veliko ljudi s srčnim popuščanjem ima tudi apnejo v spanju.
+- **Kronična bolečina**: Bolečina lahko oteži spanje, kronična bolečina pa lahko vodi do pomanjkanja spanja. Kronična bolečina ima veliko vzrokov, kot so težave s hrbtom ali artritis.
+- **Zdravila in druge snovi**: Veliko zdravil lahko povzroči težave s spanjem. Primeri vključujejo nekatere antidepresive, zdravila za prehlad, nepredpisane prehranske pripomočke, stimulanse (npr. zdravila za hujšanje in amfetamini), kortikosteroide, diuretike, antiepileptična zdravila in nekatera zdravila za zdravljenje povišanega krvnega tlaka, lahko prav tako povzročijo nespečnost.
 
 Alkohol, kofein, nikotin in nezakonite droge lahko prav tako motijo vaš spanec. 
 
@@ -143,7 +141,7 @@ Zato je pomembno, da se posamezniki, ki trpijo za nespečnostjo, posvetujejo s s
 
 ### Vrednotenje navad spanja in zdravstvene anamneze
 
-Diagnoza nespečnosti se začne z vrednotenjem navad spanja in zdravstvene anamneze pacienta. Zdravstveni delavec bo želel izvedeti več o simptomih, dejavnikih tveganja, zdravstveni zgodovini in družinski zdravstveni zgodovini pacienta. Za boljše razumevanje težav s spanjem se lahko zahtevajo podrobnosti o navadah spanja, kot so:
+Diagnoza nespečnosti se začne z vrednotenjem navad spanja in zdravstvene anamneze pacienta. Za boljše razumevanje težav s spanjem je potrebno vedeti podrobnosti o navadah spanja, kot so:
 
 - Kako pogosto imate težave s spanjem in kako dolgo že imate težavo
 - Kdaj greste spat in vstanete v dneh, ko delate, in v prostih dneh
@@ -152,11 +150,11 @@ Diagnoza nespečnosti se začne z vrednotenjem navad spanja in zdravstvene anamn
 - Ali pred spanjem uporabljate elektronske naprave ali gledate televizijo, saj lahko svetloba iz teh virov vpliva na vaš spanec
 - Ali glasno in pogosto smrčite ali se zbudite z občutkom zadušitve ali pomanjkanja sape
 
-Zdravstveni delavec bo opravil tudi fizični pregled, da bi izključil druge zdravstvene težave, ki bi lahko vplivale na spanec. Poslušal bo vaše srce in pljuča ter iskal dejavnike tveganja za apnejo v spanju, kot so velike tonzile ali velik obseg vratu.
+Priporočamo tudi fizični pregled pri zdravniku, da bi izključili druge zdravstvene težave, ki bi lahko vplivale na spanec. Zdravnik bo poslušal vaše srce in pljuča ter iskal dejavnike tveganja za apnejo v spanju, kot so velike tonzile ali velik obseg vratu.
 
 ### Uporaba dnevnika spanja
 
-Dnevnik spanja je dragoceno orodje za sledenje spanju, spremljanje navad spanja in dokumentiranje težav s spanjem. Ljudje, ki doživljajo težave s spanjem, lahko uporabijo dnevnik spanja za razvoj načrta zdravljenja skupaj z zdravnikom ali specialistom za spanje.
+Dnevnik spanja je dragoceno orodje za sledenje spanju, spremljanje navad spanja in dokumentiranje težav s spanjem. Ljudje, ki doživljajo težave s spanjem, lahko uporabijo dnevnik spanja za razvoj načrta zdravljenja, katerega potem skupaj pregledamo na srečanju.
 
 Dnevnik spanja je dnevni zapis pomembnih informacij, povezanih s spanjem. Čeprav niso vsi dnevniki spanja enaki, običajno vključujejo podrobnosti o:
 
@@ -170,13 +168,9 @@ Dnevnik spanja je dnevni zapis pomembnih informacij, povezanih s spanjem. Čepra
 - Dnevnih zdravilih
 - Dnevni telesni aktivnosti
 
-Z vodenjem dnevnika spanja lahko izračunamo skupni čas spanja. Zapis spanja tudi pomaga ljudem prepoznati motnje spanja in druge dejavnike, ki lahko vplivajo na kakovost spanja. Identifikacija navad, ki vplivajo na spanje, lahko pokaže vzorce in pomaga razložiti težave s spanjem. Za zdravstvene delavce so konkretni vnosi v dnevniku spanja pogosto bolj zanesljivi in uporabni kot splošen spomin na navade spanja.
+Z vodenjem dnevnika spanja lahko izračunamo skupni čas spanja. Zapis spanja tudi pomaga ljudem prepoznati motnje spanja in druge dejavnike, ki vplivajo na kakovost spanja. Identifikacija navad, ki vplivajo na spanje, pokaže vzorce in pomaga razložiti težave s spanjem. Dnevnik spanje s konkretnimi vnosi so bolj zanesljivi in uporabni kot splošen spomin na navade spanja.
 
-Dnevnik spanja se lahko uporablja tudi pri pripravi na določene specializirane študije spanja. Dnevnik spanja lahko poveča veljavnost testov spanja, saj kaže, da je spanje osebe stabilno v obdobju pred študijo.
-
-Zdravniki običajno svetujejo, da ljudje vodijo dnevnik spanja vsaj en teden. Morda boste morali svoj dnevnik posodabljati dva tedna ali več, odvisno od tega, kako se uporablja. Če ste se odločili začeti dnevnik spanja sami, se lahko sami odločite, kako dolgo boste beležili informacije o spanju in kako pogosto jih boste pregledovali. 
-
-Če izpolnjujete dnevnik spanja po naročilu zdravnika, se prepričajte, da uporabljate obrazec, ki so vam ga dali, in sledite vsem priloženim navodilom. 
+Zdravniki običajno svetujejo, da ljudje vodijo dnevnik spanja vsaj en teden. Morda boste morali svoj dnevnik posodabljati dva tedna ali več, odvisno od tega, kako se uporablja. Če ste se odločili začeti dnevnik spanja sami, se lahko sami odločite, kako dolgo boste beležili informacije o spanju in kako pogosto jih boste pregledovali.  
 
 Če vodite dnevnik spanja kot osebno pobudo, ga lahko uporabite za izboljšanje svojega zdravja z izvajanjem samopregleda. Ko pregledujete svoj dnevnik spanja, vam lahko nekaj vprašanj pomaga oceniti svoj spanec:
 
@@ -188,9 +182,7 @@ Zdravniki običajno svetujejo, da ljudje vodijo dnevnik spanja vsaj en teden. Mo
 - Ali jemljem dremeže, ki so predolgi ali prepozni v dnevu, ki bi lahko vplivali na moj nočni spanec?
 - Ali moja uporaba alkohola, kofeina ali zdravil vpliva na moj čas spanja ali kakovost spanja?
 
-Ko se lotite teh vprašanj, lahko prepoznate priložnosti za uporabo praktičnih nasvetov za izboljšanje higiene spanja in prispevate k vašemu splošnemu
-
-dobro počutju.
+Ko se lotite teh vprašanj, lahko prepoznate priložnosti za uporabo praktičnih nasvetov za izboljšanje higiene spanja in prispevate k vašemu splošnemu dobro počutju.
 
 ### Kdaj obiskati zdravnika zaradi spanja?
 
