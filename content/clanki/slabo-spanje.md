@@ -39,7 +39,7 @@ Slabe spalne navade: Pozno spanje, uživanje težkih obrokov pred spanjem in pre
 
 Neprimeren prostor za spanje: Hrup, svetloba in temperatura lahko vplivajo na vašo sposobnost spanja. Prostor, ki je prevroč, prehladen, presvetel ali prehrupen, lahko moti spanje.
 
-Zdravstvena stanja: Določena zdravstvena stanja, kot sta apneja med spanjem in sindrom nemirnih nog, lahko motijo vzorce spanja. Prav tako nespečnost lahko povzroča moteno delovanje ščitnice.
+Zdravstvena stanja: Določena zdravstvena stanja, kot sta apneja med spanjem in sindrom nemirnih nog, lahko motijo vzorce spanja. Prav tako [nespečnost](/nespecnost) lahko povzroča moteno delovanje ščitnice.
 
 Zdravila in bolezni: Nekatera zdravila lahko vplivajo tudi na spanje. Na primer, nekateri antidepresivi povzročijo zaspanost, drugi nespečnost. Nespečnost prav tako povzročajo določeni amfetamini, stroidi, določena zdravila za parkinsonovo bolezen.
 
