@@ -1,3 +1,9 @@
+---
+title: Politika zasebnosti
+noindex: true
+layout: page
+---
+
 **Privacy Policy**
 
 Jana Bergant built the Globoka Sprostitev app as a Free app. This SERVICE is provided by Jana Bergant at no cost and is intended for use as is.
