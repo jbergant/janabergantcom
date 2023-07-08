@@ -2,7 +2,7 @@
 title:  Meditacija za spanje
 Metatitle: Kako izboljšati spanec z meditacijo - Vodnik za meditacijo za spanje
 description: Meditacija za spanje je preprosta in učinkovita metoda za izboljšanje spanca. Naša stran vam ponuja vse, kar morate vedeti o meditaciji za spanje, od koristi do tehnik in vodenih meditacij.
-date:   2023-07-07 09:01:35 +0300
+date:   2023-07-08 09:01:35 +0300
 image:  '/images/clanki/meditacija-za-spanje.webp'
 tags:   ['spanje', 'meditacija']
 ---
