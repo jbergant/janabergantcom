@@ -2,7 +2,7 @@
 title:  Slabo spanje
 Metatitle: Vzroki in posledice slabega spanca
 description: Imaš težave s spanjem? Težko zaspiš, se ponoči zbujaš in težko zaspiš nazaj? Ugotovi, kako slab spanec vpliva na tvoje zdravje, delo in razpoloženje. Preberi, kakšni sp pogosti vzroki za slab spanec in kaj lahko storiš že danes!
-date:   2023-02-27 15:01:35 +0300
+date:   2023-07-27 15:01:35 +0300
 image:  '/images/clanki/slabo-spanje.webp'
 tags:   ['spanje', 'stres', 'čustva']
 ---
