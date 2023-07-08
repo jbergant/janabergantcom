@@ -27,7 +27,7 @@ Meditacija za spanje ni le orodje za izboljšanje spanca, ampak ima tudi števil
 
 2. **Izboljšanje kognitivnih funkcij:** Spanje pomaga izboljšati kratkoročni in dolgoročni spomin, sposobnost odločanja, pozornost in reakcijski čas. Ljudje, ki trpijo zaradi pomanjkanja spanja, pogosto delajo več napak pri delu in so bolj nevarni na cesti.
 
-3. **Izboljšanje učinkovitosti spanja:** Meditacija za spanje je bila povezana z izboljšanjem kakovosti in učinkovitosti spanja, hitrosti zaspanja in časa, ki ga lahko preživimo budni čez dan.
+3. **Izboljšanje učinkovitosti spanja:** Meditacija za spanje je bila povezana z izboljšanjem kakovosti in učinkovitosti spanja, hitrosti zaspanja in časa, ki ga lahko preživimo budni čez dan. Meditacija za spanje je priporočljivo poslušati kadar vas muči [nespečnost](/nespecnost). 
 
 Z meditacijo za spanje lahko izboljšamo svoje zdravje, dobro počutje in celo produktivnost. Z redno prakso lahko ta preprosta, a močna tehnika pomaga izboljšati kakovost našega življenja.
 
