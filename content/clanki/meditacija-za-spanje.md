@@ -42,14 +42,32 @@ Umirjen um je ključnega pomena za kakovosten spanec. Naša miselna aktivnost č
 
 Vodena meditacija za spanje je odličen način za začetek prakse meditacije za spanje. Z vodenjem skozi različne tehnike in vaje vam lahko pomaga, da se lažje sprostite in pripravite na spanje. Tukaj je nekaj povezav do mojih vodenih meditacij za spanje na YouTube:
 
-{{< youtube id="MijgmvT0Y6Q" class="video" >}}
-Meditacija za Spanje: Vizualizacija zdravilne reke
 
-{{< youtube id="7i2bf9Ditrs" class="video" >}}
-Meditacija za spanje
 
-{{< youtube id="YoMiJlVi02M" class="video" >}}
-Hipnoza za spanje in umirjanje misli pred spanjem
+
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://youtu.be/7i2bf9Ditrs"><img alt="Meditacija za spanje" src="/images/clanki/meditacija-za-spanje-yt.webp"><a>
+  </div>
+  <em><a href="https://youtu.be/7i2bf9Ditrs">Meditacija za spanje</a></em>
+</div>
+
+
+
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://youtu.be/YoMiJlVi02M"><img alt="Hipnoza za spanje in umirjanje misli pred spanjem" src="/images/clanki/meditacija-spanje-misli-yt.webp"><a>
+  </div>
+  <em><a href="https://youtu.be/YoMiJlVi02M">Hipnoza za spanje in umirjanje misli pred spanjem</a></em>
+</div>
+
+
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://youtu.be/MijgmvT0Y6Q"><img alt="Meditacija za spanje: Vizualizacija zdravilne reke" src="/images/clanki/meditacija-reka-yt.webp"><a>
+  </div>
+  <em><a href="https://youtu.be/MijgmvT0Y6Q">Meditacija za spanje: Vizualizacija zdravilne reke</a></em>
+</div>
 
 
 Za najboljše rezultate poskusite vsak dan prakticirati meditacijo za spanje. Lahko jo vključite v svojo večerno rutino, da se lažje sprostite in pripravite na spanje. Ne pozabite, da je ključ do uspeha v rednosti - tudi če meditirate samo nekaj minut na dan, lahko to prinese opazne koristi za vaš spanec in splošno dobro počutje.
