@@ -1,8 +1,8 @@
 ---
 title:  Spalna regresija
-Metatitle: Vzroki in posledice slabega spanca
-description: Imaš težave s spanjem? Težko zaspiš, se ponoči zbujaš in težko zaspiš nazaj? Ugotovi, kako slab spanec vpliva na tvoje zdravje, delo in razpoloženje. Preberi, kakšni sp pogosti vzroki za slab spanec in kaj lahko storiš že danes!
-date:   2023-07-01 09:01:35 +0300
+Metatitle: Spalna regresija pri spanju dojenčka - razumevanje in obvladovanje spalne regresije
+description: Kaj je spalna regresija in kako vpliva na spanje otroka. Odkrijte praktične nasvete za obvladovanje spalne regresije pri dojenčkih in malčkih ter kako ustvariti zdrave navade spanja. Preberite več o tem, kako se spopasti s spalno regresijo pri 4, 9, 10, 15 in 18 mesecih ter pri 2 letih.
+date:   2023-07-10 09:01:35 +0300
 image:  '/images/clanki/spalna-regresija.webp'
 tags:   ['spanje', 'spanje dojenčka']
 ---
