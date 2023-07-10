@@ -111,9 +111,9 @@ Ta proces je neverjetno močen, saj ti omogoča, da obideš kritičen glas v svo
   
 V hipnoterapiji se naučiš preoblikovati negativne miselne vzorce, opustiti omejujoča prepričanja in poiskat, se dotakniti svojih notranjih virov, da končno dosežeš svoje cilje. Najpogosteje strankam pomagam s:
 
-*   [hipnoterapijo za spanje](/hipnoterapija-za-spanje "Hipnoterapija za spanje")
-*   [hipnoterapijo za hujšanje](/hipnoterapija-za-hujsanje "Hipnoterapija za hujšanje")
-*   [hipnoterapijo za samozavest](/hipnoterapija-za-samozavest "Hipnoterapija za samozavest")
+*   Hipnoterapija za spanje,
+*   Hipnoterapija za hujšanje in
+*   Hipnoterapija za samozavest.
 
   
 # Učinkovitost hipnoterapije

@@ -64,9 +64,6 @@ Potem si kapitan svoje ladje, ki pozorno pazi na čeri, spremlja vreme, prilagaj
 
 Ana je skozi najina srečanje izurila svoj stik s sabo in se opolnomočila. Ima vse možnosti, da prispe na cilj, ki si ga želi. V sebi ima moč in jasnost, ki se je vse bolj zaveda.
 
-<div class="article_button">
-  <a href="/hipnoterapija-za-samozavest/" class="button button--middle" type="submit">Več o hipnoterapiji za samozavest<i class="ion ion-ios-paper-plane"></i></a>
-</div>
 
 ## Izkušnja s hipnoterapijo za samozavest
 Na hipnozo je prišla lepa, urejena ženska v najboljših letih. Njen videz je perfekten, vedno urejena, prijazna. Ne moreš si pomagat, da ne pomisliš: wow!
@@ -115,7 +112,3 @@ Tejo sem vprašala tudi, kaj je doživljala med hipnozo. Tole je delila z mano:
 
 “Med hipnozo sem šla globoko vase, in sem čutila globoko v sebi… čutila sem, kako si me vodila, da sem si živo predstavljala, da sem videla to novo podobo… kako je dobivala barve… obliko…kako je nastala ta moja chearleaderka…in se vgradila vame…. Da jo imam zdaj v sebi… da mi je v pomoč…da bo vedno z menoj. In od takrat naprej, avtomatsko pride ta podoba. Šla sem v stik sama s sabo, našla kar me muči in skozi vprašanja, ki si mi jih postavljala, se je zgradila chearleaderka, ki je prevzela mojo tremo”.
 >
-
-<div class="article_button">
-  <a href="/hipnoterapija-za-samozavest/" class="button button--middle" type="submit">Več o hipnoterapiji za samozavest<i class="ion ion-ios-paper-plane"></i></a>
-</div>

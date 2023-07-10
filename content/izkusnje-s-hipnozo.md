@@ -48,7 +48,6 @@ Ob koncu se počutiš zelo spočitega. Ves čas slišiš in se zavedaš. Tudi č
 
 <a class="section__link" href="/hipnoza-za-spanje-izkusnje/">Več o izkušnji s hipnoterapijo za spanje <i class="ion ion-md-arrow-forward"></i></a>
 
-<a class="section__link" href="/hipnoterapija-za-spanje/">Več o hipnoterapiji za spanje <i class="ion ion-md-arrow-forward"></i></a>
 
 ## Izkušnja s hipnoterapijo za hujšanje
 
@@ -64,7 +63,6 @@ Definitivno priporočam! "
 
 <a class="section__link" href="/hipnoza-za-hujsanje-izkusnje/">Več o izkušnji s hipnoterapijo za hujšanje <i class="ion ion-md-arrow-forward"></i></a>
 
-<a class="section__link" href="/hipnoterapija-za-hujsanje/">Več o hipnoterapiji za hujšanje <i class="ion ion-md-arrow-forward"></i></a>
 
 ## Izkušnja s hipnoterapijo za samozavest in fokus
 
@@ -87,7 +85,6 @@ Všeč mi je tudi tvoj glas, tvoj glas mi daje občutek, da ti lahko zaupam. Tvo
 
 <a class="section__link" href="/hipnoza-za-samozavest-izkusnje/">Več o izkušnji s hipnoterapijo za samozavest <i class="ion ion-md-arrow-forward"></i></a>
 
-<a class="section__link" href="/hipnoterapija-za-samozavest/">Več o hipnoterapiji za samozavest <i class="ion ion-md-arrow-forward"></i></a>
 
 
 ## Izkušnja s hipnoterapijo - regresijo

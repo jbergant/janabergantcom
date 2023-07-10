@@ -27,9 +27,6 @@ testemonials:
 ### Izkušnja s hipnoterapijo za spanje
 {{< youtube id="GdRzI0asOzE" class="video" >}}
 
-<div class="article_button">
-  <a href="/hipnoterapija-za-spanje/" class="button button--middle" type="submit">Več o hipnoterapiji za spanje<i class="ion ion-ios-paper-plane"></i></a>
-</div>
 
 **Kako je bilo prej?**
 
@@ -62,7 +59,5 @@ V praksi to pomeni, da sediš, hipnoterapevt je nasproti tebe in te pelje čez v
 Ob koncu se počutiš zelo spočitega. Ves čas slišiš in se zavedaš. Tudi če se bojiš sprostit in želiš imeti kontrolo, je dobro vedt, da ves čas med hipnozo imaš kontrolo in greš lahko kadarkoli ven. Tudi čez dan mi prav pride, ko je kakšna stresna situacija, da se znam sprostit in umirit. 
 
 
-<div class="article_button">
-  <a href="/hipnoterapija-za-spanje/" class="button button--middle" type="submit">Več o hipnoterapiji za spanje<i class="ion ion-ios-paper-plane"></i></a>
-</div>
+
 

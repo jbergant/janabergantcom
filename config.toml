@@ -64,13 +64,6 @@ disableKinds = []
 
   [[menu.main]]
     parent = "Spanje"
-    name = "Hipnoterapija za spanje"
-    url = "/hipnoterapija-za-spanje/"
-    weight = 0
-    
-
-  [[menu.main]]
-    parent = "Spanje"
     name = "Izkušnje s hipnozo za spanje"
     url = "/hipnoza-za-spanje-izkusnje/"
     weight = 0

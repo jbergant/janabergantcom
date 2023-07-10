@@ -85,7 +85,7 @@ Na primer: pri spanju te laho ovirajo tudi misli, ki jih imaš o spanju. Če se 
 Ob takšnih mislih se telo lahko sprosti in sčasoma pride tudi krepčilni spanec.
 
 
-3. Do boljšega spanja ti pomaga tudi [ hipnoterapija za spanje]({{< ref "/hipnoterapija-za-spanje" >}} "hipnoterapija za spanje"), ki vključuje tehnike sproščanja in vizualizaceje. Hipnoterapija prav tako pomaga pri spreminjanju negativnih miselnih vzorcev, ki ti prepričujejo spanje, prav tako odpravlja slabe vzorce in slabe navade, saj je še najbolj učinkovita pri:
+3. Do boljšega spanja ti pomaga tudi hipnoterapija za spanje, ki vključuje tehnike sproščanja in vizualizaceje. Hipnoterapija prav tako pomaga pri spreminjanju negativnih miselnih vzorcev, ki ti prepričujejo spanje, prav tako odpravlja slabe vzorce in slabe navade, saj je še najbolj učinkovita pri:
 
 - sproščanju vsakodnevnega stresa
 - pretiranih skrbeh in strahu pred prihodnostjo
