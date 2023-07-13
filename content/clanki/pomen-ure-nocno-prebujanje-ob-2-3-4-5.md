@@ -29,7 +29,7 @@ V kitajski medicini QI energija teče skozi naše organe in ustvarja ravnovesje.
 
 Tukaj so nekateri pogosto pripisani pomeni prebujanja ob različnih časih ponoči kot jih razlaga kitajska medicina:
 
-* **med 21:00 in 23:00**: To je običajno čas odhoda v posteljo za večino ljudi. Težave pri uspavanje v tem času bi lahko bile znak prekomernega stresa ali skrbi. Večerno delo ali gledanje ekranom zmanjša tvorbo melatonina, kar povzroči slabše spanje.  Po kitajski medicini je v tem času aktivna "trojna peč", ali endokrini in limfni sistemi. Če so ti sistemi neuravnoteženi, se lahko počutite nesrečni ali depresivni. Ustvarite bolj sproščujočo rutino pred spanjem, da se boste zjutraj zbudili osveženi. Omejite ekrane in delo. Pred spanjem naj vas sprosti [meditacija za spanje](/clanki/meditacija-za-spanje/).
+* **med 21:00 in 23:00**: To je običajno čas odhoda v posteljo za večino ljudi. Težave pri uspavanje v tem času bi lahko bile znak prekomernega stresa ali skrbi. Večerno delo ali gledanje ekranov zmanjša tvorbo melatonina, kar povzroči slabše spanje.  Po kitajski medicini je v tem času aktivna "trojna peč", ali endokrini in limfni sistemi. Če so ti sistemi neuravnoteženi, se lahko počutite nesrečni ali depresivni. Ustvarite bolj sproščujočo rutino pred spanjem, da se boste zjutraj zbudili osveženi. Omejite ekrane in delo. Pred spanjem naj vas sprosti [meditacija za spanje](/clanki/meditacija-za-spanje/).
 
 
 * **med 23:00 in 1:00 ponoči**: Po kitajski medicini je ta časovni okvir povezan z žolčnikom. Pogosto prebujanje ob tem času bi lahko pomenilo težave z žolčnikom ali potrebo po sproščanju zamere. Neravnovesje povzroči občutke negotovosti in slabe presoje. Morali se boste izogibati alkoholu ali mastni hrani in pred spanjem jesti le lahkoten prigrizek.
@@ -38,7 +38,7 @@ Tukaj so nekateri pogosto pripisani pomeni prebujanja ob različnih časih pono�
 
 * **med 3:00 in 5:00 ponoči**: Kitajska medicina to obdobje povezuje z pljuči, kar kaže na žalost ali depresijo. Depresijo lahko nagovorite s terapijo, [hipnoterapijo](/hipnoterapija) ali [regresijo](/regresija). Obe vam pomagata predelati preteklost. Pred spanjem je priporočljivo, da se umirite z dihalnimi vajami. 
 
-* **med 5:00 in 7:00 ponoči**: Ta čas je v kitajski medicini povezan z debelim črevesjem, kjer bi prebujanje lahko pomenilo čustvene blokade. Če je ta predel neuravnotežen, se lahko počutite defenzivno ali obtičite v situaciji. Če vas frustrira, da se zbudite, preden zazvoni budilka, boste morda potrebovali več vlaknin ali vode v vaši prehrani, da bo vaše debelo črevo lahko pravilno odstranjevalo odpadke.
+* **med 5:00 in 7:00 ponoči**: Ta čas je v kitajski medicini povezan z debelim črevesjem, kjer bi prebujanje lahko pomenilo čustvene blokade. Če je ta predel neuravnotežen, se lahko počutite defenzivno ali pa ste obtičali v situaciji. Če vas frustrira, da se zbudite, preden zazvoni budilka, boste morda potrebovali več vlaknin ali vode v vaši prehrani, da bo vaše debelo črevo lahko pravilno odstranjevalo odpadke.
 
 Pomembno je zapomniti, da prebujanje ob teh časih ni neposreden razlog za alarm in bi lahko bilo preprosto posledica številnih vsakdanjih dejavnikov, kot so prehrana, vadba, stres ali okolje v spalnici. 
 
@@ -60,7 +60,7 @@ Glede prebujanja ob določenih časih so tukaj nekatere interpretacije z numerol
 
 * **1:11 ali 1:11 ponoči**: Videti 1:11 se pogosto šteje za sporočilo, da bodite pozorni na svoje misli, saj se hitro manifestirajo v vaši realnosti. To je opomnik vesolja, da ste na pravi poti in da nadaljujete naprej.
 
-* **2:22 ali 2:22 ponoči**: 2:22 se šteje za znak ravnovesja in harmonije. To bi lahko bil signal za obnovitev ravnovesja v nekem vidiku vašega življenja ali zagotovilo, da stvari potekajo, kot bi morale.
+* **2:22 ali 2:22 ponoči**: 2:22 se šteje za znak ravnovesja in harmonije. Ura 2:22 bi lahko bila signal za obnovitev ravnovesja v nekem vidiku vašega življenja ali zagotovilo, da stvari potekajo, kot bi morale.
 
 * **3:33 ali 3:33 ponoči**: 3:33 se pogosto vidi kot znak duhovne rasti in energije. To je močna številka v numerologiji, ki simbolizira komunikacijo in samoizražanje.
 
@@ -82,7 +82,7 @@ Numerološke interpretacije so simbolične in ne dobesedne.
   <em>Angleske številke</em>
 </div>
 
-Da, obstaja duhovni koncept, ki se pogosto imenuje "Angelske številke". V tem kontekstu se prebujanje ob določenih časih ponoči ali opažanje ponavljajočih se številskih zaporedij lahko interpretira kot sporočila duhovnih vodnikov ali angelov. Pomembno je opozoriti, da so te interpretacije del sistema prepričanj in niso utemeljene na znanstvenih dokazih.
+Obstaja duhovni koncept, ki se pogosto imenuje "Angelske številke". V tem kontekstu se prebujanje ob določenih časih ponoči ali opažanje ponavljajočih se številskih zaporedij lahko interpretira kot sporočila duhovnih vodnikov ali angelov. 
 
 Tukaj so nekatere interpretacije prebujanja ob določenih časih, glede na koncept angelskih številk:
 
@@ -122,22 +122,24 @@ Nekatera zdravstvena stanja, kot so bolečina, težave z dihanjem, prebavne tež
 
 ### Vpliv stresa na spanec
 
-Stres je eden glavnih razlogov, zakaj se ljudje ponoči zbudijo. Lahko povzroči lažji spanec in preprečuje globok spanec in REM spanec.
+Stres je eden glavnih razlogov, zakaj se ljudje ponoči zbudijo. Stres povzroči lažji spanec in preprečuje globok spanec in REM spanec.
 
 ### Dnevne navade, ki vplivajo na spanec
 
-Spreminjanje časa, ko greste spat in se zbudite, lahko oteži uravnavanje vaše notranje ure. Naslednji dejavniki lahko vplivajo na vaš spanec:
+Spreminjanje časa, ko greste spat in se zbudite, lahko oteži uravnavanje vaše notranje ure. Za dobro spanje je priporočeno imeti steln reitem spanja, pri čemer je najboljši spanec tisti pred polnočjo. 
 
-- Elektronika
-- Alkohol
-- Kofein
+Naslednji dejavniki tudi vplivajo na vaš spanec:
+
+- Elektronika (modra svetloba in pretirano vzburjenje živčnega sistema)
+- Alkohol (alkohol uničuje REM spanje)
+- Kofein (kofein blokira andenozin, ki je potreben za zdrav spalni ritem)
 - Kajenje
 
 ### Cirkadijski ritem in prebujanje
 
-Vaše telo ima naraven cikel zaspanosti in budnosti, ki ga nadzorujejo hormoni in dnevna svetloba. Ta cikel se imenuje cirkadijski ritem. Ko se ta ritem poruši, na primer zaradi starosti, jet lag ali delo ponoči ali v izmenah, lahko imate težave s spanjem.
+Vaše telo ima naraven cikel zaspanosti in budnosti, ki ga nadzorujejo hormoni in dnevna svetloba. Ta cikel se imenuje cirkadijski ritem. Ko se ta ritem poruši, na primer zaradi starosti, jet lag-a ali dela ponoči ali v izmenah, imate lahko težave s spanjem.
 
-Zaradi cirkiadnega ritme tudi ne spimo vso noč enako globoko. Normalno je, da večkrat na noč (približno na 90 minut) nastopi rahel spanec v katerem se lahko zavedate svoje okolice. V kolikor hitro zaspite nazaj je to povsem zdrav in krepčilen spanec. Poskrbite le, da je dolžina spanca ustrezna vašim potrebam.
+Zaradi cirkiadnega ritma tudi ne spimo vso noč enako globoko. Normalno je, da večkrat na noč (približno na 90 minut) nastopi rahel spanec v katerem se lahko zavedate svoje okolice. V kolikor hitro zaspite nazaj je to povsem zdrav in krepčilen spanec. Poskrbite le, da je dolžina spanca ustrezna vašim potrebam.
 
 ### Druge težave s spanjem
 
@@ -145,11 +147,10 @@ Obstajajo tudi druge vrste težav s spanjem, ki lahko vplivajo na vašo sposobno
 
 - Apneja v spanju
 - Sindrom nemirnih nog
-- Periodična motnja gibanja udov
 
 ## Nasveti za izboljšanje spanja
 
-Nekatere higienske prakse spanja lahko pomagajo izboljšati vaš spanec. Te vključujejo:
+Nekatere zdrave prakse spanja lahko pomagajo izboljšati vaš spanec. Te vključujejo:
 
 - Izogibanje tobaku
 - Izogibanje kofeinu in alkoholu pozno v dnevu
@@ -159,7 +160,7 @@ Nekatere higienske prakse spanja lahko pomagajo izboljšati vaš spanec. Te vklj
 - Izogibanje elektronskim zaslonom pred spanjem
 - Ohranjanje tihe, temne in hladne spalnice
 
-Če se zbudite in ne morete zaspati po 15 ali 20 minutah, vstanite in počnite nekaj pomirjujočega, dokler se ne počutite zaspani.
+Če se zbudite in ne morete zaspati po 15 ali 20 minutah, vstanite in počnite nekaj pomirjujočega, dokler se ne počutite zaspani. 
 
 [Več o nespečnosti](/nespecnost)
 
