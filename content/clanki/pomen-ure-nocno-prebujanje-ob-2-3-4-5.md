@@ -1,6 +1,6 @@
 ---
 title:  Pomen ure pri nočnem prebujanju
-Metatitle: Vse o pomenu ure pri nočnem prebujanju iz vidika kitajska medicina, medicine, numerologije in angleskih številk.
+Metatitle: Vse o pomenu ure pri nočnem prebujanju iz vidika kitajske medicina, klasične medicine, numerologije in angleskih številk.
 description: Pomen ure pri nočnem prebujanju. Kaj o nočnem prebujanju pove kitajska medicina, numerologija, angleske številke in kakšni so lahko še drugi vzroki nočnega prebujanja. Nasveti za izboljšanje spanja
 date:   2023-07-13 09:01:35 +0300
 image:  '/images/clanki/pomen-ure.webp'
@@ -12,7 +12,7 @@ tags:   ['spanje']
 
 Mnogi poročajo, da se jim vsaj enkrat v življenju zgodi, da se prebujajo v točno določenem času sredi noči. Ko se to zgodi večkrat, se lahko vprašamo kakšen bi lahko bil skrit pomen ure pri nočnem prebujanju.
 
-V članku orišem različne poglede in interpretacije pomena prebujanja ob določeni uri. Kitajska medicina in klasična medicina nočno prebujanje razložita na podlagi delovanja telesa, organov in hormonov. Medtem ko se numerologija in angleska razlaga števil črpajo razlago iz bolj mitoloških virov.
+V članku orišem različne poglede in interpretacije pomena prebujanja ob določeni uri. Kitajska medicina in klasična medicina nočno prebujanje razložita na podlagi delovanja telesa, organov in hormonov. Medtem ko se numerologija in angleska razlaga števil črpajo razlago iz bolj mitoloških / duhovnih virov.
 
 Ideja, da ima zbujanje ob določenih urah ponoči duhovni ali numerološki pomen, je pogosta v določenih prepričanjih in praksah. Ta koncept je pogosto viden v tradicionalni kitajski medicini in duhovni skupnosti, kjer so določene ure povezane s posebnimi telesnimi sistemi ali duhovnimi stanji.
 
