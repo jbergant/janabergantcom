@@ -83,7 +83,7 @@ Predvsem pa zelo dobro deluje pri težavah kot so:
 
 *   Anksioznost
 *   Strahovi
-*   Nespečnost
+*   [Nespečnost](/nespecnost)
 *   Stres
 *   Migrene
 *   Čustveno prenajedanje
