@@ -52,6 +52,12 @@ disableKinds = []
     weight = -1      
 
   [[menu.main]]
+   parent = "Hipnoterapija"
+    name = "FAQ o hipnoterapiji"
+    url = "/clanki/pogosta-vprasanja-o-hipnoterapiji/"
+    weight = 0   
+
+  [[menu.main]]
     name = "Članki"
     url = "/clanki/"
     weight = -1
