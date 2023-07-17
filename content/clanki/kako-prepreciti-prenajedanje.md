@@ -99,4 +99,6 @@ Edini način za obvladovanje čustev to, da jih prečutimo. Ko želiš, da čust
 
 Še zadnje ampak najbolj pomembno na poti iz čustvenega prenajedanja. Pot je lahko težko delo, ki lahko traja nekaj časa. Če se ti zdi, da en dan narediš en korak naprej, naslednji dan pa dva koraka nazaj, je to v redu! Bodite potrpežljiv in nežen do sebe. 
 
+## Hipnoterapija
 
+Hinoterapija in regresija ti lahko pomagata 
