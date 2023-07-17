@@ -3,6 +3,7 @@ title:  Odrska hipnoza in hipnoterapija
 Metatitle: Razlika med odrsko hipnozo in hipnoteapijo
 description: Hipnoza stoletja fascinacinira in vznemirja ljudi. Ali ima hipnotizer moč nad mojimi mislimi? Ali lahko ostanem hipnotiziran? Ali med hipnozo izgubim nadzor? Članek odgovori na vprašanja in pojasni razliko med odrsko hipnozo in hipnoterapijo
 date:   2023-03-06 11:01:35 +0300
+lastmod:   2023-03-06 11:01:35 +0300
 image:  '/images/clanki/odrska-hipnoza-hipnoterapija.webp'
 tags:   ['hipnoterapija', 'hipnoza']
 ---

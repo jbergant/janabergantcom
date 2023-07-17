@@ -3,6 +3,7 @@ title:  Hinoterapija in hipnoza
 Metatitle: Razlika med hipnoterapijo in hipnozo
 description: Je hipnoterapija enako kot hipnoza? Razišči razlika med hipnoterapijo in hipnozo
 date:   2023-06-01 9:01:35 +0300
+lastmod:   2023-06-01 9:01:35 +0300
 image:  '/images/clanki/hipnoza-hipnoterapija.webp'
 tags:   ['hipnoterapija', 'hipnoza']
 ---

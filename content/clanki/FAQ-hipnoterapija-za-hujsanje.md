@@ -3,6 +3,8 @@ title:  Pogosta vprašanja o hipnoterapiji za hujšanje
 Metatitle: Kako deluje hipnoterapija za hujšanje in ostala vprašanja
 description: Kako deluje hipnoterapija za hujšanje? Ali mi lahko hipnoterapija pomaga pri hujšanju? Ali je hipnoterapija varna za hujšanje? In vsa ostala vprašanja o hipnoterapiji za hujšanje
 date:   2023-03-05 9:01:35 +0300
+lastmod:   2023-03-05 9:01:35 +0300
+lastmod:   2023-03-05 9:01:35 +0300
 image:  '/images/clanki/faq-hipnoza-za-hujsanje.webp'
 tags:   ['hipnoterapija', 'hujšanje', 'hipnoza']
 ---

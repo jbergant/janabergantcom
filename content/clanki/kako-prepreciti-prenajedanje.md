@@ -3,6 +3,7 @@ title:  Kako preprečiti prenajedanje
 Metatitle: Kako preprečiti čustveno prenajedanje - ko ješ brez lakote
 description: Si že večkrat poskušala z dietami pa se vedno znajdeš v ciklu prenajedanja? Preberi si kako se lahko osvobodiš čustvenega prenajedanja
 date:   2023-02-28 15:01:35 +0300
+lastmod:   2023-02-28 15:01:35 +0300
 image:  '/images/clanki/kako-prepreciti-prenajedanje.webp'
 tags:   ['čustveno prenajedanje', 'hujšanje', 'čustva']
 ---

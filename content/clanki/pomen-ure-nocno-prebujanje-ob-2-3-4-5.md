@@ -3,6 +3,7 @@ title:  Pomen ure pri nočnem prebujanju
 Metatitle: Vse o pomenu ure pri nočnem prebujanju iz vidika kitajske medicina, klasične medicine, numerologije in angleskih številk.
 description: Pomen ure pri nočnem prebujanju. Kaj o nočnem prebujanju pove kitajska medicina, numerologija, angleske številke in kakšni so lahko še drugi vzroki nočnega prebujanja. Nasveti za izboljšanje spanja
 date:   2023-07-13 09:01:35 +0300
+lastmod:   2023-07-13 09:01:35 +0300
 image:  '/images/clanki/pomen-ure.webp'
 tags:   ['spanje']
 ---

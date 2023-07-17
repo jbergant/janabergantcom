@@ -3,6 +3,7 @@ title:  Hipnoza za prenehanje kajenja
 Metatitle: Hipnoza za prenehanje kajenja - učinkovit pristop k opustitvi tobaka
 description: Razišči metodo hipnoze za prenehanje kajenja, ki se osredotoča na prekinitev negativnih miselnih vzorcev in občutkov, povezanih s kajenjem. Odkrij, kako lahko hipnoza pomaga pri opustitvi kajenja in izboljšanju zdravja.
 date:   2023-06-30 1:01:35 +0300
+lastmod:   2023-06-30 1:01:35 +0300
 image:  '/images/clanki/prenehanje-kajenja.webp'
 tags:   ['hipnoza', 'kajenje', 'hipnoterapija']
 ---

@@ -3,6 +3,7 @@ title:  Čustveno prenajedanje
 Metatitle: Čustveno prenajedanje - ko ješ brez lakote
 description: Ali jeste, ko niste lačni? Se počutite pod stresom, žalostni ali jezni? Morda imaš težave s čustvenim prenajedanjem. Preveri ali si ujet v čustveno prenajdanje
 date:   2023-02-26 15:01:35 +0300
+lastmod:   2023-07-17 15:01:35 +0300
 image:  '/images/clanki/custveno-prenajedanje.webp'
 tags:   ['čustveno prenajedanje', 'hujšanje', 'čustva']
 ---
@@ -71,7 +72,7 @@ Ker pa so stroge diete namenjene predvsem spodbujanju samokontrole, ni presenetl
 
 Ko gre za čustveno prenajedanje, tudi prehranjevalne navade običajno niso problem. Prehranjevanje je človeška narava! Želja po dobri hrani je del človeške narave! Pri čustvenem prenajedanje je težava neprijetno čustvo, ki ga posameznik čuti in zaradi katerega se obrne na hrano kot mehanizem za obvladovanje. Težava je v neustreznem načinu procesiranja čustev.
 
-Dobra novica pa je, da se da naučiti ustreznejših načinov procesiranja čustev in s tem [ preprečiti čustveno prenajedanje]({{< ref "/clanki/kako-prepreciti-prenajedanje.md" >}} "Kako preprečiti čustveno prenajedanje").
+Dobra novica pa je, da se da naučiti ustreznejših načinov procesiranja čustev in s tem [ preprečiti čustveno prenajedanje]({{< ref "/clanki/kako-prepreciti-prenajedanje.md" >}} "Kako preprečiti čustveno prenajedanje"). Ena od njih je tudi [hipnoterapija](/hipnoterapija).
 
 
 <div class="article_button"><p>Reši test čustvenega prenajedanja. </p>

@@ -4,6 +4,7 @@ Metatitle: Regresivna hipnoza - razumevanje, koristi in tveganja regresije
 description: Odkrij moč regresijske hipnoterapije, razumi njen proces, koristi in tveganja ter ugotovite, ali je ta oblika terapije prava za tebe
 image: '/images/clanki/regresija.webp'
 date:   2023-06-29 9:01:35 +0300
+lastmod:   2023-07-08 9:01:35 +0300
 addCallCTA: true
 
 ---

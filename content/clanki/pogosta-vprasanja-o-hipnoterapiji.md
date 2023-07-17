@@ -3,6 +3,7 @@ title:  Pogosta vprašanja o hipnoterapiji
 Metatitle: Pogosta vprašanja o hipnoterapiji. Kakšna je razlika med hipnozo in hipnoterapijo? Kakšna je uspešnost hipnoterapije?
 description: Pošišči odgovore na vprašanja o hipnoterapiji. Kakšna je uspešnost hipnoterapije? Kakšna je razlika med hipnozo in hipnoterapijo? li so rezultati hipnoterapije trajni?
 date:   2023-06-27 9:01:35 +0300
+lastmod:   2023-06-27 9:01:35 +0300
 image:  '/images/clanki/hipnoza-faq.webp'
 tags:   ['hipnoterapija', 'hipnoza']
 ---

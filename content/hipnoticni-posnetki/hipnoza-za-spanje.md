@@ -3,6 +3,7 @@ title:  Hipnoza za spanje
 Metatitle: Hipnoza za spanje - za lažje uspavanje in kvalitetno spanje
 description: Bi se rada končno prebudila spočita in naspana? Hipnoza za spanje ti lahko zaspati in kvalitetno prespati celo noč. S hipnozo do boljšega spanca
 date:   2023-03-03 10:11:35 +0300
+lastmod:   2023-03-03 10:11:35 +0300
 tip: download
 downloadlink: https://preview.mailerlite.io/preview/14994/forms/81794604383340505
 image:  '/images/posnetki/hipnoza-za-spanje.webp'
