@@ -3,9 +3,16 @@
 
     {{ if .Params.Image }}
       <div class="image-wrap">
+        {{ if eq .Params.tip "download"}}
         <a class="article__image" href="{{ .RelPermalink }}">
           <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
         </a>
+        {{ end }}
+        {{ if eq .Params.tip "youtube"}}
+        <a class="article__image" href="{{ .Params.youtubelink }}">
+          <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+        </a>
+        {{ end }}
       </div>
     {{ end }}
 
@@ -27,14 +34,10 @@
 
       <div class="article__meta">
         <p class="posnetek_description">{{ .Params.description}}</p>
-        <p class="posnetek_preview">Poslušaj zvočni vzorec hipnoze za hujšanje</p>
-
+        {{ if eq .Params.tip "download"}}
+          <a  class="article__title"href="{{.Params.downloadlink }}" target="_blank">Prenos posnetka</p>
+        {{ end }}
       </div>
-      <audio controls autoplay muted>
-        <source src="horse.ogg" type="audio/ogg">
-        <source src="horse.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-      </audio>
     </div>
   </div>
 </article>

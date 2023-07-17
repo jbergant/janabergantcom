@@ -3,6 +3,8 @@ title:  Hipnoza za hujšanje
 Metatitle: Hipnoza za hujšanje - hujšanje se zgodi v glavi
 description: Želiš shujšati, ampak ne moreš ustaviti prenajedanja. Hipnoza za hujšanje ti lahko pomaga spremeniti vzorce v podzavesti. Hujšanje se zgodi v glavi in nadaljuje v telesu.
 date:   2023-03-03 10:11:35 +0300
+tip: download
+downloadlink: https://preview.mailerlite.io/preview/14994/forms/81618837436368178
 image:  '/images/posnetki/hipnoza-za-hujsanje.webp'
 tags:   ['čustveno prenajedanje', 'hujšanje', 'brezplačno', 'hipnoza']
 ---
