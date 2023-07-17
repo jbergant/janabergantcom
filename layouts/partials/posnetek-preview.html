@@ -27,7 +27,15 @@
       {{ end }}
 
       <h2 class="article__title">
+        {{ if eq .Params.tip "download"}}
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ end }}
+        {{ if eq .Params.tip "youtube"}}
+        <a href="{{ .Params.youtubelink }}">{{ .Title }}</a>
+        {{ end }}
+
+
+        
       </h2>
 
 
