@@ -51,7 +51,7 @@ Odgovori na vprašanja pomagajo usmerjati svoje odločitve in način življenja.
 Minimalizem je za vsakega nekaj drugega. Nekomu so dovolj 3 pari čevljev za vse letu, nekdo drug potrebuje 5 parov za poletje.
 Minimalizem ni to, da drugemu rečeš, da se mora odpovedati stvarem. 
 
-> Minimalizem je poenaostavitev življenja
+> Minimalizem je poenostavitev življenja
 
 
 
