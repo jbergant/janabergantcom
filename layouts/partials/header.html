@@ -22,6 +22,7 @@
               <i class="ion ion-md-close"></i>
             </div>
             <div class="nav__title">Menu</div>
+
             <ul class="nav__list list-reset">
 
               {{ $currentPage := . }}
@@ -29,6 +30,8 @@
               {{ $menuURL := .URL | absLangURL }}
               {{ $pageURL:= $currentPage.Permalink | absLangURL }}
               {{ $active := eq $menuURL $pageURL }}  
+
+             
               {{ if .HasChildren }}
                 <li class="nav__item dropdown">
                   <span class="nav__link dropdown-toggle">{{ .Name }} <i class="ion ion-ios-arrow-down arrow-down"></i></span>
@@ -52,9 +55,7 @@
                 
               {{ end }}
 
-              <li class="nav__item">
-                <a href="https://lead-capture-95fa3f.zapier.app/" class="nav__link cta-button button button--small">Kontakt</a>
-              </li>
+
               
 
             </ul>

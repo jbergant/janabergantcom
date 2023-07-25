@@ -28,64 +28,74 @@ disableKinds = ["RSS"]
     identifier = "home"
     name = "Domov"
     url = "/"
+    weight = -4
+  
+
+  [[menu.main]]
+    name = "Članki"
+    url = "/clanki/"
     weight = -3
-    
+
+   [[menu.main]]
+    name = "Posnetki"
+    url = "/hipnoticni-posnetki/"
+    weight = -2
+
+   [[menu.main]]
+   parent = "Dobre knjige"
+    name = "Knjige za osebno rast"
+    url = "knjige-za-osebno-rast/"
+    weight = -1
 
 
+
+  [[menu.main]]
+    parent = "Nespečnost"
+    name = "O nespečnost"
+    url = "/nespecnost/"
+    weight = -1
+
+  [[menu.main]]
+    parent = "Nespečnost"
+    name = "Izkušnje s hipnozo za spanje"
+    url = "/hipnoza-za-spanje-izkusnje/"
+    weight = -1
 
   [[menu.main]]
     parent = "Hipnoterapija"
     name = "O hipnoterapiji"
     url = "/hipnoterapija/"
-    weight = -2
+    weight = 2
 
   [[menu.main]]
     parent = "Hipnoterapija"
     name = "O regresiji"
     url = "/regresija/"
-    weight = -2
+    weight = 2
 
   [[menu.main]]
    parent = "Hipnoterapija"
     name = "Izkušnje s hipnozo"
     url = "/izkusnje-s-hipnozo/"
-    weight = -1      
+    weight = 2     
 
   [[menu.main]]
    parent = "Hipnoterapija"
     name = "FAQ o hipnoterapiji"
     url = "/clanki/pogosta-vprasanja-o-hipnoterapiji/"
-    weight = 0   
-
-  [[menu.main]]
-    name = "Članki"
-    url = "/clanki/"
-    weight = -1
-
-  [[menu.main]]
-    parent = "Spanje"
-    name = "Nespečnost"
-    url = "/nespecnost/"
-    weight = 0
-
-  [[menu.main]]
-    parent = "Spanje"
-    name = "Izkušnje s hipnozo za spanje"
-    url = "/hipnoza-za-spanje-izkusnje/"
-    weight = 0
-
-   [[menu.main]]
-    parent = "Orodja"
-    name = "Hipnotični posnetki"
-    url = "/hipnoticni-posnetki/"
-    weight = 0
+    weight = 2   
 
     [[menu.main]]
-    name = "O Jani"
+    parent = "O Jani"
+    name = "Jana"
     url = "/jana-bergant/"
-    weight = 1
+    weight = 3
 
-
+    [[menu.main]]
+    parent = "O Jani"
+    name = "Piši mi"
+    url = "https://lead-capture-95fa3f.zapier.app/"
+    weight = 3
 
   # Call to action button
   [params.menu.button]

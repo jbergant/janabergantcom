@@ -1,0 +1,60 @@
+<article class="row article article__inner  col col-12">
+   
+  <div class="col col-5 col-d-5 col-t-12">
+
+    <div class="article__content">
+      <h2 class="book__title">
+        {{ if .Params.hascontent}}
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ else }}
+        <a href="{{ .Params.afflink }}">{{ .Title }}</a>
+        {{ end }}
+      </h2>
+      <h3 class="article__subtitle">{{ .Params.bookauthor }}</h3>
+      {{ if .Params.Image }}
+      <div class="image-wrap">
+        {{ if .Params.hascontent}}
+        <a class="book__image" href="{{ .RelPermalink }}">
+          <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+        </a>
+        {{ else }}
+        <a class="book__image" href="{{ .Params.afflink }}">
+          <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+        </a>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    </div>
+  
+  </div>
+  <div class="col col-7 col-d-7 col-t-12">
+
+    <div class="article__content">
+      <h4 class="article__subtitle">Knjiga {{ .Title }} v dveh stavkih</h4>
+      <p class="book_description">{{ .Params.twosdesc}}  </p>
+      <h4 class="article__subtitle">Zakaj jo moraš prebrati:</h4>
+      <p class="book_description">{{ .Params.whyreadit}}  </p>      
+      <h4 class="article__subtitle">Pomembna sporočila</h4>
+      <p class="book_description">
+        <ol class="book_description">
+          <li>{{ .Params.keytakewayone | markdownify }}</li>
+          <li>{{ .Params.keytakewaytwo | markdownify }}</li>
+          <li>{{ .Params.keytakewaythree | markdownify }}</li>
+        </ol>
+        
+          </p>
+    </div>
+
+  </div>
+  <div class="col col-12 col-d-12 col-t-12">
+
+    <div class="article__meta">
+      <h4 class="article__subtitle">Moja izkušnja</h4>
+      <p class="my_description">{{ .Params.myshorttakeaway | markdownify  }}</p>
+    </div>
+  </div>
+</article>
+
+
+
