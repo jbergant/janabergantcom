@@ -8,7 +8,7 @@ lastmod: 2023-07-18 10:11:35 +0300
 noindex: true
 order: 4
 hascontent: false
-afflink: https://www.zalozba-chiara.si/zdravje/769-ko-telo-rece-ne?pos_id=44065
+afflink: https://www.zalozba-chiara.si/osebna-rast/129-zivljenje-je-tvoje?pos_id=44065
 hasyoutube: false
 youtubelink: https://www.youtube.com/watch?v=QtPlERQcvoc
 image:  '/images/dobre-knjige/zivljenje-je-tvoje.jpg'
