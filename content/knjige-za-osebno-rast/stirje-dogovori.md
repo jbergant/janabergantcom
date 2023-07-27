@@ -8,7 +8,7 @@ lastmod: 2023-07-18 10:11:35 +0300
 noindex: true
 order: 8
 hascontent: false
-afflink: https://www.zalozba-chiara.si/zdravje/769-ko-telo-rece-ne?pos_id=44065
+afflink: https://www.zalozba-chiara.si/duhovnost/107-stirje-dogovori?pos_id=44065
 hasyoutube: false
 youtubelink: https://www.youtube.com/watch?v=QtPlERQcvoc
 image:  '/images/dobre-knjige/stirje_dogovori.jpg'
