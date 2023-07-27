@@ -8,7 +8,7 @@ lastmod: 2023-07-18 10:11:35 +0300
 noindex: true
 order: 5
 hascontent: false
-afflink: https://www.zalozba-chiara.si/zdravje/769-ko-telo-rece-ne?pos_id=44065
+afflink: https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W?&_encoding=UTF8&tag=ucan09-20&linkCode=ur2&linkId=e88648f6a51d7fefcaa0412a03891796&camp=1789&creative=9325
 hasyoutube: false
 youtubelink: https://www.youtube.com/watch?v=QtPlERQcvoc
 image:  '/images/dobre-knjige/atomske-navade.jpg'
