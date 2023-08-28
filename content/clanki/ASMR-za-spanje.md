@@ -12,7 +12,8 @@ tags:   ['spanje', 'ASMR']
 ## O ASMR-ju
 
 Ko sem prvič videla ASMR posnetke na YouTube, so se mi zdeli prav čudni. Raziskovala sem različne metode za pomoč pri nespečnosti in seveda naletela na ASMR. Ker sem radovedna, sem mogla hitro izvedete kar temveč. 
-Na začetku me je odbilo, saj sem videla, da posamezniki iščejo ASMR v povezavi s sexom in da so na veliko posnetkih mlada dekleta, ki so delovala zelo senzualno. 
+
+Na začetku me je odbilo, saj sem videla, da posamezniki iščejo ASMR tudi v povezavi s sexom in da so na veliko posnetkih mlada dekleta, ki so delovala zelo senzualno. 
 To se mi sicer ne zdi nič narobe, ampak moje tema je predvsem spanje, lajšanje stresa, zato me je zanimalo ali ASMR res pomaga pri uspavanju in umirjanju.
 Tole sem izvedela o ASMR-ju.
 
