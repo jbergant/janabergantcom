@@ -1,6 +1,6 @@
 ---
 title:  Travma in sproščanje travme
-Metatitle: STravma, PTSD in kako si lahko pomagamo sami
+Metatitle: Travma, PTSD in kako si lahko pomagamo sami
 description: Kaj je ravma in PTSD. Kako se travma odraža v telesu in kako si lahko pomagamo, če sumimo, da imamo posledice travmatičnega dogodka ali serijo travmatičnih dogodkov
 date:   2023-08-29 09:01:35 +0300
 lastmod:   2023-08-29 09:01:35 +0300
