@@ -59,12 +59,27 @@ Tole so dejavnosti, ki mi pomagajo razreševati travmo in ohranjati balans:
 ### Fizična aktivnost in sproščanje endorfinov
 Redna telesna vadba, kot so sprehodi, tek ali plavanje, sprošča endorfine in izboljšujejo vaše razpoloženje. Narava je naravni zdravitelj, sprehod v gozdu ali ob reki pa naravni antidepresiv. Dobra glasba in izraz skozi ples tudi pomaga pri zdravljenju telesa in duše. Pomembno je, da najdeš način gibanja in izražanje, ki ustreza tebi
 
-### Tehnike zavestnosti in meditacije
+### Spanje in meditacije
 Praksa zavestnosti in meditacija lahko pomagata zmanjšati simptome PTSP-ja, tako da te naučita, kako bolje upravljati stres in anksioznost.
 
 Zate sem pripravila posebno meditacijo, ki pomaga ozaveščati potisnjene občutje in jih sprostiti brez nepotrebnega podoživljanja travme. Lahko jo poslušaš na mojem Youtube kanalu ali pa si jo preneseš na telefon.
 
->LINK
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://youtu.be/7i2bf9Ditrs"><img alt="Meditacija za spanje" src="/images/clanki/meditacija-za-spanje-yt.webp"><a>
+  </div>
+  <em><a href="https://youtu.be/7i2bf9Ditrs">Meditacija za umirjanje posledic travme (PTSD)</a></em>
+</div>
+
+Na Youtube kanalu najdeš tudi veliko meditacij, ki pomagajo pri uspavanju in globjem spanju. Spanje je ključnega pomena pri okrevanju od travme in regeneraciji. Osebe, ki so šle čez težke trenutke imajo lahko težave s spanjem. A ravno spanje je tisto, kar najbolj pomaga pri zdravljenju. 
+
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://youtu.be/7i2bf9Ditrs"><img alt="Meditacija za spanje" src="/images/clanki/meditacija-za-spanje-yt.webp"><a>
+  </div>
+  <em><a href="https://youtu.be/7i2bf9Ditrs">Meditacija za spanje</a></em>
+</div>
+
 
 ### Socialna podpora
 Nič ni več vredno kot pravi prijatelj v nesreči. Pravi prijatelj ti ponudi ramo v težkih trenutkih. Bi pa vseeno poudarila, da je za zdravljenje travme pomembno obiskati terapevta, ki je za zdravljenje usposobljen. 
@@ -85,7 +100,7 @@ Dihanje je izredno močno orodje. V bistu je edini način s katerim lahko z urav
 Ker je travma ujeta v telesu se lahko izraža tudi čez zategovanje mišic, zategovanje čeljusti, kronično zakrčenost. Pri sproščanu telesa blagodejno vpliva tehnika progresivnega sproščanja mišic. 
 
 ### Manj je več
-Sem zagovornica minimalizma v smislu, manj je več. Manj stresa, manj navlake, manj nepomembnih stvari. Včasih ne gre, včasih se urnik popolnoma napolni a pomembno je, da znaš reči: NE. Ne, zdaj ne zmorem. Ne, tega nočem. In ne, tega niti ne potrebujem. Pa naj gre za predmete, odnose ali pa bveznosti. Pristop manj je več, blagodejno vpliva na počutje in zmanjša stres.
+Sem zagovornica minimalizma v smislu, manj je več. Manj stresa, manj navlake, manj nepomembnih stvari. Včasih ne gre, včasih se urnik popolnoma napolni a pomembno je, da znaš reči: NE. Ne, zdaj ne zmorem. Ne, tega nočem. In ne, tega niti ne potrebujem. Pa naj gre za predmete, odnose ali pa bveznosti. Pristop manj je več, blagodejno vpliva na počutje in zmanjša stres. Pri odpravljanju posledic travme, je ključno da živčni sistem pride nazaj v ravnovesje, homeostazo, zato razbremenitev v vseh pogledih deluje blagodejno.
 
 ### Kognitivno-vedenjske tehnike, EMDR in zdravila
 Terapevt bo uporabil kognitivno-vedenjske tehnike, ki uporabljajo kognitivno prestrukturiranje in izpostavljanje, in pomagajo spremeniti negativne vzorce mišljenja, ki podpirajo PTSD.
