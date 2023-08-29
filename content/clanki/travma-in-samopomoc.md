@@ -66,9 +66,9 @@ Zate sem pripravila posebno meditacijo, ki pomaga ozaveščati potisnjene občut
 
 <div class="gallery-box">
   <div class="gallery">
-    <a href="https://youtu.be/7i2bf9Ditrs"><img alt="Meditacija za spanje" src="/images/clanki/meditacija-za-spanje-yt.webp"><a>
+    <a href="https://youtu.be/llH7Zcard7U"><img alt="Meditacija za spanje" src="/images/clanki/meditacija-za-lajsanje-travme-yt.webp"><a>
   </div>
-  <em><a href="https://youtu.be/7i2bf9Ditrs">Meditacija za umirjanje posledic travme (PTSD)</a></em>
+  <em><a href="https://youtu.be/llH7Zcard7U">Meditacija za umirjanje posledic travme (PTSD)</a></em>
 </div>
 
 Na Youtube kanalu najdeš tudi veliko meditacij, ki pomagajo pri uspavanju in globjem spanju. Spanje je ključnega pomena pri okrevanju od travme in regeneraciji. Osebe, ki so šle čez težke trenutke imajo lahko težave s spanjem. A ravno spanje je tisto, kar najbolj pomaga pri zdravljenju. 
